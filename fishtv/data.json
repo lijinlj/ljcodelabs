@@ -1,40 +1,5 @@
 [
   {
-    "title": "IPL 1",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",
-    "body": "https://dx4.gcdn.co/UK1302/index.m3u8"
-  },
-  {
-    "title": "IPL 2",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",
-    "body": "http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8"
-  },
-  {
-    "title": "IPL 3",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",
-    "body": "http://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108"
-  },
-  {
-    "title": "IPL 4",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",
-    "body": "http://dx3.gcdn.co/hindi-STARGOLD/index.m3u8"
-  },
-  {
-    "title": "IPL 5",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",
-    "body": "http://getvpn.us/index.php/http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8"
-  },
-  {
-    "title": "IPL 6",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",
-    "body": "http://ipl-live.videobuddy.video/www.freecast123.com_0/index.m3u8?rd=16947108"
-  },
-  {
-    "title": "IPL 7",
-    "image": "https://upload.wikimedia.org/wikipedia/en/4/49/Ipl2020NewLogo.jpg",
-    "body": "https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/4JrVB4rTYQOPuEFeOLGPO-drWcdo8mtHAO0uUJ09WnTzxNzzsGsRKGwJk0j-GCf0cFGnmFiKvx3EkDHZdIvHNw/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live"
-  },
-  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://www.youtube.com/watch?v=zcrUCvBD16k"
@@ -220,19 +185,9 @@
     "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8"
   },
   {
-    "title": "&Flix",
+    "title": "&Flix HD",
     "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
     "body": "http://z5amshls.akamaized.net/andflixhd/playlist.m3u8"
-  },
-  {
-    "title": "Pogo",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
-    "body": "https://ott.bingebd.com/live/ngrp:pogo_all/chunklist.m3u8"
-  },
-  {
-    "title": "Nick HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nick-logo-300x300.jpg",
-    "body": "https://ott.bingebd.com/live/ngrp:nick_hd_all/chunklist.m3u8"
   },
   {
     "title": "Zee Tamil",
