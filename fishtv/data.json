@@ -174,6 +174,72 @@
     "genre": "tv"
   },
   {
+    "title": "Movies Now",
+    "image": "https://www.seekpng.com/png/detail/531-5319699_movies-now-tv-logo.png",
+    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "&Flix HD",
+    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
+    "body": "http://z5amshls.akamaized.net/andflixhd/playlist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Rasi Malayalam",
+    "image": "https://assets.materialup.com/uploads/ee90527a-c1e1-44cf-9d84-232574d63410/preview.jpg",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "MK Six",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mk-six-mk-tv-logo-150x150.jpg",
+    "body": "https://streamitv.multitvsolution.in/idvo/mksix_540p/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "IBC Tamil",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png",
+    "body": "https://ibctamil-live.ibctamil.com/transcode/ibctamil_std.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "IBC Tamil Canada",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png",
+    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "IBC Comedy",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png",
+    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "IBC Music",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",
+    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "IBC Kids",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
+    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "genre": "tv"
+  },
+  {
     "title": "Cartoon Network",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
     "body": "https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8",
@@ -231,42 +297,6 @@
     "title": "Animal Planet",
     "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png",
     "body": "https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8",
-    "genre": "tv"
-  },
-  {
-    "title": "Movies Now",
-    "image": "https://www.seekpng.com/png/detail/531-5319699_movies-now-tv-logo.png",
-    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
-    "genre": "tv"
-  },
-  {
-    "title": "&Flix HD",
-    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "http://z5amshls.akamaized.net/andflixhd/playlist.m3u8",
-    "genre": "tv"
-  },
-  {
-    "title": "Zee Tamil",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
-    "genre": "tv"
-  },
-  {
-    "title": "Zee Thirai",
-    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
-    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
-    "genre": "tv"
-  },
-  {
-    "title": "Rasi Malayalam",
-    "image": "https://assets.materialup.com/uploads/ee90527a-c1e1-44cf-9d84-232574d63410/preview.jpg",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
-    "genre": "tv"
-  },
-  {
-    "title": "MK Six",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mk-six-mk-tv-logo-150x150.jpg",
-    "body": "https://streamitv.multitvsolution.in/idvo/mksix_540p/index.m3u8",
     "genre": "tv"
   },
   {
