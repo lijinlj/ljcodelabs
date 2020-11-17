@@ -300,9 +300,15 @@
     "genre": "tv"
   },
   {
-    "title": "Star Movies HD",
+    "title": "SunTv HD",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "https://mhdtvworld.live/delta/snxt/snxt.php?id=26573&e=.m3u8",
+    "body": "https://bit.ly/36C78e8",
+    "genre": "tv"
+  },
+  {
+    "title": "HBO HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://dino-tv.000webhostapp.com/Demo/index.php?id=1",
     "genre": "tv"
   }
 ]
