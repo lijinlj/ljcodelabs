@@ -300,15 +300,45 @@
     "genre": "tv"
   },
   {
-    "title": "SunTv HD",
+    "title": "HBO",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "https://bit.ly/36C78e8",
+    "body": "https://ott.bingebd.com/live/ngrp:hbo_all/chunklist.m3u8",
     "genre": "tv"
   },
   {
     "title": "HBO HD",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
     "body": "http://dino-tv.000webhostapp.com/Demo/index.php?id=1",
+    "genre": "tv"
+  },
+  {
+    "title": "Cartoon Network",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://ott.bingebd.com/live/ngrp:cartoon_network_all/chunklist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Pogo",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://ott.bingebd.com/live/ngrp:pogo_all/chunklist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Nick HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://ott.bingebd.com/live/ngrp:nick_hd_all/chunklist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Nick Jr",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://ott.bingebd.com/live/ngrp:nick_jr_all/chunklist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Sonic",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://ott.bingebd.com/live/ngrp:sonic_all/chunklist.m3u8",
     "genre": "tv"
   }
 ]
