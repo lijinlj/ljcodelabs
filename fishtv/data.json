@@ -1,23 +1,5 @@
 [
   {
-    "title": "Soorarai Pottru",
-    "image": "https://moviegalleri.net/wp-content/uploads/2020/01/Actor-Suriya-Soorarai-Pottru-Second-Look-Poster-HD-696x1057.jpg",
-    "body": "http://cdn73.vidorg.net/hls/h7todis3amlbu3tf6rudllxb3gytbnkhcpnrmknpo,jqmfbej4lsve4jh5dva,bqmfbej4lszbwezao6a,zqmfbej4ls5sowjnouq,.urlset/master.m3u8",
-    "genre": "movie"
-  },
-  {
-    "title": "Mookuthi Amman",
-    "image": "https://www.filmibeat.com/img/400x80/2020/02/nayanthara-rj-balaji-mookuthi-amman-first-look-1582999782.jpg",
-    "body": "http://cdn87.vidorg.net/hls/h7tocuk2amlbu3tf6rudlnnv2fbl24ai4dztuc3k4,z5sckd352yww7qypnfa,r5sckd352y7rh4fqxga,j5sckd352yrgfelezla,.urlset/master.m3u8",
-    "genre": "movie"
-  },
-  {
-    "title": "Ludo (Tamil)",
-    "image": "https://upload.wikimedia.org/wikipedia/en/a/af/Ludo_film_poster.jpg",
-    "body": "http://cdn14.vidorg.net/hls/h7todjs3amlbu3tf6rudlkxuzpzvo7ycaderi2lbw,2mszfh53zaslqxsmmha,smszfh53za6aguw5gzq,kmszfh53zaz7yqwjqdq,.urlset/master.m3u8",
-    "genre": "movie"
-  },
-  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://www.youtube.com/watch?v=zcrUCvBD16k",
@@ -57,6 +39,24 @@
     "title": "Sony Yay",
     "image": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
     "body": "https://bit.ly/2WmsoNYYaY",
+    "genre": "tv"
+  },
+  {
+    "title": "Star Sports 1",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg",
+    "body": "http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Star Sports 2",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-2-logo.jpg",
+    "body": "http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Star Sports 3",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-3-logo.jpg",
+    "body": "http://dx3.gcdn.co/STARSPORTS3/index.m3u8",
     "genre": "tv"
   },
   {
