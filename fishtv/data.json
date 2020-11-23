@@ -96,18 +96,6 @@
     "genre": "tv"
   },
   {
-    "title": "Surya TV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "http://apis.nahsolutions.in/api2/planet?id=10001",
-    "genre": "tv"
-  },
-  {
-    "title": "Sun TV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
-    "body": "http://apis.nahsolutions.in/api2/planet?id=10003",
-    "genre": "tv"
-  },
-  {
     "title": "Flowers TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
     "body": "https://load.airtelxstream.in/flowerstv/smil:common.smil/index.m3u8",
@@ -315,6 +303,18 @@
     "title": "Star Vijay",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
     "body": "http://www.thdtvworld.online/api/star7.php?id=48006",
+    "genre": "tv"
+  },
+  {
+    "title": "Surya TV HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://apis.nahsolutions.in/api2/planet?id=10001",
+    "genre": "tv"
+  },
+  {
+    "title": "Sun TV HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://apis.nahsolutions.in/api2/planet?id=10003",
     "genre": "tv"
   },
   {
