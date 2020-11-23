@@ -30,18 +30,6 @@
     "genre": "tv"
   },
   {
-    "title": "Sony Pix HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/32sOnypIXhd",
-    "genre": "tv"
-  },
-  {
-    "title": "Sony Yay",
-    "image": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
-    "body": "https://bit.ly/2WmsoNYYaY",
-    "genre": "tv"
-  },
-  {
     "title": "Star Sports 1",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg",
     "body": "http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8",
@@ -54,8 +42,8 @@
     "genre": "tv"
   },
   {
-    "title": "Star Sports 3",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-3-logo.jpg",
+    "title": "Star Sports (Hindi)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-1-hindi-logo.jpg",
     "body": "http://dx3.gcdn.co/STARSPORTS3/index.m3u8",
     "genre": "tv"
   },
@@ -81,6 +69,12 @@
     "title": "Sony Six",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg",
     "body": "https://bit.ly/3j8sIx7sd",
+    "genre": "tv"
+  },
+  {
+    "title": "Sony Pix HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/32sOnypIXhd",
     "genre": "tv"
   },
   {
@@ -237,6 +231,12 @@
     "title": "IBC Kids",
     "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
     "body": "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Sony Yay",
+    "image": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
+    "body": "https://bit.ly/2WmsoNYYaY",
     "genre": "tv"
   },
   {
