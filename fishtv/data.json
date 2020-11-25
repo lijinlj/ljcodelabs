@@ -186,6 +186,12 @@
     "genre": "tv"
   },
   {
+    "title": "HBO",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-logo-300x300.jpg",
+    "body": "https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
+    "genre": "tv"
+  },
+  {
     "title": "Zee Tamil",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
     "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
@@ -246,21 +252,15 @@
     "genre": "tv"
   },
   {
-    "title": "Cartoon Network",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
-    "body": "https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8",
-    "genre": "tv"
-  },
-  {
     "title": "Discovery Kids",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
     "body": "https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8",
     "genre": "tv"
   },
   {
-    "title": "HBO",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-logo-300x300.jpg",
-    "body": "https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
+    "title": "Cartoon Network",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
+    "body": "https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8",
     "genre": "tv"
   },
   {
