@@ -104,7 +104,7 @@
   {
     "title": "Flowers TV HD",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
-    "body": "apis.nahsolutions.in/api2/yupptv?id=12452568",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=12452568",
     "genre": "tv"
   },
   {
