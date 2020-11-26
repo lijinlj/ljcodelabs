@@ -102,9 +102,9 @@
     "genre": "tv"
   },
   {
-    "title": "Flowers TV",
+    "title": "Flowers TV HD",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
-    "body": "https://load.airtelxstream.in/flowerstv/smil:common.smil/index.m3u8",
+    "body": "apis.nahsolutions.in/api2/yupptv?id=12452568",
     "genre": "tv"
   },
   {
