@@ -134,7 +134,7 @@
   {
     "title": "K TV",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-logo-300x300.jpg",
-    "body": "https://load.airtelxstream.in/ktv/smil:common.smil/index.m3u8",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=65148269",
     "genre": "tv"
   },
   {
