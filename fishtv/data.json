@@ -342,9 +342,9 @@
     "genre": "tv"
   },
   {
-    "title": "Nick HD",
+    "title": "Pogo",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "https://ott.bingebd.com/live/ngrp:nick_hd_all/chunklist.m3u8",
+    "body": "http://apis.nahsolutions.in/api2/redbox?id=2193",
     "genre": "tv"
   },
   {
