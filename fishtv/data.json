@@ -146,13 +146,13 @@
   {
     "title": "Kappa TV",
     "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
-    "body": "https://load.airtelxstream.in/kappatv/smil:common.smil/index.m3u8",
+    "body": "https://itvorigin.multitvsolution.com/idvo/kappatv.m3u8",
     "genre": "tv"
   },
   {
     "title": "Kairali TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "https://load.airtelxstream.in/kairalitv/smil:common.smil/index.m3u8",
+    "body": "https://itvorigin.multitvsolution.com/idvo/kairaliarabia.m3u8",
     "genre": "tv"
   },
   {
