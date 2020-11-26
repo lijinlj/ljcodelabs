@@ -108,15 +108,9 @@
     "genre": "tv"
   },
   {
-    "title": "Mazhavil HD",
-    "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
-    "body": "https://load.airtelxstream.in/mazhavilmanoramahd/smil:common.smil/index.m3u8",
-    "genre": "tv"
-  },
-  {
     "title": "Mazhavil Manorama",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
-    "body": "https://load.airtelxstream.in/mazhavilmanorama/smil:common.smil/index.m3u8",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=2579",
     "genre": "tv"
   },
   {
