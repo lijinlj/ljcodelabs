@@ -37,7 +37,7 @@
   },
   {
     "title": "Star Sports 1",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/star-sports-hd-1-logo.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8301-j7hc0820-v1/imageContent-8301-j7hc0820-m1.png",
     "body": "http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8",
     "genre": "tv"
   },
