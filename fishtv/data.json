@@ -96,9 +96,9 @@
     "genre": "tv"
   },
   {
-    "title": "Sun TV",
+    "title": "SunTV HD UK",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
-    "body": "https://load.airtelxstream.in/suntv/smil:common.smil/index.m3u8",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=14862400",
     "genre": "tv"
   },
   {
@@ -122,7 +122,7 @@
   {
     "title": "Sun Music",
     "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
-    "body": "https://load.airtelxstream.in/sunmusic/smil:common.smil/index.m3u8",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=11612337",
     "genre": "tv"
   },
   {
@@ -272,7 +272,7 @@
   {
     "title": "Amrita TV",
     "image": "https://www.pay2easy.com/uploads/4538-amrita_tv.png",
-    "body": "https://load.airtelxstream.in/amritatv/smil:common.smil/index.m3u8",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=53595397",
     "genre": "tv"
   },
   {
@@ -290,7 +290,7 @@
   {
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "https://load.airtelxstream.in/ddmalayalam/smil:common.smil/index.m3u8",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/50ca90ede1dc421ca67fe1392721587f/index.m3u8",
     "genre": "tv"
   },
   {
@@ -303,6 +303,12 @@
     "title": "Animal Planet",
     "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png",
     "body": "https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Star Vijay HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://apis.nahsolutions.in/api2/redbox?id=2881",
     "genre": "tv"
   },
   {
