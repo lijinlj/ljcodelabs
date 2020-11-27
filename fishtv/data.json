@@ -132,7 +132,7 @@
     "genre": "tv"
   },
   {
-    "title": "K TV",
+    "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-logo-300x300.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=65148269",
     "genre": "tv"
@@ -308,13 +308,13 @@
   {
     "title": "Surya TV HD",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "http://apis.nahsolutions.in/api2/planet?id=10001",
+    "body": "https://apis.nahsolutions.in/api2/planet?id=10001",
     "genre": "tv"
   },
   {
     "title": "Sun TV HD",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "http://apis.nahsolutions.in/api2/planet?id=10003",
+    "body": "https://apis.nahsolutions.in/api2/planet?id=10003",
     "genre": "tv"
   },
   {
