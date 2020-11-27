@@ -145,6 +145,12 @@
   },
   {
     "title": "Kairali TV",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=48463657",
+    "genre": "tv"
+  },
+  {
+    "title": "Kairali Arabia",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
     "body": "https://itvorigin.multitvsolution.com/idvo/kairaliarabia.m3u8",
     "genre": "tv"
@@ -152,7 +158,7 @@
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://load.airtelxstream.in/kairaliwe/smil:common.smil/index.m3u8",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=2585",
     "genre": "tv"
   },
   {
