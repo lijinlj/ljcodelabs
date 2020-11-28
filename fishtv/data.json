@@ -204,6 +204,12 @@
     "genre": "tv"
   },
   {
+    "title": "Star Movies",
+    "image": "https://seeklogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg",
+    "body": "http://apis.nahsolutions.in/api2/redbox?id=2676",
+    "genre": "tv"
+  },
+  {
     "title": "Movies Now",
     "image": "https://www.seekpng.com/png/detail/531-5319699_movies-now-tv-logo.png",
     "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
