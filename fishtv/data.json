@@ -84,29 +84,12 @@
     "genre": "tv"
   },
   {
-    "title": "Sony Pix HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/32sOnypIXhd",
-    "genre": "tv"
-  },
-  {
-    "title": "Sony Max",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/32bsOnymAXhd",
-    "genre": "tv"
-  },
-  {
     "title": "Asianet HD",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
     "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=",
     "genre": "tv"
   },
-  {
-    "title": "Asianet",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "http://apis.nahsolutions.in/api2/redbox?id=2891",
-    "genre": "tv"
-  },
+  
   {
     "title": "Asianet SD",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
@@ -174,9 +157,9 @@
     "genre": "tv"
   },
   {
-    "title": "Isaiaruvi",
-    "image": "https://dailypricelist.com/images/tv_programs/isaiyaruvi-tv-logo.jpg",
-    "body": "https://load.airtelxstream.in/isaiaruvi/smil:common.smil/index.m3u8",
+    "title": "Raj Musix",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/raj-musix-malayalam-logo.jpg",
+    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_RAJ_MUSIC-in/index.m3u8?token=",
     "genre": "tv"
   },
   {
@@ -225,6 +208,18 @@
     "title": "Star Vijay HD",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1137/661137-h",
     "body": "http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=",
+    "genre": "tv"
+  },
+  {
+    "title": "Sony Pix HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/32sOnypIXhd",
+    "genre": "tv"
+  },
+  {
+    "title": "Sony Max",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/32bsOnymAXhd",
     "genre": "tv"
   },
   {
@@ -381,6 +376,12 @@
     "title": "Animal Planet",
     "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png",
     "body": "https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Asianet",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://apis.nahsolutions.in/api2/redbox?id=2891",
     "genre": "tv"
   },
   {
