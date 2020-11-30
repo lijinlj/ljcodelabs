@@ -117,7 +117,7 @@
   {
     "title": "Asianet Plus",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/asianet-plus-logo.jpg",
-    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=24502247",
     "genre": "tv"
   },
   {
