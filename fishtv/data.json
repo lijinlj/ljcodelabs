@@ -224,13 +224,13 @@
   {
     "title": "Star Vijay HD",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1137/661137-h",
-    "body": "http://apis.nahsolutions.in/api2/redbox?id=2881",
+    "body": "http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=",
     "genre": "tv"
   },
   {
     "title": "Star Movies",
     "image": "https://seeklogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg",
-    "body": "http://apis.nahsolutions.in/api2/redbox?id=2676",
+    "body": "http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=",
     "genre": "tv"
   },
   {
@@ -267,6 +267,12 @@
     "title": "Rasi Malayalam",
     "image": "https://assets.materialup.com/uploads/ee90527a-c1e1-44cf-9d84-232574d63410/preview.jpg",
     "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Vijay Super",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1137/661137-h",
+    "body": "http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=",
     "genre": "tv"
   },
   {
