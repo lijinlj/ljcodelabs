@@ -169,6 +169,12 @@
     "genre": "tv"
   },
   {
+    "title": "Isaiaruvi",
+    "image": "https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg",
+    "body": "https://m-c049-j2apps.s.llnwi.net/hls/0390.IsaiAruvi.in_360p/index.m3u8",
+    "genre": "tv"
+  },
+  {
     "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-logo-300x300.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=65148269",
@@ -262,6 +268,18 @@
     "title": "Zee Thirai",
     "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
     "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Rasi TV",
+    "image": "https://i.imgur.com/i9ct2MX.png",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
+    "genre": "tv"
+  },
+  {
+    "title": "Rasi Movies",
+    "image": "https://i.imgur.com/vqtHzOL.jpg",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
     "genre": "tv"
   },
   {
