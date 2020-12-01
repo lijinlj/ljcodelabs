@@ -121,6 +121,12 @@
     "genre": "tv"
   },
   {
+    "title": "SunTV HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
+    "body": "http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8",
+    "genre": "tv"
+  },
+  {
     "title": "SunTV HD UK",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=14862400",
