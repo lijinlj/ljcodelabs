@@ -20,7 +20,7 @@
   {
     "title": "Asianet News HD",
     "image": "https://img.theweek.in/content/dam/week/news/india/images/2020/3/7/asianet-news.jpg",
-    "body": "https://www.youtube.com/watch?v=iL53Y28Rp84&ab_channel=asianetnews",
+    "body": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
     "genre": "tv"
   },
   {
@@ -32,13 +32,13 @@
   {
     "title": "Mathrubumi News HD",
     "image": "https://www.mathrubhumi.com/polopoly_fs/1.1464579.1477762119!/image/image.jpg_gen/derivatives/landscape_928/image.jpg",
-    "body": "https://www.youtube.com/watch?v=irF-4N_fHjs",
+    "body": "https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8",
     "genre": "tv"
   },
   {
     "title": "Media One HD",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png",
-    "body": "https://www.youtube.com/watch?v=d1iwUB9YFnA",
+    "body": "https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8",
     "genre": "tv"
   },
   {
