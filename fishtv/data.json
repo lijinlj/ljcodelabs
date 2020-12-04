@@ -68,7 +68,7 @@
   {
     "title": "Sony Ten 1",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
-    "body": "https://dx3.gcdn.co/TEN1HD/index.m3u8",
+    "body": "https://dx3.gcdn.co:443/TEN1HD/tracks-v1/mono.m3u8",
     "genre": "tv"
   },
   {
