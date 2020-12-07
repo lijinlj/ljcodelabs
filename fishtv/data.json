@@ -189,6 +189,20 @@
     "type": "dash"
   },
   {
+    "title": "Zoom",
+    "image": "https://live-tv-channels.org/pt-data/uploads/logo/in-zoom-tv-6677.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=85315555",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "MTV India",
+    "image": "https://cdn.viacom18.com/stg/wp-content/uploads/2020/08/25132107/mtv_india.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=55205650",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
     "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
     "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
