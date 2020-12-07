@@ -149,7 +149,7 @@
   {
     "title": "Sun Music",
     "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
-    "body": "http://corsnowhd.herokuapp.com/http://uk3.zecast.com:1935/star-live/smusic/chunklist_w601757641.m3u8",
+    "body": "http://corsnowhd.herokuapp.com/http://uk3.zecast.com:1935/star-live/smusic/index.m3u8",
     "genre": "tv",
     "type": "hls"
   },
