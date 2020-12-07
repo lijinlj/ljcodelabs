@@ -182,6 +182,13 @@
     "type": "hls"
   },
   {
+    "title": "MTV Beats HD",
+    "image": "https://www.rdcablenet.com/wp-content/uploads/2019/01/MTV-BEATS-HD.jpg",
+    "body": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd",
+    "genre": "tv",
+    "type": "dash"
+  },
+  {
     "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
     "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
