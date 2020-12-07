@@ -84,14 +84,7 @@
     "type": "hls"
   },
   {
-    "title": "Asianet HD",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Asianet SD",
+    "title": "Asianet",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=46177334",
     "genre": "tv",
@@ -157,13 +150,6 @@
     "title": "Mazhavil Manorama",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=2579",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Surya Music",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
-    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls"
   },
@@ -245,13 +231,6 @@
     "type": "hls"
   },
   {
-    "title": "Star Vijay HD",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1137/661137-h",
-    "body": "http://156.146.43.241:2200/R-EX/TAMIL_STAR_VIJAY_HD-in/index.m3u8?token=RED",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
     "title": "Star Vijay",
     "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=45234542879",
@@ -276,13 +255,6 @@
     "title": "Sony Max",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
     "body": "https://bit.ly/32bsOnymAXhd",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Star Movies",
-    "image": "https://seeklogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg",
-    "body": "http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls"
   },
@@ -343,13 +315,6 @@
     "type": "hls"
   },
   {
-    "title": "Vijay Super",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/vijay-super-logo.jpg",
-    "body": "http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
     "title": "MK Six",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mk-six-mk-tv-logo-150x150.jpg",
     "body": "https://streamitv.multitvsolution.in/idvo/mksix_540p/index.m3u8",
@@ -392,13 +357,6 @@
     "type": "hls"
   },
   {
-    "title": "Kochu TV",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/sun-kochu-tv-logo.jpg",
-    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_KOCHU_TV-in/index.m3u8?token=",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
     "title": "Sony Yay",
     "image": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
     "body": "https://bit.ly/2WmsoNYYaY",
@@ -409,13 +367,6 @@
     "title": "Discovery Kids",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
     "body": "https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Pogo (Tamil)",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/turner-pogo-channel-logo.jpg",
-    "body": "http://apis.nahsolutions.in/api2/redbox?id=2193",
     "genre": "tv",
     "type": "hls"
   },
