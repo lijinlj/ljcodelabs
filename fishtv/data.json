@@ -175,6 +175,13 @@
     "type": "hls"
   },
   {
+    "title": "iLove",
+    "image": "https://exchange4media.gumlet.com/news-photo/101183-ilove.jpg",
+    "body": "https://ilove.livebox.co.in/wowinhls/live.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
     "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
     "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
