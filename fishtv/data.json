@@ -2,22 +2,15 @@
   {
     "title": "Ind vs Aus T20",
     "image": "https://images.indianexpress.com/2017/10/livecricketscore.jpg",
-    "body": "http://156.146.43.241:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=",
+    "body": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
     "genre": "tv",
     "type": "hls"
   },
   {
     "title": "Ind vs Aus T20",
     "image": "https://images.indianexpress.com/2017/10/livecricketscore.jpg",
-    "body": "https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8",
+    "body": "http://156.146.43.241:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=",
     "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Biskoth (2020)",
-    "image": "https://www.weekendpopcorn.com/wp-content/uploads/2020/08/Biskoth-Official-Trailer.jpg",
-    "body": "http://cdn64.vidorg.net/hls/h7tocek2amlbu3tf6rudlivuz2hbb4tfcemgyrweu,oqujej7frfwm6ijfi5a,gqujej7frfta5cx77oq,6qujej7frfszmd57t6a,.urlset/master.m3u8",
-    "genre": "movie",
     "type": "hls"
   },
   {
