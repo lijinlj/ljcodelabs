@@ -7,13 +7,6 @@
     "type": "hls"
   },
   {
-    "title": "Ind vs Aus T20",
-    "image": "https://images.indianexpress.com/2017/10/livecricketscore.jpg",
-    "body": "http://156.146.43.241:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
     "title": "Andhaghaaram (2020)",
     "image": "https://miro.medium.com/max/2100/1*msyUjL2fy0-xMjei_hnlWQ.jpeg",
     "body": "http://cdn71.vidorg.net/hls/h7toc222amlbu3tf6rudlo7r2k3jv4mpnm2ng74uh,iglpmtmwmc3sxxro7eq,aglpmtmwmc2lhevcd2a,yglpmtmwmcr46sjotqa,.urlset/master.m3u8",
@@ -423,27 +416,6 @@
     "title": "Animal Planet",
     "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png",
     "body": "https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Star Sports 1",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Star Sports 2",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
-    "body": "https://ccntv.anytv.live/starsp2/index.m3u8",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "Star Sports (Hindi)",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h",
-    "body": "http://dx3.gcdn.co/STARSPORTS3/index.m3u8",
     "genre": "tv",
     "type": "hls"
   },
