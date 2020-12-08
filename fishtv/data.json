@@ -9,6 +9,13 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
+    "body": "https://www.youtube.com/watch?v=zcrUCvBD16k",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "24 News HD",
+    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
     "genre": "tv",
     "type": "hls"
