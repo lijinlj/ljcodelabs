@@ -9,13 +9,6 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://www.youtube.com/watch?v=zcrUCvBD16k",
-    "genre": "tv",
-    "type": "hls"
-  },
-  {
-    "title": "24 News HD",
-    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
     "genre": "tv",
     "type": "hls"
@@ -497,10 +490,17 @@
     "type": "mp4"
   },
   {
-    "title": "Star Sports 1 HD dash",
+    "title": "24 News HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://www.youtube.com/watch?v=zcrUCvBD16k",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Sports 1 HD",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
     "body": "http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=",
     "genre": "tv",
-    "type": "dash"
+    "type": "hls"
   }
 ]
