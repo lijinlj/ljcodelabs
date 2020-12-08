@@ -49,6 +49,20 @@
     "type": "hls"
   },
   {
+    "title": "Star Sports 2 HD",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
+    "body": "http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Sports 2",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
+    "body": "https://ccntv.anytv.live/starsp2/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
     "title": "Sony Ten 1",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
     "body": "https://bit.ly/2B9tEN1hd",
