@@ -37,7 +37,7 @@
   {
     "title": "Mathrubumi News HD",
     "image": "https://www.mathrubhumi.com/polopoly_fs/1.1464579.1477762119!/image/image.jpg_gen/derivatives/landscape_928/image.jpg",
-    "body": "https://bcovlive-a.akamaihd.net/5ec61af321c9463ea0e4d2e05462df66/ap-south-1/5742227023001/profile_0/chunklist_dvr.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/irF-4N_fHjs/",
     "genre": "tv",
     "type": "hls"
   },
