@@ -9,7 +9,7 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "http://103.199.160.85/Content/24news/Live/Channel(24news)/index.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/zcrUCvBD16k/",
     "genre": "tv",
     "type": "hls"
   },
