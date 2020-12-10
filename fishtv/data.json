@@ -107,7 +107,7 @@
   {
     "title": "Asianet HD",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token",
+    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=RED",
     "genre": "tv",
     "type": "hls"
   },
@@ -163,7 +163,7 @@
   {
     "title": "Flowers",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
-    "body": "156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=",
+    "body": "156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=RED",
     "genre": "tv",
     "type": "hls"
   },
