@@ -7,6 +7,13 @@
     "type": "hls"
   },
   {
+    "title": "Aniyathipravu (2004)",
+    "image": "http://2.bp.blogspot.com/_UNgq7Oo1PnU/TIiRIUjMJbI/AAAAAAAADHU/XekrAdwclXw/s1600/mzya099.jpg",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/q0pp4F8rp9s/",
+    "genre": "movie",
+    "type": "mp4"
+  },
+  {
     "title": "Vettam (2004)",
     "image": "https://images-na.ssl-images-amazon.com/images/S/sgp-catalog-images/region_US/iimcy-J7JZMHPQ4MX-Full-Image_GalleryBackground-en-US-1567373524437._RI_.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/T0hihSfMXg0/",
