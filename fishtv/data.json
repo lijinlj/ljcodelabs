@@ -564,6 +564,13 @@
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
     "body": "http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=",
     "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Surya HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26574",
+    "genre": "tv",
     "type": "web"
   }
 ]
