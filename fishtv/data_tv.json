@@ -504,6 +504,14 @@
     "status": "online"
   },
   {
+    "title": "Chutti TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-chutti-tv-logo-300x300.jpg",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26567",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
     "title": "Sony Yay",
     "image": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
     "body": "https://bit.ly/2WmsoNYYaY",
@@ -590,14 +598,6 @@
     "genre": "tv",
     "type": "hls",
     "status": "offline"
-  },
-  {
-    "title": "Chutti TV",
-    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26567",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
   },
   {
     "title": "Surya TV HD",
