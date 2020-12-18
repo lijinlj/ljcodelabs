@@ -35,13 +35,6 @@
     "type": "hls"
   },
   {
-    "title": "Surya HD",
-    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26574",
-    "genre": "tv",
-    "type": "web"
-  },
-  {
     "title": "Asianet News HD",
     "image": "https://img.theweek.in/content/dam/week/news/india/images/2020/3/7/asianet-news.jpg",
     "body": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
@@ -147,6 +140,13 @@
     "type": "hls"
   },
   {
+    "title": "Surya HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26574",
+    "genre": "tv",
+    "type": "web"
+  },
+  {
     "title": "Asianet Movies",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet_movies.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=69659900",
@@ -166,6 +166,13 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=24502247",
     "genre": "tv",
     "type": "hls"
+  },
+  {
+    "title": "Surya Comedy",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/surya-comedy-logo.jpg",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=30835",
+    "genre": "tv",
+    "type": "web"
   },
   {
     "title": "SunTV HD",
