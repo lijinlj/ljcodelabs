@@ -1,0 +1,555 @@
+[
+  {
+    "title": "24 News HD",
+    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/zcrUCvBD16k/",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Asianet News HD",
+    "image": "https://img.theweek.in/content/dam/week/news/india/images/2020/3/7/asianet-news.jpg",
+    "body": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Manorama News HD",
+    "image": "https://i.ytimg.com/vi/SokLD_NbOgg/maxresdefault.jpg",
+    "body": "https://bcovlive-a.akamaihd.net/4850ad1bd94445bfb4fa94732383dead/ap-southeast-1/5574321162001/4aa9851782f946b3a4b894f33096d044/playlist_ssaiM.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Mathrubumi News HD",
+    "image": "https://www.mathrubhumi.com/polopoly_fs/1.1464579.1477762119!/image/image.jpg_gen/derivatives/landscape_928/image.jpg",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/irF-4N_fHjs/",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Media One HD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png",
+    "body": "https://vidcdn.vidgyor.com/mediaone-origin/liveabr/mediaone-origin/live1/chunks.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Sports 1 HD",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
+    "body": "http://dx3.gcdn.co/STARSPORTSHD1/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Sports 2 HD",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
+    "body": "http://dx3.gcdn.co/STARSPORTSHD2/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Sports 2",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
+    "body": "https://ccntv.anytv.live/starsp2/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Sports (Hindi)",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h",
+    "body": "http://dx3.gcdn.co/STARSPORTS3/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sony Ten 1",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/2B9tEN1hd",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sony Ten 2",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/2DOtEN2hd",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sony Ten 3",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/2OwtEn3hd",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sony Six",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/3j8sIx7sd",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Asianet HD",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
+    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=RED",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Asianet",
+    "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=46177334",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Surya TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=38701718",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Surya HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26574",
+    "genre": "tv",
+    "type": "web"
+  },
+  {
+    "title": "Asianet Movies",
+    "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet_movies.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=69659900",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Surya Movies",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=48448454",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Asianet Plus",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-plus-logo-300x300.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=24502247",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Surya Comedy",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=30835",
+    "genre": "tv",
+    "type": "web"
+  },
+  {
+    "title": "SunTV HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
+    "body": "http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "SunTV HD UK",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=14862400",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Flowers",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
+    "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=RED",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Flowers HD",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=12452568",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Mazhavil HD",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
+    "body": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Mazhavil Manorama",
+    "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=2579",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sun Music HD",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "http://corsnowhd.herokuapp.com/http://uk3.zecast.com:1935/star-live/smusic/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sun Music",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=154",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sun Music HD UK",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=33903068",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Raj Musix",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/raj-musix-malayalam-logo.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=91188862",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Metro Malayalam",
+    "image": "https://pbs.twimg.com/profile_images/1093603472832909313/4C5JJAfF_400x400.jpg",
+    "body": "https://j78dp37jyq5r-hls-live.5centscdn.com/metromalayalam/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Isaiaruvi",
+    "image": "https://j2apps.s.llnwi.net/isa1/pic/0390.IsaiAruvi.in/en/1x1/208x208/test_pic1552384764086.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=37400463",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "iLove",
+    "image": "https://exchange4media.gumlet.com/news-photo/101183-ilove.jpg",
+    "body": "https://ilove.livebox.co.in/wowinhls/live.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "MTV Beats HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-logo-300x300.jpg",
+    "body": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd",
+    "genre": "tv",
+    "type": "dash"
+  },
+  {
+    "title": "Zoom",
+    "image": "https://live-tv-channels.org/pt-data/uploads/logo/in-zoom-tv-6677.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=85315555",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "MTV India",
+    "image": "https://cdn.viacom18.com/stg/wp-content/uploads/2020/08/25132107/mtv_india.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=55205650",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "KTV HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Kappa TV",
+    "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
+    "body": "https://itvorigin.multitvsolution.com/idvo/kappatv.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Kairali TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=48463657",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Kairali Arabia",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "https://itvorigin.multitvsolution.com/idvo/kairaliarabia.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Kairali WE",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=2585",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Zee Cinema HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
+    "body": "http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Zee Keralam HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
+    "body": "http://z5amshls.akamaized.net/livingfoodzhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Vijay",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=45234542879",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sirippoli",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/kalaignar-sirippoli-logo-300x300.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=51554278",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sony Pix HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/32sOnypIXhd",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sony Max",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/32bsOnymAXhd",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Movies Now",
+    "image": "https://www.seekpng.com/png/detail/531-5319699_movies-now-tv-logo.png",
+    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "&Flix HD",
+    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
+    "body": "http://z5amshls.akamaized.net/andflixhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "HBO",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-logo-300x300.jpg",
+    "body": "https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Rasi TV",
+    "image": "https://i.imgur.com/i9ct2MX.png",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Rasi Movies",
+    "image": "https://i.imgur.com/vqtHzOL.jpg",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Rasi Malayalam",
+    "image": "https://assets.materialup.com/uploads/ee90527a-c1e1-44cf-9d84-232574d63410/preview.jpg",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "MK Six",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-150/mk-six-mk-tv-logo-150x150.jpg",
+    "body": "https://streamitv.multitvsolution.in/idvo/mksix_540p/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "IBC Tamil",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-tamil-white.png",
+    "body": "https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "IBC Tamil Canada",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-canada.png",
+    "body": "https://ibctamilcanada-origin.ibctamil.com/transcode/ibccanada.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "IBC Comedy",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-pagadi.png",
+    "body": "https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "IBC Music",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",
+    "body": "https://ibcmusic-live.ibctamil.com/transcode/music.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "IBC Kids",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
+    "body": "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sony Yay",
+    "image": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
+    "body": "https://bit.ly/2WmsoNYYaY",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Discovery Kids",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
+    "body": "https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Cartoon Network",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
+    "body": "https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Safari TV",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png",
+    "body": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Amrita TV",
+    "image": "https://www.pay2easy.com/uploads/4538-amrita_tv.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=53595397",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Kite-Victers",
+    "image": "https://dreamdth.com/wp-content/uploads/2020/05/Kite-Victers-1024x1024.jpg",
+    "body": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Kaumudi TV",
+    "image": "https://pbs.twimg.com/profile_images/717237366633541632/-akjDlPH_400x400.jpg",
+    "body": "http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "DD Malayalam",
+    "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/50ca90ede1dc421ca67fe1392721587f/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Discovery HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-channel-logo-300x300.jpg",
+    "body": "https://streamitv.multitvsolution.in/idvo/discoveryhd_540p/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Animal Planet",
+    "image": "https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/animal-planet-hd-large-new.png",
+    "body": "https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Asianet",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://apis.nahsolutions.in/api2/redbox?id=2891",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Chutti TV",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26567",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Surya TV HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "apis.nahsolutions.in/api2/planet?id=10001",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Sun Music HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://www.thdtvworld.online/api/sun.php?id=9013",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Test GD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://drive.google.com/uc?export=download&id=1rRkn3fcciogdzD2JPUgG19YlrcqeFZ-G",
+    "genre": "tv",
+    "type": "mp4"
+  },
+  {
+    "title": "24 News HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "https://www.youtube.com/watch?v=zcrUCvBD16k",
+    "genre": "tv",
+    "type": "hls"
+  },
+  {
+    "title": "Star Sports 1 HD",
+    "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
+    "body": "http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_ENGLISH_HD-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls"
+  }
+]
