@@ -352,6 +352,14 @@
     "status": "online"
   },
   {
+    "title": "Star Vijay HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
+    "body": "http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Star Vijay",
     "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=45234542879",
