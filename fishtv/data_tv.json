@@ -1,33 +1,5 @@
 [
   {
-    "title": "Triples (2020)(S1)",
-    "image": "https://images.firstpost.com/wp-content/uploads/2020/12/Triples-640.jpg",
-    "body": "http://cdn58.vidorg.net/hls/h7todqc2amlbu3tf6rudl5xd3fqc7porftllrqb4q,6ta3hucolhcp7v24zba,wta3hucolhjelqvyoaa,ota3hucolhcux2nwjqa,.urlset/master.m3u8",
-    "genre": "movie",
-    "type": "hls"
-  },
-  {
-    "title": "Thilakkam (2003)",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Thilakkam.jpg/220px-Thilakkam.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/8CeDufYausA/",
-    "genre": "movie",
-    "type": "mp4"
-  },
-  {
-    "title": "My Boss(2012)",
-    "image": "http://4.bp.blogspot.com/-7P2gcmnV-bw/U7jSEv5-loI/AAAAAAAABLc/wfVE4XMathM/s1600/My-Boss-Malayalam-Movie-Poster-5.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/CGDWcsqSngg/",
-    "genre": "movie",
-    "type": "mp4"
-  },
-  {
-    "title": "One Man Show (2001)",
-    "image": "http://onlookersmedia.in/wp-content/uploads/2017/09/director-shafi-hit-movie-list-16-1024x399.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/tbtMIxzDrUI/",
-    "genre": "movie",
-    "type": "mp4"
-  },
-  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/zcrUCvBD16k/",
