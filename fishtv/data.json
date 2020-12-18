@@ -162,14 +162,14 @@
   },
   {
     "title": "Asianet Plus",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/asianet-plus-logo.jpg",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-plus-logo-300x300.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=24502247",
     "genre": "tv",
     "type": "hls"
   },
   {
     "title": "Surya Comedy",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/surya-comedy-logo.jpg",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
     "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=30835",
     "genre": "tv",
     "type": "web"
@@ -267,7 +267,7 @@
   },
   {
     "title": "MTV Beats HD",
-    "image": "https://www.rdcablenet.com/wp-content/uploads/2019/01/MTV-BEATS-HD.jpg",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-logo-300x300.jpg",
     "body": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd",
     "genre": "tv",
     "type": "dash"
