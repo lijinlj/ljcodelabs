@@ -4,7 +4,8 @@
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/zcrUCvBD16k/",
     "genre": "tv",
-    "type": "hls"
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Asianet News HD",
