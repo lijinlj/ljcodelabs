@@ -232,6 +232,14 @@
     "status": "online"
   },
   {
+    "title": "Surya Music",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Sun Music HD",
     "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
     "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=9013",
@@ -265,7 +273,7 @@
   },
   {
     "title": "Raj Musix",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-100/raj-musix-malayalam-logo.jpg",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/raj-musix-malayalam-logo-300x300.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=91188862",
     "genre": "tv",
     "type": "hls",
