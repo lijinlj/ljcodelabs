@@ -141,7 +141,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=69659900",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Movies",
@@ -165,7 +165,7 @@
     "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=30835",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "SunTV HD",
@@ -189,7 +189,7 @@
     "body": "http://156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=RED",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers HD",
@@ -197,7 +197,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=12452568",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Mazhavil HD",
@@ -218,10 +218,18 @@
   {
     "title": "Sun Music HD",
     "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=9013",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Sun Music HD",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
     "body": "http://corsnowhd.herokuapp.com/http://uk3.zecast.com:1935/star-live/smusic/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music",
@@ -632,12 +640,12 @@
     "status": "offline"
   },
   {
-    "title": "24 News HD",
+    "title": "Asianet Movies",
     "image": "https://cpmr-islands.org/wp-content/uploads/sites/4/2019/07/Test-Logo-Small-Black-transparent-1.png",
-    "body": "https://www.youtube.com/watch?v=zcrUCvBD16k",
+    "body": "https://mhdtvworld.xyz/live/asianet-movies/",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
   },
   {
     "title": "Star Sports 1 HD",
