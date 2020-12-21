@@ -416,6 +416,14 @@
     "status": "online"
   },
   {
+    "title": "Star Movies Select HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Sony Pix HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
     "body": "https://bit.ly/32sOnypIXhd",
