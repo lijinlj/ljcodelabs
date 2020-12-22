@@ -448,9 +448,17 @@
     "status": "online"
   },
   {
-    "title": "Star Movies",
+    "title": "Star Movies HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
     "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Movies",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
