@@ -42,10 +42,18 @@
   {
     "title": "Star Sports 1 HD",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=",
+    "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
+  },
+  {
+    "title": "Star Sports 1 HD",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
   },
   {
     "title": "Star Sports 1 HD",
@@ -440,6 +448,14 @@
     "status": "online"
   },
   {
+    "title": "Star Movies",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Sony Max",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
     "body": "https://bit.ly/32bsOnymAXhd",
@@ -453,7 +469,7 @@
     "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "&Flix HD",
