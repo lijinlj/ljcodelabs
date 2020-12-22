@@ -226,10 +226,18 @@
   {
     "title": "Flowers TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
-    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
+  },
+  {
+    "title": "Flowers TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
   },
   {
     "title": "Flowers",
