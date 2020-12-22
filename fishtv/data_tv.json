@@ -344,6 +344,14 @@
     "status": "online"
   },
   {
+    "title": "IBC Music",
+    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",
+    "body": "https://ibcmusic-live.ibctamil.com/transcode/music.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "iLove",
     "image": "https://exchange4media.gumlet.com/news-photo/101183-ilove.jpg",
     "body": "https://ilove.livebox.co.in/wowinhls/live.m3u8",
@@ -589,7 +597,7 @@
     "body": "https://ibctamil-live.ibctamil.com/transcode/ibctamil.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IBC Tamil Canada",
@@ -597,7 +605,7 @@
     "body": "https://ibctamilcanada-origin.ibctamil.com/transcode/ibccanada.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IBC Comedy",
@@ -605,15 +613,7 @@
     "body": "https://ibccomedy-live.ibctamil.com/transcode/ibccomedy.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "IBC Music",
-    "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-music.png",
-    "body": "https://ibcmusic-live.ibctamil.com/transcode/music.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IBC Kids",
