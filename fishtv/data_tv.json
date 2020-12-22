@@ -256,6 +256,14 @@
     "status": "offline"
   },
   {
+    "title": "Mazhavil Manorama HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Mazhavil HD",
     "image": "https://upload.wikimedia.org/wikipedia/en/6/60/Mazhavil-Manorama.jpg",
     "body": "http://103.199.161.254/Content/mazhavil/Live/Channel(Mazhavil)/index.m3u8",
