@@ -133,7 +133,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=46177334",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV",
@@ -141,7 +141,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=38701718",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV (S2)",
@@ -197,7 +197,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=48448454",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Movies (S2)",
@@ -213,7 +213,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=24502247",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Comedy",
@@ -245,7 +245,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=14862400",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers TV",
@@ -301,7 +301,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=2579",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Music",
@@ -349,7 +349,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=154",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD UK",
@@ -365,7 +365,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=91188862",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Metro Malayalam",
@@ -381,7 +381,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=37400463",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IBC Music",
@@ -413,7 +413,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=85315555",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "MTV India",
@@ -421,7 +421,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=55205650",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Dil se",
@@ -453,7 +453,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=48463657",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali TV (S2)",
@@ -477,7 +477,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=2585",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Zee Cinema HD",
@@ -509,7 +509,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=45234542879",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sirippoli",
@@ -517,7 +517,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=51554278",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Movies Select HD",
