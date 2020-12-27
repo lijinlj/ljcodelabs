@@ -208,6 +208,14 @@
     "status": "online"
   },
   {
+    "title": "Surya Movies (S3)",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "http://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=9019",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
     "title": "Asianet Plus",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-plus-logo-300x300.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=24502247",
