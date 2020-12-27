@@ -357,7 +357,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=33903068",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Raj Musix",
@@ -499,6 +499,14 @@
     "title": "Star Vijay HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
     "body": "http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Vijay",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
