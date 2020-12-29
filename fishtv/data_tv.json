@@ -165,7 +165,7 @@
     "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26574",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -349,7 +349,7 @@
     "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=9013",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD",
@@ -626,10 +626,18 @@
   {
     "title": "Zee Tamil",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
     "status": "online"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
   },
   {
     "title": "Zee Thirai",
@@ -637,7 +645,7 @@
     "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Rasi TV",
@@ -725,7 +733,7 @@
     "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=26567",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Yay",
