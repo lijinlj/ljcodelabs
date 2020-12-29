@@ -5,7 +5,7 @@
     "body": "http://cdn77.vidorg.net/hls/h7tod422amlbu3tf6rudl67czvtwl5lnq5jafpkgp,rz4t2jx54fdazbtzvwq,zz4t2jx54fhoiocpdwq,bz4t2jx54fank4hyivq,.urlset/master.m3u8",
     "genre": "movie",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kuberan (2002)",
@@ -21,7 +21,7 @@
     "body": "http://cdn74.vidorg.net/hls/h7todyk2amlbu3tf6rudl6x733az5awc32xddb6tn,x722pddrw2ychq7uknq,7722pddrw2vcpfwso3q,h722pddrw2zdb3jatdq,.urlset/master.m3u8",
     "genre": "movie",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Triples (2020)(S1)",
