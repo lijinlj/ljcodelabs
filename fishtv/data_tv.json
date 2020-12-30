@@ -650,6 +650,14 @@
   {
     "title": "Zee Thirai",
     "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/JW_Player_Plus_Embed.php?url=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
     "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
     "genre": "tv",
     "type": "hls",
