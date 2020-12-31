@@ -2,7 +2,7 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/zcrUCvBD16k/",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=zcrUCvBD16k",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -26,7 +26,7 @@
   {
     "title": "Mathrubumi News HD",
     "image": "https://www.mathrubhumi.com/polopoly_fs/1.1464579.1477762119!/image/image.jpg_gen/derivatives/landscape_928/image.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/irF-4N_fHjs/",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=irF-4N_fHjs",
     "genre": "tv",
     "type": "hls",
     "status": "online"
