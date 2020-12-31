@@ -26,7 +26,7 @@
   {
     "title": "Kuberan (2002)",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Kuberan_%282002_film%29.jpg/220px-Kuberan_%282002_film%29.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/oXx6w7csGeQ/",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=oXx6w7csGeQ",
     "genre": "movie",
     "type": "mp4",
     "status": "online"
@@ -50,7 +50,7 @@
   {
     "title": "Thilakkam (2003)",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/06/Thilakkam.jpg/220px-Thilakkam.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/8CeDufYausA/",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=8CeDufYausA",
     "genre": "movie",
     "type": "mp4",
     "status": "online"
@@ -58,7 +58,7 @@
   {
     "title": "My Boss(2012)",
     "image": "http://4.bp.blogspot.com/-7P2gcmnV-bw/U7jSEv5-loI/AAAAAAAABLc/wfVE4XMathM/s1600/My-Boss-Malayalam-Movie-Poster-5.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/CGDWcsqSngg/",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=CGDWcsqSngg",
     "genre": "movie",
     "type": "mp4",
     "status": "online"
@@ -66,7 +66,7 @@
   {
     "title": "One Man Show (2001)",
     "image": "http://onlookersmedia.in/wp-content/uploads/2017/09/director-shafi-hit-movie-list-16-1024x399.jpg",
-    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/tbtMIxzDrUI/",
+    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=tbtMIxzDrUI",
     "genre": "movie",
     "type": "mp4",
     "status": "online"
