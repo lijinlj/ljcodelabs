@@ -650,6 +650,14 @@
   {
     "title": "Zee Thirai",
     "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "http://fishtv-server.herokuapp.com/sun_server/zee/?s=https://mhdtvworld.xyz/live/zee-thirai/",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
     "body": "https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Clappr_Player_Plus.php?url=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
     "genre": "tv",
     "type": "web",
