@@ -648,12 +648,20 @@
     "status": "offline"
   },
   {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://pakkatv.tk/Wp/zeethi30.php?c=.m3u8",
+    "genre": "tv",
+    "type": "http",
+    "status": "online"
+  },
+  {
     "title": "Zee Thirai T",
     "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
     "body": "https://fishtv-server.herokuapp.com/sun_server/zee/?s=https://mhdtvworld.xyz/live/zee-thirai/",
     "genre": "tv",
     "type": "http",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Zee Thirai",
