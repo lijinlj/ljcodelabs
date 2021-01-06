@@ -764,7 +764,7 @@
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-kochu-tv-logo-300x300.jpg",
     "body": "http://182.176.93.225:8000/play/a01p",
     "genre": "tv",
-    "type": "hls",
+    "type": "http",
     "status": "online"
   },
   {
