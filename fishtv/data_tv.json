@@ -761,11 +761,11 @@
   },
   {
     "title": "Pogo",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-kochu-tv-logo-300x300.jpg",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
     "body": "http://182.176.93.225:8000/play/a01p",
     "genre": "tv",
     "type": "dash",
-    "status": "online"
+    "status": "offine"
   },
   {
     "title": "Chutti TV",
