@@ -5,15 +5,15 @@
     "body": "http://cdn22.vidorg.net/hls/h7todck2amlbu3tf6rudljxrztwogpr2e6a2hocen,7rxaxmwlvorypu7kknq,xrxaxmwlvo7f6qbtnia,prxaxmwlvo2mfsufhyq,.urlset/master.m3u8",
     "genre": "movie",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Bicycle Thieves (2013)",
-    "image": "https://www.thehollywoodnews.com/wp-content/uploads/ww1984-1024x1024.jpeg",
-    "body": "https://drive.google.com/uc?export=download&id=10PhKPcbYhhiahMghY3pYhrsTMVbob9Ao",
+    "image": "https://www.nowrunning.com/content/movie/2013/BicycleThieves/bg.jpg",
+    "body": "http://telegram.files2linkbot.gq/1376386965379116/Bicycle.mkv",
     "genre": "movie",
     "type": "mp4",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Bhoomiyile Manohara Swakaryam (2020)",
