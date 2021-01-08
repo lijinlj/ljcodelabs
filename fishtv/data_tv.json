@@ -660,8 +660,8 @@
     "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
     "body": "https://fishtv-server.herokuapp.com/sun_server/zee/?s=https://mhdtvworld.xyz/live/zee-thirai/",
     "genre": "tv",
-    "type": "http",
-    "status": "offline"
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Zee Thirai",
