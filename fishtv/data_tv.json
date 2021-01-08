@@ -764,8 +764,8 @@
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
     "body": "http://182.176.93.225:8000/play/a01p",
     "genre": "tv",
-    "type": "dash",
-    "status": "offine"
+    "type": "mp4",
+    "status": "onine"
   },
   {
     "title": "Chutti TV",
