@@ -2,7 +2,7 @@
   {
     "title": "Bicycle Thieves (2013)",
     "image": "https://www.nowrunning.com/content/movie/2013/BicycleThieves/bg.jpg",
-    "body": [{"1": "one", "2": "two"}],
+    "body": [1,2],
     "genre": "show",
     "type": "mp4",
     "status": "online"
