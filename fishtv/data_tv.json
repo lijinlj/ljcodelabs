@@ -144,6 +144,14 @@
     "status": "offline"
   },
   {
+    "title": "Surya TV (S1)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-logo-300x300.jpg",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryatv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Surya TV (S2)",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryahd/playlist.m3u8",
