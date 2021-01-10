@@ -80,6 +80,14 @@
     "status": "offline"
   },
   {
+    "title": "Star Sports 2",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
+    "body": "https://mhdtvworld.live:443/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Star Sports (Hindi)",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h",
     "body": "http://dx3.gcdn.co/STARSPORTS3/index.m3u8",
