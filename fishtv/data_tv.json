@@ -674,6 +674,14 @@
   {
     "title": "Zee Tamil",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
     "body": "https://pakkatv.tk/Wp/zeetam30.php?c=.m3u8",
     "genre": "tv",
     "type": "hls",
