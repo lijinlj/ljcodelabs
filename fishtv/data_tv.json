@@ -138,6 +138,14 @@
   {
     "title": "Asianet",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianettv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Asianet",
+    "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=46177334",
     "genre": "tv",
     "type": "hls",
