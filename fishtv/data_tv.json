@@ -562,10 +562,18 @@
   {
     "title": "Star Vijay",
     "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
-    "body": "http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
+    "body": "http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/5545",
     "genre": "tv",
     "type": "hls",
     "status": "online"
+  },
+  {
+    "title": "Star Vijay",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
   },
   {
     "title": "Star Vijay",
@@ -589,7 +597,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Pix HD",
@@ -602,10 +610,18 @@
   {
     "title": "Star Movies HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/3981",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "online"
+  },
+  {
+    "title": "Star Movies HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
     "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Movies",
@@ -613,7 +629,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Max",
