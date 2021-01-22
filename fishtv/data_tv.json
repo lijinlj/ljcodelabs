@@ -53,7 +53,7 @@
     "body": "http://45.127.244.7:8080/hls/channel7.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Sports 1 HD",
@@ -93,7 +93,7 @@
     "body": "https://mhdtvworld.live:443/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Sports (Hindi)",
@@ -141,7 +141,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet",
@@ -149,7 +149,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianettv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet",
@@ -173,7 +173,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryatv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV (S2)",
@@ -181,7 +181,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV (S3)",
@@ -189,7 +189,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya HD",
@@ -205,7 +205,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianetmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -237,7 +237,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Movies (S3)",
@@ -253,7 +253,7 @@
     "body": "http://rv.imax.re/307203611073/307203611073/83883",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Plus",
@@ -261,7 +261,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Plus (S2)",
@@ -269,7 +269,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianetplus/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Comedy",
@@ -277,7 +277,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Comedy",
@@ -309,7 +309,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers TV",
@@ -317,7 +317,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers",
@@ -341,7 +341,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Mazhavil HD",
@@ -365,7 +365,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryamusic/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Music",
@@ -373,7 +373,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD",
@@ -381,7 +381,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/sunmusichd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD (S2)",
@@ -390,6 +390,14 @@
     "genre": "tv",
     "type": "web",
     "status": "offline"
+  },
+  {
+    "title": "Sun Music HD",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Sun Music HD",
@@ -533,7 +541,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairalitv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali Arabia",
@@ -586,10 +594,10 @@
   {
     "title": "Star Vijay",
     "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
-    "body": "http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/5545",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
     "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Star Vijay",
