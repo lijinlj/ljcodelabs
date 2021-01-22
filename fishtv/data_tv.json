@@ -712,6 +712,14 @@
     "status": "offline"
   },
   {
+    "title": "&Flix HD",
+    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "HBO",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-logo-300x300.jpg",
     "body": "https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
@@ -821,7 +829,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "MK Six",
@@ -869,7 +877,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Pogo",
@@ -917,6 +925,14 @@
     "body": "http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/5642",
     "genre": "tv",
     "type": "mp4",
+    "status": "offline"
+  },
+  {
+    "title": "Zee5 Kids",
+    "image": "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-9-290/channel_list/1170x658_zee5kid_983708240.png",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-290",
+    "genre": "tv",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -941,7 +957,7 @@
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=53595397",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kite-Victers",
@@ -963,6 +979,14 @@
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
     "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/50ca90ede1dc421ca67fe1392721587f/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "DD Malayalam",
+    "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-ddmalayalam",
     "genre": "tv",
     "type": "hls",
     "status": "online"
