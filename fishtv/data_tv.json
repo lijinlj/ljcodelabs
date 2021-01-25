@@ -5,7 +5,7 @@
     "body": "http://zer0live.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "24 News HD",
@@ -14,6 +14,14 @@
     "genre": "tv",
     "type": "hls",
     "status": "online"
+  },
+  {
+    "title": "24 News HD",
+    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
+    "body": "http://138.68.110.84:3000/other?url=https://www.youtube.com/watch?v=zcrUCvBD16k",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
   },
   {
     "title": "Asianet News HD",
