@@ -152,6 +152,14 @@
     "status": "online"
   },
   {
+    "title": "Asianet (L)",
+    "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/asianettv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Asianet HD",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=",
@@ -174,6 +182,14 @@
     "genre": "tv",
     "type": "hls",
     "status": "offline"
+  },
+  {
+    "title": "Surya TV (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Surya TV",
