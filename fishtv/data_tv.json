@@ -145,7 +145,7 @@
   },
   {
     "title": "Asianet (L)",
-    "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-logo-300x300.jpg",
     "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/asianettv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -224,6 +224,14 @@
     "status": "offline"
   },
   {
+    "title": "Asianet Movies (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-movies-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/asianetmovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Asianet Movies",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet_movies.jpg",
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianetmovies/playlist.m3u8",
@@ -248,6 +256,14 @@
     "status": "offline"
   },
   {
+    "title": "Surya Movies (L)",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/suryamovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Surya Movies",
     "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
     "body": "https://apis.nahsolutions.in/api2/yupptv?id=48448454",
@@ -269,6 +285,14 @@
     "body": "https://mhdtvworld.xyz/delta/sunnxt/getplay.php?c=9019",
     "genre": "tv",
     "type": "web",
+    "status": "offline"
+  },
+  {
+    "title": "Asianet Plus (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-plus-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/asianetplus/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
     "status": "offline"
   },
   {
@@ -296,6 +320,14 @@
     "status": "offline"
   },
   {
+    "title": "Surya Comedy (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/suryacomedy/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Surya Comedy",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
@@ -312,6 +344,14 @@
     "status": "offline"
   },
   {
+    "title": "SunTV HD (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/suntvhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "SunTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
     "body": "http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8",
@@ -326,6 +366,14 @@
     "genre": "tv",
     "type": "hls",
     "status": "offline"
+  },
+  {
+    "title": "Flowers TV (L)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/flowerstv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Flowers TV",
@@ -384,6 +432,14 @@
     "status": "offline"
   },
   {
+    "title": "Surya Music (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Surya Music",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryamusic/playlist.m3u8",
@@ -395,6 +451,14 @@
     "title": "Surya Music",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sun Music HD (L)",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/sunmusichd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -515,6 +579,14 @@
     "title": "Dil se",
     "image": "https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg",
     "body": "https://live.hungama.com/linear/dil-se/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
