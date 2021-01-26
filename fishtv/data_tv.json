@@ -56,12 +56,12 @@
     "status": "online"
   },
   {
-    "title": "Star Sports 1",
+    "title": "Star Sports 1 (L)",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "http://45.127.244.7:8080/hls/channel7.m3u8",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starsports1/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Star Sports 1 HD",
@@ -88,12 +88,12 @@
     "status": "offline"
   },
   {
-    "title": "Star Sports 2",
+    "title": "Star Sports 2 (L)",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
-    "body": "https://ccntv.anytv.live/starsp2/index.m3u8",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starsports2/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Star Sports 2",
@@ -104,12 +104,12 @@
     "status": "offline"
   },
   {
-    "title": "Star Sports (Hindi)",
+    "title": "Star Sports (Hindi) (L)",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h",
-    "body": "http://dx3.gcdn.co/STARSPORTS3/index.m3u8",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starsports1hindi/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Sony Ten 1",
@@ -616,6 +616,14 @@
     "status": "online"
   },
   {
+    "title": "Kairali TV (L)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Kairali TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
     "body": "http://apis.nahsolutions.in/api2/yupptv?id=48463657",
@@ -648,12 +656,20 @@
     "status": "online"
   },
   {
+    "title": "Kairali WE (L)",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
     "body": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali WE",
@@ -691,6 +707,14 @@
     "title": "Zee Keralam HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
     "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-129",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Vijay (L)",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/starvijay/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -760,12 +784,12 @@
     "status": "online"
   },
   {
-    "title": "Star Movies HD",
+    "title": "Star Movies (L)",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
-    "body": "http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/3981",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "mp4",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Star Movies HD",
@@ -976,12 +1000,20 @@
     "status": "offline"
   },
   {
+    "title": "Pogo (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/pogohindi/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Pogo",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
     "body": "http://182.176.93.225:8000/play/a01p",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Chutti TV",
@@ -1035,6 +1067,14 @@
     "title": "Safari TV",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png",
     "body": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Amrita TV (L)",
+    "image": "https://www.pay2easy.com/uploads/4538-amrita_tv.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
