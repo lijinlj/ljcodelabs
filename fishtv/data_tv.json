@@ -788,7 +788,7 @@
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
     "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starmovies/playlist.m3u8",
     "genre": "tv",
-    "type": "mp4",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -987,6 +987,14 @@
     "title": "IBC Kids",
     "image": "https://assets.zoftcdn.com/branding/ibctv/ibc-kids.png",
     "body": "https://ibckids-live.ibctamil.com/transcode/ibckids.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kochu TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-kochu-tv-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/kochutv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
