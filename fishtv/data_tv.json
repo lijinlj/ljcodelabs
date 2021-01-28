@@ -1,5 +1,13 @@
 [
   {
+    "title": "Test",
+    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/sun/?s=https://www.sunnxt.com/live/26574/surya-tv-hd/",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=zcrUCvBD16k",
