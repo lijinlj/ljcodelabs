@@ -165,7 +165,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet",
@@ -221,7 +221,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_SURYA_HD-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya HD",
@@ -253,7 +253,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_MOVIE-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -317,7 +317,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_ASIANET_PLUS-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Plus (S2)",
@@ -389,7 +389,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Flowers TV",
@@ -397,7 +397,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_FLOWERS_TV-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers",
@@ -416,12 +416,20 @@
     "status": "offline"
   },
   {
+    "title": "Mazhavil HD (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Mazhavil HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Mazhavil HD",
@@ -453,7 +461,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryamusic/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya Music",
@@ -461,7 +469,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/MALAYALAM_SURYA_MUSIC-in/index.m3u8?token=",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD (L)",
@@ -477,7 +485,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/sunmusichd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Sun Music HD (S2)",
@@ -653,7 +661,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairalitv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Kairali Arabia",
@@ -741,7 +749,7 @@
     "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Vijay",
@@ -965,7 +973,7 @@
     "body": "https://streamitv.multitvsolution.in/idvo/mksix_540p/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IBC Tamil",
@@ -1013,7 +1021,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Pogo (L)",
@@ -1053,7 +1061,7 @@
     "body": "https://streamitv.multitvsolution.in/idvo/discoverykidseng_540p/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Cartoon Network",
@@ -1061,7 +1069,7 @@
     "body": "https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Nick Jr",
@@ -1149,7 +1157,7 @@
     "body": "https://streamitv.multitvsolution.in/idvo/discoveryhd_540p/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Animal Planet",
@@ -1157,7 +1165,7 @@
     "body": "https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet",
