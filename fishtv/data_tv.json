@@ -5,7 +5,7 @@
     "body": "http://zer0live.hjkm.info:11991/vulcan/asianettv/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "24 News HD",
@@ -109,7 +109,7 @@
     "body": "https://mhdtvworld.live:443/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Star Sports (Hindi) (L)",
@@ -173,7 +173,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianettv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Asianet",
@@ -213,7 +213,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya TV (S3)",
@@ -245,7 +245,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianetmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Asianet Movies",
@@ -285,7 +285,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya Movies (S3)",
@@ -325,7 +325,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianetplus/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya Comedy (L)",
@@ -341,7 +341,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya Comedy",
