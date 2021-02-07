@@ -5,7 +5,7 @@
     "body": "http://zer0live.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "24 News HD",
@@ -14,14 +14,6 @@
     "genre": "tv",
     "type": "hls",
     "status": "online"
-  },
-  {
-    "title": "24 News HD",
-    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "http://138.68.110.84:3000/other?url=https://www.youtube.com/watch?v=zcrUCvBD16k",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
   },
   {
     "title": "Asianet News HD",
@@ -448,6 +440,382 @@
     "status": "offline"
   },
   {
+    "title": "KTV HD (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD (S2)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/5560",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "offline"
+  },
+  {
+    "title": "Kairali TV (L)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=48463657",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Kairali TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali TV (S2)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairalitv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali Arabia",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "https://itvorigin.multitvsolution.com/idvo/kairaliarabia.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali WE (L)",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali WE",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairaliwetv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali WE",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Kairali WE",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=2585",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Cinema HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
+    "body": "http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Cinema HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemahd",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zee Keralam HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
+    "body": "http://z5amshls.akamaized.net/livingfoodzhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Keralam HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-129",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Vijay (L)",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/starvijay/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Vijay HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
+    "body": "http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Vijay",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Star Vijay",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Star Vijay",
+    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=45234542879",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Tamil (S2)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/zeetamil/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://pakkatv.tk/Wp/zeetam30.php?c=.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-224",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://pakkatv.tk/Wp/zeethi30.php?c=.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Thirai (S2)",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/zee5/?s=https://mhdtvworld.xyz/live/zee-thirai/",
+    "genre": "tv",
+    "type": "http",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Clappr_Player_Plus.php?url=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Rasi TV",
+    "image": "https://i.imgur.com/i9ct2MX.png",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Rasi Movies",
+    "image": "https://i.imgur.com/vqtHzOL.jpg",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Rasi Malayalam",
+    "image": "https://assets.materialup.com/uploads/ee90527a-c1e1-44cf-9d84-232574d63410/preview.jpg",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Vijay Super",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-super-logo-300x300.jpg",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Sirippoli",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/kalaignar-sirippoli-logo-300x300.jpg",
+    "body": "http://apis.nahsolutions.in/api2/yupptv?id=51554278",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Star Movies Select HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg",
+    "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Star Movies Select HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg",
+    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Sony Pix HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/32sOnypIXhd",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Movies (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starmovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Movies HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Star Movies",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Max",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/32bsOnymAXhd",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Movies Now",
+    "image": "https://www.seekpng.com/png/detail/531-5319699_movies-now-tv-logo.png",
+    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "&Flix HD",
+    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
+    "body": "http://z5amshls.akamaized.net/andflixhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "&Flix HD",
+    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
+    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "HBO",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-logo-300x300.jpg",
+    "body": "https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Surya Music (L)",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
     "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
@@ -600,380 +968,12 @@
     "status": "online"
   },
   {
-    "title": "KTV HD (L)",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "KTV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "KTV HD (S2)",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "http://yeahiptv.vip:8080/yjsjej34/bhgvgz77/5560",
-    "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
-  },
-  {
     "title": "Kappa TV",
     "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
     "body": "https://itvorigin.multitvsolution.com/idvo/kappatv.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
-  },
-  {
-    "title": "Kairali TV (L)",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kairali TV",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "http://apis.nahsolutions.in/api2/yupptv?id=48463657",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Kairali TV",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kairali TV (S2)",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairalitv/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kairali Arabia",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "https://itvorigin.multitvsolution.com/idvo/kairaliarabia.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kairali WE (L)",
-    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kairali WE",
-    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairaliwetv/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kairali WE",
-    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Kairali WE",
-    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "http://apis.nahsolutions.in/api2/yupptv?id=2585",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Cinema HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
-    "body": "http://z5amshls.akamaized.net/zcinemahd/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Cinema HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
-    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeecinemahd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Zee Keralam HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
-    "body": "http://z5amshls.akamaized.net/livingfoodzhd/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Keralam HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
-    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-129",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Star Vijay (L)",
-    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
-    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/starvijay/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Star Vijay HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
-    "body": "http://uk4.zecast.com:1935/star-live-1/vijayeu.stream/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Star Vijay",
-    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
-    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Star Vijay",
-    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
-    "body": "http://77.166.114.98/scriptstar/mp.php/http://208.115.215.42/Star_Vijay_HD/tracks-v1a1/mono.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Star Vijay",
-    "image": "https://www.indiantvinfo.com/media/2016/08/latest-logo-of-vijay-super-channel.jpg",
-    "body": "http://apis.nahsolutions.in/api2/yupptv?id=45234542879",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sirippoli",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/kalaignar-sirippoli-logo-300x300.jpg",
-    "body": "http://apis.nahsolutions.in/api2/yupptv?id=51554278",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Star Movies Select HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg",
-    "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Star Movies Select HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-select-hd-logo-300x300.jpg",
-    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/ENGLISH_STAR_MOVIES_HD-in/index.m3u8?token=",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Pix HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/32sOnypIXhd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Star Movies (L)",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
-    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starmovies/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Star Movies HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
-    "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Star Movies",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Max",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/32bsOnymAXhd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Movies Now",
-    "image": "https://www.seekpng.com/png/detail/531-5319699_movies-now-tv-logo.png",
-    "body": "https://timesnow.airtel.tv/live/MN_pull/master.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "&Flix HD",
-    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "http://z5amshls.akamaized.net/andflixhd/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "&Flix HD",
-    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "HBO",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/hbo-logo-300x300.jpg",
-    "body": "https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Zee Tamil",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_ZEE_TAMIL_HD-in/index.m3u8?token=",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Tamil (S2)",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/zeetamil/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Tamil",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/d6f47c41936a41ac958254ab9cfc2d2f/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Tamil",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-zeetamil",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Zee Tamil",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://pakkatv.tk/Wp/zeetam30.php?c=.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Zee Thirai",
-    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
-    "body": "https://pakkatv.tk/Wp/zeethi30.php?c=.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Zee Thirai (S2)",
-    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/zee5/?s=https://mhdtvworld.xyz/live/zee-thirai/",
-    "genre": "tv",
-    "type": "http",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Thirai",
-    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
-    "body": "https://paidcodes.albdroid.al/ZEE5_Dot_Com_Apis/Clappr_Player_Plus.php?url=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "offline"
-  },
-  {
-    "title": "Zee Thirai",
-    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
-    "body": "https://m3u8world.000webhostapp.com/zee5.php?c=https://z5ams.akamaized.net/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Rasi TV",
-    "image": "https://i.imgur.com/i9ct2MX.png",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Rasi Movies",
-    "image": "https://i.imgur.com/vqtHzOL.jpg",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Rasi Malayalam",
-    "image": "https://assets.materialup.com/uploads/ee90527a-c1e1-44cf-9d84-232574d63410/preview.jpg",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Vijay Super",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-super-logo-300x300.jpg",
-    "body": "http://xlx723.dyndns.org/iproxy/miniProxy.php/http://156.146.43.241:2200/R-EX/TAMIL_VIJAY_SUPER-in/index.m3u8?token=",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
   },
   {
     "title": "MK Six",
