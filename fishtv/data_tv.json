@@ -164,7 +164,7 @@
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet.jpg",
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianettv/playlist.m3u8",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
