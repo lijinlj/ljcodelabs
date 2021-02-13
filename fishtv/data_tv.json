@@ -112,6 +112,14 @@
     "status": "online"
   },
   {
+    "title": "Star Sports (Hindi)",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h",
+    "body": "http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/17307.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Sony Ten 1",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
     "body": "https://bit.ly/2B9tEN1hd",
