@@ -946,10 +946,10 @@
   {
     "title": "Zoom",
     "image": "https://live-tv-channels.org/pt-data/uploads/logo/in-zoom-tv-6677.jpg",
-    "body": "http://apis.nahsolutions.in/api2/yupptv?id=85315555",
+    "body": "https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_480p/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "MTV India",
