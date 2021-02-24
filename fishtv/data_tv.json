@@ -797,15 +797,15 @@
     "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/juno/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Movies HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
-    "body": "http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.m3u8",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3981",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "mp4",
+    "status": "online"
   },
   {
     "title": "Star Movies",
@@ -813,7 +813,7 @@
     "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Max",
