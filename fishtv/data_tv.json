@@ -109,12 +109,12 @@
     "body": "https://mhdtvworld.live:443/delta/planet/planet2.php?url=http://163.172.223.102:8081/1212@!liveInx1/starsports2/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Sports 2",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
-    "body": "http://mytv.fun:8080/wpsn55ozcz/4yl4k7iluk/397844",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/397844",
     "genre": "tv",
     "type": "mp4",
     "status": "online"
