@@ -266,10 +266,10 @@
   {
     "title": "Asianet Movies",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet_movies.jpg",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianetmovies/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/asianetmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Asianet Movies",
@@ -304,9 +304,9 @@
     "status": "offline"
   },
   {
-    "title": "Surya Movies (S2)",
+    "title": "Surya Movies",
     "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -370,7 +370,7 @@
   {
     "title": "Surya Comedy",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -418,7 +418,7 @@
   {
     "title": "Flowers TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -458,7 +458,7 @@
   {
     "title": "Mazhavil HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -530,7 +530,7 @@
   {
     "title": "Kairali TV (S2)",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairalitv/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairalitv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -554,7 +554,7 @@
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairaliwetv/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/kairaliwetv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
