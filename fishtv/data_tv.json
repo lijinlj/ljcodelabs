@@ -210,10 +210,10 @@
   {
     "title": "Surya TV",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "http://apis.nahsolutions.in/api2/yupptv?id=38701718",
+    "body": "https://streamlovers.net.in:443/delta/cloud/max.php?id=35755&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya TV (S1)",
