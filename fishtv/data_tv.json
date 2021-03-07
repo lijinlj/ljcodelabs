@@ -205,7 +205,7 @@
     "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://zer0live.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV",
@@ -218,10 +218,10 @@
   {
     "title": "Surya TV (S1)",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-logo-300x300.jpg",
-    "body": "https://mhdtvworld.live/delta/planet/planet2.php?url=http://163.172.223.102:8081/sind@!sw/suryatv/playlist.m3u8",
+    "body": "https://mhdtvworld.xyz:443/delta/ytv2/yupptvv.php?id=38701718&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya TV (S2)",
