@@ -1,10 +1,10 @@
 [
   {
     "title": "Road safety world series",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Bigg_Boss_Malayalam_poster_3.jpg/250px-Bigg_Boss_Malayalam_poster_3.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Road_Safety_World_Series_logo.jpg/220px-Road_Safety_World_Series_logo.jpg",
     "body": "https://vootlivelinear.akamaized.net/hls/live/2013204/rsws_test_hindi/master_3628.m3u8",
     "genre": "tv",
-    "type": "mp4",
+    "type": "hls",
     "status": "online"
   },
   {
