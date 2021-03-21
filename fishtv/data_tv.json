@@ -368,6 +368,14 @@
     "status": "online"
   },
   {
+    "title": "Discovery Kids",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
+    "body": "https://itvorigin.multitvsolution.com/idvo/discoverykidseng.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Zee5 Kids",
     "image": "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-9-290/channel_list/1170x658_zee5kid_983708240.png",
     "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-290",
