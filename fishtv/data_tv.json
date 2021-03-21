@@ -360,6 +360,22 @@
     "status": "online"
   },
   {
+    "title": "Kochu TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-kochu-tv-logo-300x300.jpg",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/planeeett2.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Pogo",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/planeeett2.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/pogohindi/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Sony Yay",
     "image": "https://www.adgully.com/img/800/201907/sony-yay.jpg",
     "body": "https://bit.ly/2WmsoNYYaY",
