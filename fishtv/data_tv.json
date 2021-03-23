@@ -2,7 +2,7 @@
   {
     "title": "BigBoss S3",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Bigg_Boss_Malayalam_poster_3.jpg/250px-Bigg_Boss_Malayalam_poster_3.jpg",
-    "body": "https://mhdtvstreams.in.net/pnet.php?c=100011225&e=.m3u8",
+    "body": "https://mhdtvstreams.in.net/pnettv.php?c=100011225&e=.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -106,7 +106,7 @@
   {
     "title": "Asianet",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/asianettv/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/asianettv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -114,7 +114,7 @@
   {
     "title": "Surya TV",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "https://mhdtvstreams.in.net/pnet.php?c=10001&e=.m3u8",
+    "body": "https://mhdtvstreams.in.net/pnettv.php?c=10001&e=.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -122,7 +122,7 @@
   {
     "title": "Asianet Movies",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet_movies.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/asianetmovies/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/asianetmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -138,7 +138,7 @@
   {
     "title": "Surya Movies",
     "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -154,7 +154,7 @@
   {
     "title": "Surya Comedy",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -170,7 +170,7 @@
   {
     "title": "Flowers TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -178,7 +178,7 @@
   {
     "title": "Mazhavil HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -226,7 +226,7 @@
   {
     "title": "Star Vijay HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/starvijay/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/starvijay/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -282,7 +282,7 @@
   {
     "title": "Star Movies",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -314,7 +314,7 @@
   {
     "title": "Surya Music",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
-    "body": "https://mhdtvstreams.in.net/pnet.php?c=10001223&e=.m3u8",
+    "body": "https://mhdtvstreams.in.net/pnettv.php?c=10001223&e=.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -370,7 +370,7 @@
   {
     "title": "Kochu TV",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-kochu-tv-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -378,7 +378,7 @@
   {
     "title": "Pogo",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnet.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/pogohindi/playlist.m3u8",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/pogohindi/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
