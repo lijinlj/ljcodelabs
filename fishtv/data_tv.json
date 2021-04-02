@@ -48,11 +48,19 @@
     "status": "online"
   },
   {
-    "title": "Star Sports 1",
+    "title": "Star Sports 1 HD",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3979",
     "genre": "tv",
     "type": "mp4",
+    "status": "online"
+  },
+  {
+    "title": "Star Sports 1",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
+    "body": "https://mhdtvstreams.in.net:443/redbox/redboxxx.php?id=2935&e=.m3u8",
+    "genre": "tv",
+    "type": "hls",
     "status": "online"
   },
   {
