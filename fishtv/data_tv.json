@@ -454,5 +454,117 @@
     "genre": "tv",
     "type": "hls",
     "status": "online"
+  },
+  {
+    "title": "Surya TV (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Surya Movies (L)",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryamovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Surya Comedy (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryacomedy/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Flowers TV (L)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/flowerstv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Mazhavil HD (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali TV (L)",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali WE (L)",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Movies (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Surya Music (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sun Music HD (L)",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/sunmusichd/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kochu TV (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-kochu-tv-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kochutv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Pogo (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/juno/pogohindi/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Amrita TV (L)",
+    "image": "https://www.pay2easy.com/uploads/4538-amrita_tv.png",
+    "body": "http://127.0.0.1:8000/sun_server/rb/?s=http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
   }
 ]
