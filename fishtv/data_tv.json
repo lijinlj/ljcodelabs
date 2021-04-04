@@ -125,7 +125,7 @@
     "body": "https://mhdtvstreams.in.net/pnettv.php?c=10001&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -149,7 +149,7 @@
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Plus",
@@ -165,7 +165,7 @@
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "SunTV HD",
@@ -181,7 +181,7 @@
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Mazhavil HD",
@@ -189,7 +189,7 @@
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "KTV HD",
@@ -293,7 +293,7 @@
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Movies HD",
@@ -325,7 +325,7 @@
     "body": "https://mhdtvstreams.in.net/pnettv.php?c=10001223&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD",
@@ -381,7 +381,7 @@
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Pogo",
@@ -389,7 +389,7 @@
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/pogohindi/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Yay",
