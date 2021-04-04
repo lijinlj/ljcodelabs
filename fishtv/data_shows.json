@@ -1,5 +1,20 @@
 [
   {
+    "title": "OK Computer (2021) (L)",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2486/942486-h",
+    "episode": [
+                  {
+                   "title": "Season 1", 
+                   "image": "none", 
+                   "body": "http://127.0.0.1:8000/webx/tamilyogi/?s=http://tamilyogi.cafe/ok-computer-season-01-2021-tamil-dubbed-series-hd-720p-watch-online/&d=vidorg", 
+                   "type": "none"
+                  }
+               ],
+    "genre": "show",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Scam 1992 (2020)",
     "image": "https://imgeng.jagran.com/images/2020/nov/scam-19921605176310518.jpg",
     "episode": [
@@ -18,7 +33,7 @@
                ],
     "genre": "show",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Triples (2020)(Season 1)",
@@ -33,7 +48,7 @@
                ],
     "genre": "movie",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   
 ]
