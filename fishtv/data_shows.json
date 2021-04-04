@@ -7,8 +7,8 @@
                    "title": "Season 1", 
                    "image": "none", 
                    "body": "http://127.0.0.1:8000/webx/tamilyogi/?s=http://tamilyogi.cafe/ok-computer-season-01-2021-tamil-dubbed-series-hd-720p-watch-online/&d=vidorg", 
-                   "type": "none"
-                  }
+                   "type": "hls"
+                  },
                ],
     "genre": "show",
     "type": "hls",
@@ -49,6 +49,5 @@
     "genre": "movie",
     "type": "mp4",
     "status": "offline"
-  },
-  
+  }
 ]
