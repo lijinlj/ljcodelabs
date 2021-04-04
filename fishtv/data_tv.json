@@ -509,7 +509,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Kairali WE (L)",
@@ -517,15 +517,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Star Movies (L)",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
-    "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya Music (L)",
@@ -560,9 +552,41 @@
     "status": "online"
   },
   {
+    "title": "Cartoon Network (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/juno/cartoonnetworktm/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Amrita TV (L)",
     "image": "https://www.pay2easy.com/uploads/4538-amrita_tv.png",
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Vijay HD (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/starvijay/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Movies (L)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Sports 1 HD(L)",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
+    "body": "http://127.0.0.1:8000/redbox/rb/?s=http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
