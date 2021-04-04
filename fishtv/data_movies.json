@@ -2,7 +2,7 @@
   {
     "title": "Chakra (2021)",
     "image": "https://i.ytimg.com/vi/APZItQIcnNQ/maxresdefault.jpg",
-    "body": "http://cdn88.vidorg.net/hls/h7toc4sxamlbu3tf6rvtlihtzcvvowzfw6nnmzhdp,zpy66tfsorvvhtidpca,rpy66tfsorqp6bawheq,jpy66tfsortkzk3sltq,.urlset/master.m3u8",
+    "body": "http://127.0.0.1:8000/webx/tamilyogi/?s=http://tamilyogi.cafe/chakra-2021-hd-720p-tamil-movie-watch-online/&d=vidorg",
     "genre": "movie",
     "type": "hls",
     "status": "online"
@@ -18,7 +18,7 @@
   {
     "title": "Teddy (2021)",
     "image": "https://www.newsbugz.com/wp-content/uploads/2019/05/Teddy-Tamil-Movie-700x394.jpg",
-    "body": "http://cdn67.vidorg.net/hls/h7todf2yamlbu3tf6rvtljhnqxtdfdurxd2mb3xcd,ntlpqssjkrpojm2zjkq,ftlpqssjkrantrgwo4q,5tlpqssjkrdw2pgra5a,.urlset/master.m3u8",
+    "body": "http://127.0.0.1:8000/webx/tamilyogi/?s=http://tamilyogi.cafe/teddy-2021-tamil-movie-hd-720p-watch-online/&d=vidorg",
     "genre": "movie",
     "type": "hls",
     "status": "offline"
