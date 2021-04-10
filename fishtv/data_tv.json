@@ -5,7 +5,7 @@
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/683765",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021 (S2)",
@@ -13,7 +13,7 @@
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/397844",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021 (S3)",
@@ -21,7 +21,7 @@
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3977",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021 (S4)",
@@ -61,7 +61,7 @@
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3979",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "BigBoss S3",
@@ -653,22 +653,6 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Test",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "https://mhdtvworld.xyz/live/bbmalayalam/",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "Test1",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "http://vidorg.net/embed-c9vsju47rk6z.html",
-    "genre": "tv",
-    "type": "web",
     "status": "online"
   }
 ]
