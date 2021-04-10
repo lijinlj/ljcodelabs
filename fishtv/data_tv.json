@@ -2,17 +2,17 @@
   {
     "title": "IPL 2021 (S1)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/18807",
+    "body": "https://kytetvlive.gcdn.co/streams/22152_65418/720n/index.m3u8",
     "genre": "tv",
-    "type": "mp4",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "IPL 2021 (S2)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "http://cloudcdn.tk:80/F40WJGf5103/YQOe105384/10165",
+    "body": "https://kytetvlive.gcdn.co/streams/22152_65418/480n/index.m3u8",
     "genre": "tv",
-    "type": "mp4",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -29,7 +29,7 @@
     "body": "https://mhdtvstreams.in.net:443/redbox/redbks.php?id=2935&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021 (S5)",
@@ -45,7 +45,7 @@
     "body": "https://streamcdn.getloconow.com/P5HMRXRHY4_6ae6f20b-4a4f-4df7-bd5b-580f9ceb5af3/manifest.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021 (S7)",
