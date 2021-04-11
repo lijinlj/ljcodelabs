@@ -10,10 +10,10 @@
   {
     "title": "IPL 2021 (S2)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "https://kytetvlive.gcdn.co/streams/22152_65418/480n/index.m3u8",
+    "body": "http://103.109.110.102:1935/live/starsports1tamil.stream_720p/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "IPL 2021 (S3)",
