@@ -2,7 +2,7 @@
   {
     "title": "IPL 2021 (S1)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "https://kytetvlive.gcdn.co/streams/22152_65418/720n/index.m3u8",
+    "body": "https://www101.sbvideocdn.com/hlsx/db6ump1j72_hi/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "offline"
@@ -21,7 +21,7 @@
     "body": "https://mhdtvworld.xyz/test/ipl.php?e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021 (S4)",
