@@ -2,9 +2,9 @@
   {
     "title": "IPL 2021 (S1)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "https://www101.sbvideocdn.com/hlsx/db6ump1j72_hi/index.m3u8",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3979",
     "genre": "tv",
-    "type": "hls",
+    "type": "mp4",
     "status": "online"
   },
   {
@@ -18,10 +18,10 @@
   {
     "title": "IPL 2021 (S3)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "https://mhdtvworld.xyz/test/ipl.php?e=.m3u8",
+    "body": "https://www101.sbvideocdn.com/hlsx/db6ump1j72_hi/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "IPL 2021 (S4)",
@@ -61,7 +61,7 @@
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3979",
     "genre": "tv",
     "type": "mp4",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "IPL 2021 (L)",
