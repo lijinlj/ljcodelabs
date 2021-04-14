@@ -1,17 +1,50 @@
 [
   {
-    "title": "OK Computer (2021) (L)",
+    "title": "The Falcon and the Winter Soldier(2021)",
+    "image": "http://tamilyogi.cafe/wp-content/uploads/2021/03/The-Falcon-and-the-Winter-Soldier-S01-E01-2021-Tamil-Dubbed-Series-HD-720p-Watch-Online.jpg",
+    "episode": [
+                  {
+                   "title": "Episode 1", 
+                   "image": "none", 
+                   "body": "http://vidorg.net/embed-cjyw06fn4dg6.html", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "Episode 2", 
+                   "image": "none", 
+                   "body": "http://vidorg.net/embed-kj79hs6lqfer.html", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "Episode 3", 
+                   "image": "none", 
+                   "body": "http://vidorg.net/embed-4q0gmyqbhoys.html", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "Episode 4", 
+                   "image": "none", 
+                   "body": "http://vidorg.net/embed-dl23dsgssdd0.html", 
+                   "type": "none"
+                  },
+               ],
+    "genre": "show",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "OK Computer (2021)",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2486/942486-h",
     "episode": [
                   {
                    "title": "Season 1", 
                    "image": "none", 
-                   "body": "http://127.0.0.1:8000/webx/tamilyogi/?s=http://tamilyogi.cafe/ok-computer-season-01-2021-tamil-dubbed-series-hd-720p-watch-online/&d=vidorg", 
+                   "body": "http://vidorg.net/embed-0d3c5vyhvty4.html", 
                    "type": "hls"
                   },
                ],
     "genre": "show",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
