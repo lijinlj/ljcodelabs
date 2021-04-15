@@ -5,7 +5,7 @@
     "body": "https://ninjastream.to/watch/LznAR6RYWA6xd",
     "genre": "movie",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Krishnankutty Pani Thudangi(2021)",
@@ -13,7 +13,7 @@
     "body": "https://fishtv.000webhostapp.com/zee5.php?s=https://www.zee5.com/movies/details/krishnankutty-pani-thudangi/0-0-383433",
     "genre": "movie",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Krishnankutty Pani Thudangi(2021)",
@@ -26,10 +26,10 @@
   {
     "title": "Krishnankutty Pani Thudangi(2021)",
     "image": "https://akamaividz.zee5.com/resources/0-0-383433/list/270x152/1170x658withlogo_87663638.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/c5/?p=125.99.106.250:3128&s=https://zee5api.tk/?q=https://www.zee5.com/movies/details/krishnankutty-pani-thudangi/0-0-383433",
+    "body": "https://flixbotstorage.herokuapp.com/2297812069193772/Krishnankutty%20Pani%20Thudangi....mkv",
     "genre": "movie",
-    "type": "hls",
-    "status": "offline"
+    "type": "mp4",
+    "status": "online"
   },
   {
     "title": "Irul (2021)",
