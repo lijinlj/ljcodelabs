@@ -1,5 +1,21 @@
 [
   {
+    "title": "Nizhal (LQ) (2021)",
+    "image": "https://s3images.zee5.com/wp-content/uploads/sites/7/2020/11/Kunchacko-Boban-in-Nizhal-784x441.jpg",
+    "body": "https://ninjastream.to/watch/P0RQw7q23QG34",
+    "genre": "movie",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Tsunami (2021)",
+    "image": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/tsunami-20210308115841-19080.jpg",
+    "body": "https://ninjastream.to/watch/LjKAWeYxdZEBM",
+    "genre": "movie",
+    "type": "web",
+    "status": "online"
+  },
+  {
     "title": "Yuvarathnaa (2021)",
     "image": "http://tamilyogi.cafe/wp-content/uploads/2021/04/Yuvarathnaa-2021-HD-720p-Tamil-Movie-Watch-Online.jpg",
     "body": "http://vidorg.net/xembed-2arsb1ljef81.html",
@@ -301,6 +317,6 @@
     "body": "https://ninjastream.to/watch/P0RQw7q23QG34",
     "genre": "movie",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   }
 ]
