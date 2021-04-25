@@ -2,15 +2,15 @@
   {
     "title": "IPL 2021 (S1)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "http://x1.cric7.biz/",
+    "body": "http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
-    "type": "web",
+    "type": "redbox",
     "status": "online"
   },
   {
     "title": "IPL 2021 (S2)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/02/04184843/1-1-9-696x465.jpg",
-    "body": "https://poscitech.club/tv/ch46.php",
+    "body": "http://x1.cric7.biz/",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -130,9 +130,9 @@
   {
     "title": "Star Sports 1",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "https://mhdtvstreams.in.net:443/redbox/redbks.php?id=2935&e=.m3u8",
+    "body": "http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
-    "type": "hls",
+    "type": "redbox",
     "status": "online"
   },
   {
@@ -232,6 +232,78 @@
     "status": "online"
   },
   {
+    "title": "Surya TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Surya Movies",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryamovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Surya Comedy",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryacomedy/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Flowers TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/flowerstv/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Mazhavil HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Kairali TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Kairali WE",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Amrita TV",
+    "image": "https://www.pay2easy.com/uploads/4538-amrita_tv.png",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
     "title": "Surya Comedy",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
@@ -309,6 +381,14 @@
     "body": "https://mhdtvstreams.in.net:443/redbox/redbks.php?id=2881&e=.m3u8",
     "genre": "tv",
     "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Star Vijay HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/starvijay/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
     "status": "online"
   },
   {
@@ -362,6 +442,14 @@
   {
     "title": "Star Movies",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Star Movies",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -389,6 +477,22 @@
     "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046",
     "genre": "tv",
     "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Surya Music",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Sun Music HD",
+    "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/sunmusichd/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
     "status": "online"
   },
   {
@@ -445,6 +549,30 @@
     "body": "https://itvorigin.multitvsolution.com/idvo/kappatv.m3u8",
     "genre": "tv",
     "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kochu TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-kochu-tv-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/kochutv/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Pogo",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/juno/pogohindi/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Cartoon Network",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/juno/cartoonnetworktm/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
     "status": "online"
   },
   {
@@ -533,7 +661,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Movies (L)",
@@ -541,7 +669,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryamovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Comedy (L)",
@@ -549,7 +677,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryacomedy/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers TV (L)",
@@ -557,7 +685,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/flowerstv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Mazhavil HD (L)",
@@ -565,7 +693,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "KTV HD (L)",
@@ -573,7 +701,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali TV (L)",
@@ -581,7 +709,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali WE (L)",
@@ -589,7 +717,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Music (L)",
@@ -597,7 +725,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD (L)",
@@ -613,7 +741,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/kochutv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Pogo (L)",
@@ -621,7 +749,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/juno/pogohindi/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Cartoon Network (L)",
@@ -629,7 +757,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/juno/cartoonnetworktm/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Amrita TV (L)",
@@ -637,7 +765,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Vijay HD (L)",
@@ -645,7 +773,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/starvijay/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Movies (L)",
@@ -653,7 +781,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Sports 1 HD(L)",
@@ -661,7 +789,7 @@
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Test",
@@ -669,6 +797,6 @@
     "body": "http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   }
 ]
