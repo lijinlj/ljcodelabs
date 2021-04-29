@@ -530,9 +530,9 @@
   {
     "title": "Zoom",
     "image": "https://live-tv-channels.org/pt-data/uploads/logo/in-zoom-tv-6677.jpg",
-    "body": "https://m-c07-j2apps.s.llnwi.net/hls/0069.Zoom.in_480p/index.m3u8",
+    "body": "http://livezer0.hjkm.info:11991/juno/zoomtv/playlist.m3u8",
     "genre": "tv",
-    "type": "hls",
+    "type": "redbox",
     "status": "online"
   },
   {
