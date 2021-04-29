@@ -456,6 +456,14 @@
     "status": "online"
   },
   {
+    "title": "Movies Now HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/times-movies-now-hd-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/neptune/moviesnowhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "online"
+  },
+  {
     "title": "Sony Max",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
     "body": "https://bit.ly/32bsOnymAXhd",
