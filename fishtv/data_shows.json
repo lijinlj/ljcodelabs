@@ -15,6 +15,12 @@
                    "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=auPCjzaPUXM", 
                    "type": "none"
                   },
+                  {
+                   "title": "Episode 3", 
+                   "image": "https://i.ytimg.com/vi/s2sdyq5CkEQ/maxresdefault.jpg", 
+                   "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=s2sdyq5CkEQ", 
+                   "type": "none"
+                  },
                ],
     "genre": "show",
     "type": "mp4",
