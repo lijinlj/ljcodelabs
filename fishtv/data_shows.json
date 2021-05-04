@@ -6,18 +6,18 @@
                   {
                    "title": "Episode 1", 
                    "image": "none", 
-                   "body": "http://vidorg.net/embed-0d3c5vyhvty4.html", 
+                   "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=6W7KYmtCHIc", 
                    "type": "none"
                   },
                   {
                    "title": "Episode 2", 
                    "image": "none", 
-                   "body": "http://vidorg.net/embed-0d3c5vyhvty4.html", 
+                   "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=auPCjzaPUXM", 
                    "type": "none"
                   },
                ],
     "genre": "show",
-    "type": "web",
+    "type": "mp4",
     "status": "online"
   },
   {
