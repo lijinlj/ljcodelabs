@@ -178,9 +178,9 @@
   {
     "title": "Asianet",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "http://starshare.live:8080/live/533004/533004/166.m3u8",
+    "body": "http://starshare.live:8080/live/533004/533004/166.ts",
     "genre": "tv",
-    "type": "hls",
+    "type": "mp4",
     "status": "online"
   },
   {
@@ -194,9 +194,9 @@
   {
     "title": "Asianet Movies",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet_movies.jpg",
-    "body": "http://starshare.live:8080/live/533004/533004/9031.m3u8",
+    "body": "http://starshare.live:8080/live/533004/533004/9031.ts",
     "genre": "tv",
-    "type": "hls",
+    "type": "mp4",
     "status": "online"
   },
   {
