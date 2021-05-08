@@ -194,9 +194,9 @@
   {
     "title": "Asianet Movies",
     "image": "http://www.tv-logo.com/pt-data/uploads/images/logo/asianet_movies.jpg",
-    "body": "http://cloudcdn.tk:80/DoYyL99LlQpB7668/1DboiQ7033/6251",
+    "body": "http://starshare.live:8080/live/533004/533004/9031.m3u8",
     "genre": "tv",
-    "type": "mp4",
+    "type": "hls",
     "status": "online"
   },
   {
