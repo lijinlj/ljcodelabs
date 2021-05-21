@@ -466,10 +466,10 @@
   {
     "title": "Test_mixdrop",
     "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/205/265/datas/gallery.jpg",
-    "body": "https://mixdrop.sx/e/3n18nr7mcmez8kg",
+    "body": "https://ninjastream.to/watch/LznAR6RYWA6xd",
     "genre": "movie",
-    "type": "web",
-    "status": "offline"
+    "type": "webx",
+    "status": "online"
   },
   {
     "title": "Test_webx",
@@ -477,6 +477,6 @@
     "body": "https://fishtv-server.herokuapp.com/tg/telexgram/?s=sunnxt&l=https://www.sunnxt.com/tamil-movie/detail/113649/",
     "genre": "movie",
     "type": "webx",
-    "status": "online"
+    "status": "offline"
   }
 ]
