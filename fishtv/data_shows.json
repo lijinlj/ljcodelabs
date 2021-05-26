@@ -1,6 +1,6 @@
 [
   {
-    "title": "Kochi Heist(2021)",
+    "title": "Kochi Heist",
     "image": "https://i.ytimg.com/vi/9DUHBCNGpOk/maxresdefault.jpg",
     "episode": [
                   {
@@ -36,10 +36,11 @@
                ],
     "genre": "show",
     "type": "mp4",
-    "status": "online"
+    "status": "online",
+    "year": "2021"
   },
   {
-    "title": "The Falcon and the Winter Soldier(2021)",
+    "title": "The Falcon and the Winter Soldier",
     "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/The_Falcon_and_the_Winter_Soldier_logo.png",
     "episode": [
                   {
@@ -81,10 +82,11 @@
                ],
     "genre": "show",
     "type": "web",
-    "status": "online"
+    "status": "online",
+    "year": "2021"
   },
   {
-    "title": "Money Heist (2017)",
+    "title": "Money Heist",
     "image": "http://tamilyogi.cafe/wp-content/uploads/2021/02/Money-Heist-Season-01-2017-Tamil-Dubbed-Series-HD-720p-Watch-Online.jpg",
     "episode": [
                   {
@@ -114,10 +116,11 @@
                ],
     "genre": "show",
     "type": "web",
-    "status": "online"
+    "status": "online",
+    "year": "2017"
   },
   {
-    "title": "OK Computer (2021)",
+    "title": "OK Computer",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_m_1x/sources/r1/cms/prod/2486/942486-h",
     "episode": [
                   {
@@ -129,10 +132,11 @@
                ],
     "genre": "show",
     "type": "web",
-    "status": "online"
+    "status": "online",
+    "year": "2021"
   },
   {
-    "title": "Paava Kadhaigal (2020)",
+    "title": "Paava Kadhaigal",
     "image": "https://www.telugubulletin.com/wp-content/uploads/2020/12/Paava-Kadhaigal.jpg",
     "episode": [
                   {
@@ -144,10 +148,11 @@
                ],
     "genre": "movie",
     "type": "web",
-    "status": "online"
+    "status": "online",
+    "year": "2020"
   },
   {
-    "title": "Scam 1992 (2020)",
+    "title": "Scam 1992",
     "image": "https://imgeng.jagran.com/images/2020/nov/scam-19921605176310518.jpg",
     "episode": [
                   {
@@ -159,10 +164,11 @@
                ],
     "genre": "show",
     "type": "web",
-    "status": "online"
+    "status": "online",
+    "year": "2020"
   },
   {
-    "title": "Triples (2020)(Season 1)",
+    "title": "Triples - Season 1",
     "image": "https://images.firstpost.com/wp-content/uploads/2020/12/Triples-640.jpg",
     "episode": [
                   {
@@ -174,6 +180,7 @@
                ],
     "genre": "movie",
     "type": "web",
-    "status": "online"
+    "status": "online",
+    "year": "2020"
   }
 ]
