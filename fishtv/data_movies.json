@@ -11,10 +11,28 @@
   {
     "title": "Army of the dead",
     "image": "https://i.extraimages.net/images/2021/05/21/AoTD.jpg",
+    "body": "https://storage.googleapis.com/deft-bazaar-312005/54QB1IQ1TYEN/st22_army-of-the-dead.1622088889.mp4",
+    "genre": "movie",
+    "type": "mp4",
+    "status": "online",
+    "year": "2021"
+  },
+  {
+    "title": "Wrath of Man",
+    "image": "https://i.ytimg.com/vi/hvZAz4wGU3c/maxresdefault.jpg",
+    "body": "https://storage.googleapis.com/studied-groove-314502/FDSI7_KGYKYJ/st23_wrath-of-man.1622040013.mp4",
+    "genre": "movie",
+    "type": "mp4",
+    "status": "online",
+    "year": "2021"
+  },
+  {
+    "title": "Army of the dead",
+    "image": "https://i.extraimages.net/images/2021/05/21/AoTD.jpg",
     "body": "https://ninjastream.to/watch/ExamDkPo4ZR8M",
     "genre": "movie",
     "type": "web",
-    "status": "online",
+    "status": "offline",
     "year": "2021"
   },
   {
@@ -23,7 +41,7 @@
     "body": "https://ninjastream.to/watch/zKWm6G0gzA85P",
     "genre": "movie",
     "type": "web",
-    "status": "online",
+    "status": "offline",
     "year": "2021"
   },
   {
