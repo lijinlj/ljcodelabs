@@ -559,7 +559,7 @@
   },
   {
     "title": "My Boss(2012)",
-    "image": "http://4.bp.blogspot.com/-7P2gcmnV-bw/U7jSEv5-loI/AAAAAAAABLc/wfVE4XMathM/s1600/My-Boss-Malayalam-Movie-Poster-5.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjQ0MmE0NDItMDA5NC00N2I2LWFjZTAtYWUyZTkyMzI2MzlkXkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=CGDWcsqSngg",
     "genre": "movie",
     "type": "mp4",
@@ -581,7 +581,7 @@
     "body": "https://ninjastream.to/watch/LznAR6RYWA6xd",
     "genre": "movie",
     "type": "webx",
-    "status": "online",
+    "status": "offline",
     "year": "2021"
   },
   {
