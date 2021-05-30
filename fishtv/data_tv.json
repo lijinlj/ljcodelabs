@@ -109,7 +109,7 @@
     "body": "https://mhdtvstreams.in.net:443/redbox/RDXXXXTVVxxXx.php?id=2891&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV",
@@ -125,7 +125,7 @@
     "body": "https://mhdtvstreams.in.net:443/redbox/RDXXXXTVVxxXx.php?id=2893&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -345,7 +345,7 @@
   },
   {
     "title": "Rasi Malayalam",
-    "image": "https://fishtv.000webhostapp.com/assets/rasim.png",
+    "image": "https://1.bp.blogspot.com/-SHkd0_syzUE/YBzTqrhsMuI/AAAAAAAAKSk/U2TaqhZNe_wS3QusaunuvKwSZM9Gi-G6ACLcBGAsYHQ/s0/Rasi-Malayalam.png",
     "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -357,7 +357,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26574&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Movies",
@@ -365,7 +365,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=9019&e=.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Comedy",
@@ -373,7 +373,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=30835&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "SunTV HD",
@@ -381,7 +381,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=14020&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "KTV HD",
@@ -389,7 +389,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26566&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Music",
@@ -397,7 +397,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26575&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD",
@@ -405,7 +405,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=9013&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kochu TV",
@@ -413,7 +413,7 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26573&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Pix HD",
