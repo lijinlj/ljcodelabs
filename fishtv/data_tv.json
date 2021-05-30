@@ -216,6 +216,14 @@
     "status": "online"
   },
   {
+    "title": "Vismaya News",
+    "image": "https://1.bp.blogspot.com/-FEVgP2hNm54/YKHVGT4ZUSI/AAAAAAAAKgY/R0UcxbYX_jASmz29PT5W0Zh-g9w5ium2ACLcBGAsYHQ/s0/Vismaya-News.png",
+    "body": "http://live.singamcloud.in:1935/vismayanews/vismayanews/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
     "title": "Amrita TV",
     "image": "https://www.pay2easy.com/uploads/4538-amrita_tv.png",
     "body": "http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
