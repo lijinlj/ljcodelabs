@@ -106,10 +106,10 @@
   {
     "title": "Asianet",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "https://mhdtvstreams.in.net:443/redbox/RDXXXXTVVxxXx.php?id=2891&e=.m3u8",
+    "body": "https://mhdtvstreams.in.net/redbox/rboxXtv2.php?id=2891&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya TV",
@@ -122,10 +122,10 @@
   {
     "title": "Asianet Movies",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-movies-logo-300x300.jpg",
-    "body": "https://mhdtvstreams.in.net:443/redbox/RDXXXXTVVxxXx.php?id=2893&e=.m3u8",
+    "body": "https://mhdtvstreams.in.net/redbox/rboxXtv2.php?id=2893&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Asianet Movies",
