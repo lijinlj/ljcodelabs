@@ -360,6 +360,22 @@
     "status": "online"
   },
   {
+    "title": "Rasi Hollywood",
+    "image": "https://1.bp.blogspot.com/-uWttjPNg5pw/YBzF8DWXAKI/AAAAAAAAKR0/UtO7PO1IJqYAElEoJstXBU-sJVv0E6FvACLcBGAsYHQ/s0/rasi-hollywood.png",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Rasi Hindi",
+    "image": "https://1.bp.blogspot.com/-Gxy6uj6BEe8/YBzF8DqhFlI/AAAAAAAAKR4/VMDBpS5fApglZUj3qeoGN-Punijkwj3GACLcBGAsYHQ/s0/rasi-hindi.png",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "SuryaTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26574&e=.m3u8",
