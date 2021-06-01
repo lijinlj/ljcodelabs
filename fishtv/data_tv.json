@@ -490,7 +490,7 @@
   {
     "title": "&Flix HD",
     "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "https://oreotv.us/live/gee/zee_v2.m3u8?id=0-9-channel_2105335046",
+    "body": "https://tv.zee5play.ml/0-9-channel_2105335046",
     "genre": "tv",
     "type": "hls",
     "status": "online"
