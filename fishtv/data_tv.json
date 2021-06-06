@@ -112,14 +112,6 @@
     "status": "online"
   },
   {
-    "title": "Surya TV",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "https://mhdtvstreams.in.net/pnettv.php?c=10001&e=.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
     "title": "Asianet Movies",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-movies-logo-300x300.jpg",
     "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
@@ -133,14 +125,6 @@
     "body": "http://livezer0.hjkm.info:11991/vulcan/asianetmovies/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Surya Movies",
-    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryamovies/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
     "status": "offline"
   },
   {
@@ -213,6 +197,78 @@
     "body": "http://livezer0.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
+    "status": "online"
+  },
+  {
+    "title": "Surya TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Surya Movies",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Surya Comedy",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Flowers TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Mazhavil HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali TV",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kairali WE",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Star Vijay HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
+    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "genre": "tv",
+    "type": "hls",
     "status": "online"
   },
   {
