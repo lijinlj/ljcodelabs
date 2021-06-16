@@ -856,12 +856,12 @@
     "status": "offline"
   },
   {
-    "title": "Star Sports 1 HD(L)",
+    "title": "Nick",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "http://127.0.0.1:8000/redbox/rb/?s=http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
+    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Nick_Malayalam",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Test",
