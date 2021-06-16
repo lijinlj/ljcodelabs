@@ -8,6 +8,14 @@
     "status": "online"
   },
   {
+    "title": "Euro Moments 24x7",
+    "image": "https://ftvapp.000webhostapp.com/assets/UEFAEURO2020.jpg",
+    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Euro_Moments",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=zcrUCvBD16k",
