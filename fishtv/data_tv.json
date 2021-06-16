@@ -10,10 +10,18 @@
   {
     "title": "Euro Moments 24x7",
     "image": "https://ftvapp.000webhostapp.com/assets/UEFAEURO2020.jpg",
-    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Euro_Moments",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/E-8SUW6DQoaZZr90xqQ9ng/master.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
+  },
+  {
+    "title": "Euro Moments 24x7",
+    "image": "https://ftvapp.000webhostapp.com/assets/UEFAEURO2020.jpg",
+    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Euro_Moments",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
   },
   {
     "title": "24 News HD",
