@@ -1,5 +1,13 @@
 [
   {
+    "title": "Copa and Euro",
+    "image": "https://ftvapp.000webhostapp.com/assets/copaeuro.png",
+    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Sony_Six_HD_Malayalam",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=zcrUCvBD16k",
