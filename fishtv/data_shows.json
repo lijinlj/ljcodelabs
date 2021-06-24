@@ -1,5 +1,36 @@
 [
   {
+    "title": "Asur",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWJiMDZmNTAtZDg5YS00NDgyLThkMzctYTczZjllNzU0YWY5XkEyXkFqcGdeQXVyMTAwMDI3ODEw._V1_.jpg",
+    "episode": [
+                  {
+                   "title": "Glorious Purpose",
+                   "year": "Episode 1", 
+                   "image": "none", 
+                   "body": "https://ftvapp.000webhostapp.com/vidnext.php/?s=MzE3NzU0", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "The Variant",
+                   "year": "Episode 2", 
+                   "image": "none", 
+                   "body": "https://ftvapp.000webhostapp.com/vidnext.php/?s=MzQ0NTU4", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "Lamentis",
+                   "year": "Episode 3", 
+                   "image": "none", 
+                   "body": "https://ftvapp.000webhostapp.com/vidnext.php/?s=MzQ0OTE4", 
+                   "type": "none"
+                  },
+               ],
+    "genre": "show",
+    "type": "mp4",
+    "status": "online",
+    "year": "2020"
+  },
+  {
     "title": "Loki",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_vl_2_5x/sources/r1/cms/prod/1691/1011691-v-657881703c09",
     "episode": [
