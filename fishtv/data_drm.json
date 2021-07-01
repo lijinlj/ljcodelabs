@@ -21,10 +21,10 @@
   },
   {
     "id": "3",
-    "title": "O.P.160/18 Kakshi: Amminippilla",
-    "body": "https://m-storagellnw-j2apps.s.llnwi.net/content/1356cc755967872fd4fde7f8292401b4/dash/h264_baseline.mpd",
-    "serverUrl": "https://playlicense.mxplay.com/widevine/proxy?content_id=1356cc755967872fd4fde7f8292401b4",
-    "scheme": "playready",
+    "title": "CID Moosa",
+    "body": "https://m-storagellnw-j2apps.s.llnwi.net/content/5de47619da40dbc7f23d6ef0dda84b5e/dash/h264_baseline.mpd",
+    "serverUrl": "https://playlicense.mxplay.com/widevine/proxy?content_id=5de47619da40dbc7f23d6ef0dda84b5e",
+    "scheme": "widevine",
     "header": "none",
     "genre": "movie",
     "type": "dash"
