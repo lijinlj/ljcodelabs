@@ -1,15 +1,15 @@
 [
   {
     "title": "Copa and Euro",
-    "image": "https://ftvapp.000webhostapp.com/assets/copaeuro.png",
-    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Sony_Six_HD_Malayalam",
+    "image": "https://ftvserver.000webhostapp.com/assets/copaeuro.png",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Sony_Six_HD_Malayalam",
     "genre": "tv",
     "type": "hls",
     "status": "online"
   },
   {
     "title": "Euro Moments 24x7",
-    "image": "https://ftvapp.000webhostapp.com/assets/UEFAEURO2020.jpg",
+    "image": "https://ftvserver.000webhostapp.com/assets/UEFAEURO2020.jpg",
     "body": "https://pubads.g.doubleclick.net/ssai/event/E-8SUW6DQoaZZr90xqQ9ng/master.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -17,8 +17,8 @@
   },
   {
     "title": "Euro Moments 24x7",
-    "image": "https://ftvapp.000webhostapp.com/assets/UEFAEURO2020.jpg",
-    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Euro_Moments",
+    "image": "https://ftvserver.000webhostapp.com/assets/UEFAEURO2020.jpg",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Euro_Moments",
     "genre": "tv",
     "type": "hls",
     "status": "offline"
@@ -130,7 +130,7 @@
   {
     "title": "Asianet",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2891",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2891",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -138,7 +138,7 @@
   {
     "title": "Asianet Movies",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-movies-logo-300x300.jpg",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2893",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2893",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -226,7 +226,7 @@
   {
     "title": "Surya TV",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2338",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2338",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -234,7 +234,7 @@
   {
     "title": "Flowers TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/1/1c/Flowers-Onam.png",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2861",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2861",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -242,7 +242,7 @@
   {
     "title": "Kairali TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2898",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2898",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -250,7 +250,7 @@
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2899",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2899",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -258,7 +258,7 @@
   {
     "title": "SunTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2336",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2336",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -266,7 +266,7 @@
   {
     "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2335",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2335",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -274,7 +274,7 @@
   {
     "title": "Star Vijay HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/vijay-hd-logo-300x300.jpg",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2881",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2881",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -282,7 +282,7 @@
   {
     "title": "Sun Music HD",
     "image": "https://dailypricelist.com/images/tv_programs/sunmusic-tv-logo.jpg",
-    "body": "https://ftvapp.000webhostapp.com/rb.php?id=2832",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2832",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -706,7 +706,7 @@
   {
     "title": "Discovery Kids",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
-    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Discovery_Kids_Tamil",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Discovery_Kids_Tamil",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -890,7 +890,7 @@
   {
     "title": "Nick",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "https://ftvapp.000webhostapp.com/jtv.php?id=Nick_Malayalam",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Nick_Malayalam",
     "genre": "tv",
     "type": "hls",
     "status": "online"
