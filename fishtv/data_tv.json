@@ -317,7 +317,7 @@
     "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali TV",
