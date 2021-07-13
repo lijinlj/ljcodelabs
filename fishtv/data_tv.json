@@ -322,7 +322,7 @@
   {
     "title": "Kairali TV",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Kairali_TV.svg/1200px-Kairali_TV.svg.png",
-    "body": "https://live.neestream.com/neestream_01/we/index.m3u8",
+    "body": "https://live.neestream.com/neestream_01/kairalitv/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -330,7 +330,7 @@
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://live.neestream.com/neestream_01/kairalitv/index.m3u8",
+    "body": "https://live.neestream.com/neestream_01/we/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
