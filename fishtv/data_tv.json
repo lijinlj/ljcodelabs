@@ -626,7 +626,7 @@
   {
     "title": "Kappa TV",
     "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
-    "body": "https://itvorigin.multitvsolution.com/idvo/kappatv.m3u8",
+    "body": "https://idvd.multitvsolution.com/idvo/kappatv.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -683,6 +683,14 @@
     "title": "Discovery Kids",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
     "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Discovery_Kids_Tamil",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Nick",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Nick_Malayalam",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -862,14 +870,6 @@
     "genre": "tv",
     "type": "hls",
     "status": "offline"
-  },
-  {
-    "title": "Nick",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Nick_Malayalam",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
   },
   {
     "title": "Test",
