@@ -1,29 +1,5 @@
 [
   {
-    "title": "Copa and Euro",
-    "image": "https://ftvserver.000webhostapp.com/assets/copaeuro.png",
-    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Sony_Six_HD_Malayalam",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Euro Moments 24x7",
-    "image": "https://ftvserver.000webhostapp.com/assets/UEFAEURO2020.jpg",
-    "body": "https://pubads.g.doubleclick.net/ssai/event/E-8SUW6DQoaZZr90xqQ9ng/master.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Euro Moments 24x7",
-    "image": "https://ftvserver.000webhostapp.com/assets/UEFAEURO2020.jpg",
-    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Euro_Moments",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=zcrUCvBD16k",
@@ -901,6 +877,30 @@
     "body": "http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
+    "status": "offline"
+  },
+  {
+    "title": "Copa and Euro",
+    "image": "https://ftvserver.000webhostapp.com/assets/copaeuro.png",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Sony_Six_HD_Malayalam",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Euro Moments 24x7",
+    "image": "https://ftvserver.000webhostapp.com/assets/UEFAEURO2020.jpg",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/E-8SUW6DQoaZZr90xqQ9ng/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Euro Moments 24x7",
+    "image": "https://ftvserver.000webhostapp.com/assets/UEFAEURO2020.jpg",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Euro_Moments",
+    "genre": "tv",
+    "type": "hls",
     "status": "offline"
   }
 ]
