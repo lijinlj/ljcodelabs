@@ -513,7 +513,7 @@
   },
   {
     "title": "Sony Pix HD",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/http://tank.tskytech.com/jumpstart/transparentImage/SONY%20PIX%20HD.png",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
     "body": "https://bit.ly/32sOnypIXhd",
     "genre": "tv",
     "type": "hls",
