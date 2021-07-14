@@ -273,7 +273,7 @@
   },
   {
     "title": "Vismaya News",
-    "image": "https://1.bp.blogspot.com/-FEVgP2hNm54/YKHVGT4ZUSI/AAAAAAAAKgY/R0UcxbYX_jASmz29PT5W0Zh-g9w5ium2ACLcBGAsYHQ/s0/Vismaya-News.png",
+    "image": "https://drive.google.com/uc?export=download&id=1AYuFCrlyETVsk9mxYJee2kLVySiaVmSp",
     "body": "http://live.singamcloud.in:1935/vismayanews/vismayanews/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -401,7 +401,7 @@
   },
   {
     "title": "Zee Thirai",
-    "image": "https://dreamdth.com/wp-content/uploads/2019/12/Zee-Thirai.jpg",
+    "image": "https://akamaividz2.zee5.com/image/upload/w_412,h_232,c_scale,f_webp,q_auto:eco/resources/0-9-224/channel_list/1170x658withlogo_334138193.png",
     "body": "https://tv.zee5play.ml/x/224",
     "genre": "tv",
     "type": "hls",
