@@ -681,7 +681,7 @@
   },
   {
     "title": "Sony Yay",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-yay-logo-300x300.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/transparentImage/SONY%20YAY!.png",
     "body": "https://bit.ly/2WmsoNYYaY",
     "genre": "tv",
     "type": "hls",
