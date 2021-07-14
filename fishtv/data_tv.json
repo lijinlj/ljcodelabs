@@ -553,7 +553,7 @@
   },
   {
     "title": "Sony Max",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-max-hd-logo-300x300.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/transparentImage/SONY%20MAX%20HD.png",
     "body": "https://bit.ly/32bsOnymAXhd",
     "genre": "tv",
     "type": "hls",
