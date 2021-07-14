@@ -9,7 +9,7 @@
   },
   {
     "title": "Asianet News HD",
-    "image": "https://img.theweek.in/content/dam/week/news/india/images/2020/3/7/asianet-news.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_265/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12018-j9ntf12w-v1/imageContent-12018-j9ntf12w-m1.jpg",
     "body": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
