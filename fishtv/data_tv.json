@@ -513,7 +513,7 @@
   },
   {
     "title": "Sony Pix HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-pix-hd-logo-300x300.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto/http://tank.tskytech.com/jumpstart/transparentImage/SONY%20PIX%20HD.png",
     "body": "https://bit.ly/32sOnypIXhd",
     "genre": "tv",
     "type": "hls",
