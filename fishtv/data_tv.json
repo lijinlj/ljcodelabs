@@ -177,7 +177,7 @@
   },
   {
     "title": "Mazhavil HD",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_265/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
     "body": "http://livezer0.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
@@ -313,7 +313,7 @@
   },
   {
     "title": "Mazhavil HD",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_150,w_265/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
     "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -785,7 +785,7 @@
   },
   {
     "title": "Mazhavil HD (L)",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/mazhavil-manorama-hd-logo-300x300.jpg",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
