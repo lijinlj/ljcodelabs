@@ -713,7 +713,7 @@
   },
   {
     "title": "Safari TV",
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/transparentImage/Safari%20TV.png",
     "body": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
