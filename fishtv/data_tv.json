@@ -138,9 +138,9 @@
   {
     "title": "Asianet HD",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11247-j9iw5gyw-v3/imageContent-11247-j9iw5gyw-m3.jpg",
-    "body": "https://s3cloud.5centcdn.net/28d/asianet/playlist.m3u8",
+    "body": "http://tv.hero.iptv.uno:80/UwvucL2728/8b2fdH8/10183",
     "genre": "tv",
-    "type": "hls",
+    "type": "mp4",
     "status": "online"
   },
   {
