@@ -258,7 +258,7 @@
     "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-215113",
     "genre": "movie",
     "type": "hls",
-    "status": "online",
+    "status": "offline",
     "year": "2017"
   },
   {
@@ -267,7 +267,7 @@
     "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-227384",
     "genre": "movie",
     "type": "hls",
-    "status": "online",
+    "status": "offline",
     "year": "2018"
   },
   {
@@ -345,9 +345,9 @@
   {
     "title": "Operation Java",
     "image": "https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-0-408330/portrait/1920x770_1327165568.jpg",
-    "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-408330",
+    "body": "https://0gomovies.io/movie/watch-operation-java-2021-free-malayalam-movie-online-gomovies/watching/",
     "genre": "movie",
-    "type": "hls",
+    "type": "web",
     "status": "online",
     "year": "2021"
   },
@@ -375,7 +375,7 @@
     "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-122736",
     "genre": "movie",
     "type": "hls",
-    "status": "online",
+    "status": "offline",
     "year": "2018"
   },
   {
@@ -402,7 +402,7 @@
     "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-402510",
     "genre": "movie",
     "type": "hls",
-    "status": "online",
+    "status": "offline",
     "year": "2020"
   },
   {
@@ -481,18 +481,18 @@
   {
     "title": "Wolf",
     "image": "https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-0-383446/portrait/1920x770_1458033580.jpg",
-    "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-383446",
+    "body": "https://0gomovies.io/movie/watch-wolf-2021-free-malayalam-movie-online-gomovies-720p/watching/",
     "genre": "movie",
-    "type": "hls",
+    "type": "web",
     "status": "online",
     "year": "2021"
   },
   {
     "title": "Theeni",
     "image": "https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-0-364402/portrait/00364402_in_cover.jpg",
-    "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-364402",
+    "body": "https://0gomovies.io/movie/watch-theeni-2021-free-tamil-movie-online-gomovies/watching/",
     "genre": "movie",
-    "type": "hls",
+    "type": "web",
     "status": "online",
     "year": "2021"
   },
@@ -535,9 +535,9 @@
   {
     "title": "Krishnankutty Pani Thudangi",
     "image": "https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-0-383433/portrait/00383433_in_cover.jpg",
-    "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-383433",
+    "body": "https://0gomovies.io/movie/watch-krishnankutty-pani-thudangi-2021-free-malayalam-movie-online-gomovies-720p/watching/",
     "genre": "movie",
-    "type": "hls",
+    "type": "web",
     "status": "online",
     "year": "2021"
   },
@@ -556,7 +556,7 @@
     "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-365947",
     "genre": "movie",
     "type": "hls",
-    "status": "online",
+    "status": "offline",
     "year": "2020"
   },
   {
@@ -571,9 +571,9 @@
   {
     "title": "Nenjam Marappathillai",
     "image": "https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_auto,q_auto/resources/0-0-404724/portrait/1920x770_212078603.jpg",
-    "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-404724",
+    "body": "https://0gomovies.io/movie/watch-nenjam-marappathillai-2021-free-tamil-movie-online-gomovies/watching/",
     "genre": "movie",
-    "type": "hls",
+    "type": "web",
     "status": "online",
     "year": "2021"
   },
