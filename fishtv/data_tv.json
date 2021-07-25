@@ -162,10 +162,18 @@
   {
     "title": "Asianet Movies",
     "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/5577",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "online"
+  },
+  {
+    "title": "Asianet Movies",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2893",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
