@@ -402,7 +402,7 @@
   {
     "title": "Zee Cinema HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
-    "body": "https://tv.zee5play.ml/x/zeecinemahd",
+    "body": "https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=1200&e=.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -410,7 +410,7 @@
   {
     "title": "Zee Keralam HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
-    "body": "https://tv.zee5play.ml/x/129",
+    "body": "https://jio.instream.ml/jio.php?c=Zee_Keralam_HD&q=800&e=.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -434,7 +434,7 @@
   {
     "title": "Zee Tamil",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://tv.zee5play.ml/x/zeetamil",
+    "body": "https://jio.instream.ml/jio.php?c=Zee_Tamil&q=1200&e=.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
