@@ -402,7 +402,7 @@
   {
     "title": "Zee Cinema HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
-    "body": "https://jio.instream.ml/jio.php?c=Zee_Cinema_HD&q=1200&e=.m3u8",
+    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-zeecinemahd",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -410,7 +410,7 @@
   {
     "title": "Zee Keralam HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
-    "body": "https://jio.instream.ml/jio.php?c=Zee_Keralam_HD&q=800&e=.m3u8",
+    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-129",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -434,7 +434,7 @@
   {
     "title": "Zee Tamil",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://jio.instream.ml/jio.php?c=Zee_Tamil&q=1200&e=.m3u8",
+    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-zeetamil",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -442,7 +442,7 @@
   {
     "title": "Zee Thirai",
     "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
-    "body": "https://tv.zee5play.ml/x/224",
+    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-224",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -602,7 +602,7 @@
   {
     "title": "&Flix HD",
     "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "https://tv.zee5play.ml/x/channel_2105335046",
+    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-channel_2105335046",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -746,7 +746,7 @@
   {
     "title": "Zee5 Kids",
     "image": "https://akamaividz2.zee5.com/image/upload/w_368,h_207,c_scale,f_auto,q_auto/resources/0-9-290/channel_list/1170x658_zee5kid_983708240.png",
-    "body": "https://tv.zee5play.ml/x/290",
+    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-290",
     "genre": "tv",
     "type": "hls",
     "status": "offline"
@@ -786,7 +786,7 @@
   {
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "https://tv.zee5play.ml/x/ddmalayalam",
+    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-ddmalayalam",
     "genre": "tv",
     "type": "hls",
     "status": "online"
