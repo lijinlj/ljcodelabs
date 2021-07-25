@@ -966,5 +966,69 @@
     "genre": "tv",
     "type": "hls",
     "status": "offline"
-  }
+  },
+  {
+    "title": "Surya TV (SunNxt)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
+  {
+    "title": "Surya Movies (SunNxt)",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryamovies/playlist.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
+  {
+    "title": "Surya Comedy (SunNxt)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryacomedy/playlist.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
+  {
+    "title": "Surya Music (SunNxt)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
+  {
+    "title": "Kochu TV (SunNxt)",
+    "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
+    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
+  {
+    "title": "SunTV HD (SunNxt)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
+    "body": "http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD (SunNxt)",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
+  {
+    "title": "Sun Music HD (SunNxt)",
+    "image": "https://sund-images.sunnxt.com/9013/250x250_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
+    "body": "http://livezer0.hjkm.info:11991/vulcan/sunmusichd/playlist.m3u8",
+    "genre": "tv",
+    "type": "dash",
+    "status": "online"
+  },
 ]
