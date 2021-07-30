@@ -154,9 +154,9 @@
   {
     "title": "Asianet HD",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11247-j9iw5gyw-v3/imageContent-11247-j9iw5gyw-m3.jpg",
-    "body": "http://212.224.98.196:2200/R-EX/MALAYALAM_ASIANET_HD-in/index.m3u8?token=",
+    "body": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/82579",
     "genre": "tv",
-    "type": "hls",
+    "type": "mp4",
     "status": "online"
   },
   {
