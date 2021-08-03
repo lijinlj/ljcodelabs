@@ -4,7 +4,7 @@
     "image": "https://pbs.twimg.com/media/E7ygZjbUUAYQrcG?format=jpg&name=large",
     "body": "https://fishtv-server.herokuapp.com/yt_server/yt/?s=gjOLk0L830c",
     "genre": "tv",
-    "type": "hls",
+    "type": "mp4",
     "status": "online"
   },
   {
