@@ -1,19 +1,11 @@
 [
   {
-    "title": "Ind vs Arg (S1)",
-    "image": "https://cdn.insidesport.co/wp-content/uploads/2021/08/03114109/5369fb08-f4f8-4d79-99c5-cfb59aa4a8e8.jpg",
-    "body": "https://bit.ly/2B9tEN1hd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
     "title": "Ind vs Arg (S2)",
     "image": "https://cdn.insidesport.co/wp-content/uploads/2021/08/03114109/5369fb08-f4f8-4d79-99c5-cfb59aa4a8e8.jpg",
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=1992",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Eng (S1)",
