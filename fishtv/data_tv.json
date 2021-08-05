@@ -874,9 +874,9 @@
   {
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-ddmalayalam",
+    "body": "https://www.zee5.com/channels/details/dd-malayalam/0-9-ddmalayalam",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
