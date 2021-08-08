@@ -450,7 +450,7 @@
   {
     "title": "Zee Cinema HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=0-9-zeecinemahd",
+    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/1d59d08fec89495584d2b7e4059492a4",
     "genre": "tv",
     "type": "hls",
     "status": "online"
