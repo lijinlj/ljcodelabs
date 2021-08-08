@@ -650,7 +650,7 @@
   {
     "title": "&Flix HD",
     "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "https://rftv.xyz/zee5/zeeplay.php?c=0-9-channel_2105335046",
+    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=andflixhd",
     "genre": "tv",
     "type": "hls",
     "status": "online"
