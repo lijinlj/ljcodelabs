@@ -1,5 +1,15 @@
 [
   {
+    "title": "Kalavu",
+    "image": "https://akamaividz2.zee5.com/image/upload/w_630,h_945,c_scale,f_webp,q_auto:eco/resources/0-0-25984/portrait/kalavu1920x770.jpg",
+    "body": "https://ftvserver.000webhostapp.com/c5.php?id=0-0-25984",
+    "subtitle": "none",
+    "genre": "movie",
+    "type": "hls",
+    "status": "online",
+    "year": "2019"
+  },
+  {
     "title": "The Suicide Squad",
     "image": "https://m.media-amazon.com/images/M/MV5BNGM3YzdlOWYtNjViZS00MTE2LWE1MWUtZmE2ZTcxZjcyMmU3XkEyXkFqcGdeQXVyODEyMTI1MjA@._V1_FMjpg_UX1000.jpg",
     "body": "https://ftvserver.000webhostapp.com/vidnext.php/?s=MzQ3NzY0",
