@@ -385,7 +385,7 @@
   },
   {
     "title": "Amrita TV",
-    "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
     "body": "http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
@@ -492,7 +492,7 @@
     "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
     "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/48fbba85dc7643df9a97fbf6c30cf6a3",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -809,7 +809,7 @@
   },
   {
     "title": "Amrita TV",
-    "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
     "body": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -836,7 +836,7 @@
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
     "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/50ca90ede1dc421ca67fe1392721587f",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -945,7 +945,7 @@
   },
   {
     "title": "Amrita TV (L)",
-    "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
     "body": "http://127.0.0.1:8000/redbox/rb/?s=http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
