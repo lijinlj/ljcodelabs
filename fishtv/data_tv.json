@@ -162,9 +162,9 @@
   {
     "title": "Asianet HD",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11247-j9iw5gyw-v3/imageContent-11247-j9iw5gyw-m3.jpg",
-    "body": "http://iptvtree.net:8080/oMnFdj88ij/uQjzzncJGN/82579",
+    "body": "https://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8",
     "genre": "tv",
-    "type": "mp4",
+    "type": "hls",
     "status": "offline"
   },
   {
@@ -275,7 +275,7 @@
   {
     "title": "Mazhavil Manorama",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
-    "body": "https://indo51.gcdn.co/MALYLAM-MAZHAVILMANORAMA/mono.m3u8",
+    "body": "https://indo51.gcdn.co/MALYLAM-MAZHAVILMANORAMA/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
