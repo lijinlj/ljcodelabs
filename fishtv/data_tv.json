@@ -336,6 +336,14 @@
     "status": "online"
   },
   {
+    "title": "Mazhavil Manorama",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
+    "body": "https://indo51.gcdn.co/MALYLAM-MAZHAVILMANORAMA/mono.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Kairali TV",
     "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
     "body": "https://live.neestream.com/neestream_01/kairalitv/index.m3u8",
