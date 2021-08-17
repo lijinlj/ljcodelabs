@@ -2,10 +2,10 @@
   {
     "title": "Snake Eyes: G.I. Joe Origins",
     "image": "https://m.media-amazon.com/images/M/MV5BNGJmMWUwMDgtYjEyNS00YmZhLTk3ZGEtZDliZDBhMDJkMGUyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX1000_.jpg",
-    "body": "https://ftvserver.000webhostapp.com/vidnext.php/?s=MzQ3MDA1",
+    "body": "https://ftvserver.000webhostapp.com/vidcloud.php/?id=MzQ3MDA1",
     "subtitle": "https://drive.google.com/uc?export=download&id=1MkUJAYhRzSUDtl-nNhZQRMr_gh_Vr2Xc",
     "genre": "movie",
-    "type": "mp4",
+    "type": "hls",
     "status": "online",
     "year": "2021"
   },
