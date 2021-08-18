@@ -15,9 +15,9 @@
                    "title": "Season 01",
                    "year": "Episode 2", 
                    "image": "none", 
-                   "body": "https://ftvserver.000webhostapp.com/vidcloud.php/?id=MzQ4Mzg4",
+                   "body": "https://ftvserver.000webhostapp.com/vidnext.php/?s=MzQ4Mzg4",
                    "subtitle": "https://www.1tamilmv.one/applications/core/interface/file/attachment.php?id=81302",
-                   "type": "hls"
+                   "type": "none"
                   },
                ],
     "genre": "show",
