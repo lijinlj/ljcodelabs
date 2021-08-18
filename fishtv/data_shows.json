@@ -11,6 +11,14 @@
                    "subtitle": "https://drive.google.com/uc?export=download&id=1KedF5LLIhkW4tKMrQQx15ESJvUSrm5Hd",
                    "type": "none"
                   },
+                  {
+                   "title": "Season 01",
+                   "year": "Episode 2", 
+                   "image": "none", 
+                   "body": "https://ftvserver.000webhostapp.com/vidcloud.php/?id=MzQ4Mzg4",
+                   "subtitle": "https://drive.google.com/uc?export=download&id=1KedF5LLIhkW4tKMrQQx15ESJvUSrm5Hd",
+                   "type": "hls"
+                  },
                ],
     "genre": "show",
     "type": "mp4",
