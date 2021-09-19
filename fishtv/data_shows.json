@@ -1,84 +1,39 @@
 [
   {
-    "title": "Money Heist S5",
-    "image": "https://m.media-amazon.com/images/M/MV5BNDJkYzY3MzMtMGFhYi00MmQ4LWJkNTgtZGNiZWZmMTMxNzdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000.jpg",
-    "episode": [
-                  {
-                   "title": "Episode",
-                   "year": "1", 
-                   "image": "none", 
-                   "body": "https://www.files2link.ga/190401", 
-                   "type": "none"
-                  },
-                  {
-                   "title": "Episode",
-                   "year": "2", 
-                   "image": "none", 
-                   "body": "https://www.files2link.ga/190403", 
-                   "type": "none"
-                  },
-                  {
-                   "title": "Episode",
-                   "year": "3", 
-                   "image": "none", 
-                   "body": "https://www.files2link.ga/190405", 
-                   "type": "none"
-                  },
-                  {
-                   "title": "Episode",
-                   "year": "4", 
-                   "image": "none", 
-                   "body": "https://www.files2link.ga/190407", 
-                   "type": "none"
-                  },
-                  {
-                   "title": "Episode",
-                   "year": "5", 
-                   "image": "none", 
-                   "body": "https://www.files2link.ga/190409", 
-                   "type": "none"
-                  },
-               ],
-    "genre": "show",
-    "type": "mp4",
-    "status": "offline",
-    "year": "2021"
-  },
-  {
     "title": "Money Heist S1-S5",
     "image": "https://m.media-amazon.com/images/M/MV5BNDJkYzY3MzMtMGFhYi00MmQ4LWJkNTgtZGNiZWZmMTMxNzdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000.jpg",
     "episode": [
                   {
                    "title": "Season",
-                   "year": "1", 
+                   "year": "2017", 
                    "image": "none", 
                    "body": "http://vidorg.net/embed-dem6oid5fz31.html", 
                    "type": "none"
                   },
                   {
                    "title": "Season",
-                   "year": "2", 
+                   "year": "2017", 
                    "image": "none", 
                    "body": "http://vidorg.net/embed-p4xljrni91vm.html", 
                    "type": "none"
                   },
                   {
                    "title": "Season",
-                   "year": "3", 
+                   "year": "2019", 
                    "image": "none", 
                    "body": "http://vidorg.net/embed-itnqygdbbglt.html", 
                    "type": "none"
                   },
                   {
                    "title": "Season",
-                   "year": "4", 
+                   "year": "2020", 
                    "image": "none", 
                    "body": "http://vidorg.net/embed-p9ycrh0te0pd.html", 
                    "type": "none"
                   },
                   {
                    "title": "Season",
-                   "year": "5", 
+                   "year": "2021", 
                    "image": "none", 
                    "body": "http://vidmx.xyz/xembed-3lyo8nr98h24.html", 
                    "type": "none"
