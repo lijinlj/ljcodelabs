@@ -205,7 +205,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2891",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -213,7 +213,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2893",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV",
@@ -221,7 +221,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2338",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers TV",
@@ -229,7 +229,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2861",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali TV",
@@ -237,7 +237,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2898",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali WE",
@@ -245,7 +245,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2899",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "SunTV HD",
@@ -253,7 +253,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2336",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "KTV HD",
@@ -261,7 +261,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2335",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Vijay HD",
@@ -269,7 +269,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2881",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD",
@@ -277,7 +277,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2832",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Vismaya News",
