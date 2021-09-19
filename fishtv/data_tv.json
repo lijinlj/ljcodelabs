@@ -1,13 +1,5 @@
 [
   {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://a2.hitcric.club/?m=1",
-    "genre": "tv",
-    "type": "web",
-    "status": "offline"
-  },
-  {
     "title": "IPL 2021 (VPN)",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
     "body": "https://mhdtvworld.xyz/delta/falcon/max.php?id=1255FD67&e=.m3u8",
@@ -26,23 +18,31 @@
   {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://93.152.174.144:4000/play/ss1in/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
     "body": "http://93.152.174.144:4000/play/ss2in/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
   },
   {
+    "title": "IPL 2021 (Tamil)",
+    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
+    "body": "http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
     "body": "http://93.152.174.144:4000/play/ss3in/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "IPL 2021",
+    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
+    "body": "http://93.152.174.144:4000/play/ss1in/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
