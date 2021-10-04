@@ -5,7 +5,7 @@
     "body": "https://mhdtvworld.xyz/test/ipl.php?e=.m3u8",
     "genre": "tv",
     "type": "max",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021 (VPN)",
@@ -18,9 +18,9 @@
   {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/3aPXavNBo8CGrfE7F2KpgaKMvA_ZodukDajNBlvcNrQdTb5LIh_CKPevROC3QlRyAucH6Lbn72QCOtFsPca2Bw/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8",
+    "body": "http://coqtv.tv:8080/mag00:1A:79:12:24:E4/DW7BHp7VMc/5756",
     "genre": "tv",
-    "type": "hls",
+    "type": "mp4",
     "status": "online"
   },
   {
