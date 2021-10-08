@@ -26,10 +26,10 @@
   {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://93.152.174.144:4000/play/ss2in/index.m3u8",
+    "body": "http://coqtv.tv:8080/mag00:1A:79:12:24:E4/DW7BHp7VMc/5760",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "mp4",
+    "status": "online"
   },
   {
     "title": "IPL 2021 (Tamil)",
