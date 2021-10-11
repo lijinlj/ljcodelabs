@@ -1,19 +1,11 @@
 [
   {
-    "title": "IPL 2021 (VPN)",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "https://mhdtvworld.xyz/test/ipl.php?e=.m3u8",
-    "genre": "tv",
-    "type": "max",
-    "status": "offline"
-  },
-  {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
     "body": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/UVGRudpug9v_WmGH0pZfAY6v9-7xw3kXlhRp9u1dizUj4wCy8yDMMA2PaaikulTdxt2QgCyOXw-GULnQSgKfsA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live@OfficialLiveCricketLinks",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021",
@@ -30,30 +22,6 @@
     "genre": "tv",
     "type": "mp4",
     "status": "online"
-  },
-  {
-    "title": "IPL 2021 (Tamil)",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://51.159.19.36/pkind-Sports:StarSportstamil1/tracks-v1a1/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://93.152.174.144:4000/play/ss3in/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://93.152.174.144:4000/play/ss1in/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
   },
   {
     "title": "24 News HD",
@@ -117,7 +85,7 @@
     "body": "http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Sports 2",
