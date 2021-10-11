@@ -173,7 +173,7 @@
     "body": "https://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV HD",
@@ -181,7 +181,7 @@
     "body": "https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Mazhavil Manorama",
@@ -189,7 +189,7 @@
     "body": "https://indo51.gcdn.co/MALYLAM-MAZHAVILMANORAMA/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Plus",
@@ -197,7 +197,7 @@
     "body": "https://indo51.gcdn.co/MALYLAM-AsianetPlus/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -237,7 +237,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2891",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Asianet Movies",
@@ -245,7 +245,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2893",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya TV HD",
@@ -261,7 +261,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2861",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Kairali TV",
@@ -269,7 +269,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2898",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Kairali WE",
@@ -277,7 +277,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2899",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "SunTV HD",
@@ -285,7 +285,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2336",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "KTV HD",
@@ -293,7 +293,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2335",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Star Vijay HD",
@@ -301,7 +301,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2881",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Sun Music HD",
@@ -309,7 +309,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2832",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Vismaya News",
@@ -325,7 +325,7 @@
     "body": "http://livezer0.hjkm.info:11991/vulcan/asianetmovies/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Surya TV",
