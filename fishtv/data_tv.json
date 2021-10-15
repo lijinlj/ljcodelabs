@@ -18,7 +18,15 @@
   {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://starshare.live:8080/live/200921/200921/2496.ts",
+    "body": "http://starshare.live:8080/live/200921/200921/12.ts",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "online"
+  },
+  {
+    "title": "IPL 2021",
+    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
+    "body": "http://starshare.live:8080/live/200921/200921/23566.ts",
     "genre": "tv",
     "type": "mp4",
     "status": "online"
