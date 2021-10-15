@@ -5,23 +5,23 @@
     "body": "https://prod-fastly-eu-central-1.video.pscp.tv/Transcoding/v1/hls/Frd0kwRpogTWeEgHB1ikMWF-Ctg8NDBgViALl1U5o4BqXJ00_KPYKRBq0rw2OfAQsCsFn_BG288kBgu-ARaZ1A/transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live@OfficialLiveCricketLinks",
     "genre": "tv",
     "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "IPL 2021",
+    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
+    "body": "http://starshare.live:8080/live/200921/200921/2496.ts",
+    "genre": "tv",
+    "type": "mp4",
     "status": "online"
   },
   {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://coqtv.tv:8080/mag00:1A:79:12:24:E4/DW7BHp7VMc/5756",
+    "body": "http://starshare.live:8080/live/200921/200921/2496.ts",
     "genre": "tv",
     "type": "mp4",
-    "status": "offline"
-  },
-  {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://coqtv.tv:8080/mag00:1A:79:12:24:E4/DW7BHp7VMc/5760",
-    "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "24 News HD",
