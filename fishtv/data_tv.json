@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ind vs Maldvies",
+    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
+    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Dsports",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://ftvserver.000webhostapp.com/ythls.php?id=zcrUCvBD16k",
