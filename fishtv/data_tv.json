@@ -4,7 +4,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/SAFF_Championship_Maldives_logo.png/220px-SAFF_Championship_Maldives_logo.png",
     "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Dsports_HD",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
