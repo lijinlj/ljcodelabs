@@ -1034,10 +1034,10 @@
   {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "https://mhdtvworld.xyz/test/ipl.php?e=.m3u8",
+    "body": "https://mhdtvworld.xyz:443/test/ipl.php?e=.m3u8",
     "genre": "tv",
     "type": "max",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "IPL 2021",
