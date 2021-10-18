@@ -1,5 +1,21 @@
 [
   {
+    "title": "ICC T20 World Cup",
+    "image": "https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=29956",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "ICC T20 World Cup",
+    "image": "https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg",
+    "body": "http://mytv.fun:8080/wpsn55ozcz/4yl4k7iluk/688714",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "online"
+  },
+  {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://ftvserver.000webhostapp.com/ythls.php?id=zcrUCvBD16k",
@@ -1026,18 +1042,10 @@
   {
     "title": "IPL 2021",
     "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=29956",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=1996",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021",
@@ -1045,7 +1053,7 @@
     "body": "http://RIYAZ@qqtv.nl:8080/live/loni/999999/275731.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021",
@@ -1053,7 +1061,7 @@
     "body": "http://RIYAZ@qqtv.nl:8080/live/loni/999999/30539.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021",
@@ -1061,7 +1069,7 @@
     "body": "http://mytv.fun:8080/wpsn55ozcz/4yl4k7iluk/683738",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IPL 2021",
@@ -1069,15 +1077,7 @@
     "body": "http://mytv.fun:8080/wpsn55ozcz/4yl4k7iluk/677818",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
-  },
-  {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "http://mytv.fun:8080/wpsn55ozcz/4yl4k7iluk/688714",
-    "genre": "tv",
-    "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Nepal",
@@ -1085,7 +1085,7 @@
     "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Dsports_HD",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Nepal",
@@ -1093,6 +1093,6 @@
     "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Dsports",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
 ]
