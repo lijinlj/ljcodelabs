@@ -10,6 +10,14 @@
   {
     "title": "ICC T20 World Cup",
     "image": "https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg",
+    "body": "http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8?key&auth=OfficialLiveCricketLinks",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "ICC T20 World Cup",
+    "image": "https://static.toiimg.com/thumb/msid-85450736,imgsize-114582,width-400,resizemode-4/85450736.jpg",
     "body": "https://mhdtvworld.xyz/delta/falcon/max.php?id=36133&e=.m3u8",
     "genre": "tv",
     "type": "max",
