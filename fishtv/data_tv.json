@@ -10,18 +10,10 @@
   {
     "title": "Ind vs Nz",
     "image": "https://www.jansatta.com/wp-content/uploads/2021/11/IND-vs-NZ_1st-T20.jpg",
-    "body": "http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8?key&auth=OfficialLiveCricketLinks",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Ind vs Nz",
-    "image": "https://www.jansatta.com/wp-content/uploads/2021/11/IND-vs-NZ_1st-T20.jpg",
     "body": "https://mhdtvworld.xyz/delta/falcon/max.php?id=36133&e=.m3u8",
     "genre": "tv",
     "type": "max",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Nz",
@@ -29,7 +21,7 @@
     "body": "https://mhdtvworld.xyz/delta/falcon/max.php?id=36LKP4&e=.m3u8",
     "genre": "tv",
     "type": "max",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Nz",
@@ -37,7 +29,7 @@
     "body": "https://mhdtvworld.xyz/delta/falcon/max.php?id=42369&e=.m3u8",
     "genre": "tv",
     "type": "max",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Nz",
@@ -45,7 +37,7 @@
     "body": "https://mhdtvworld.xyz/delta/falcon/max.php?id=410gh59&e=.m3u8",
     "genre": "tv",
     "type": "max",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Nz",
@@ -53,7 +45,7 @@
     "body": "http://mytv.fun:8080/wpsn55ozcz/4yl4k7iluk/688714",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "24 News HD",
