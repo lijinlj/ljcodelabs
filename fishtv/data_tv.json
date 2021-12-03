@@ -5,7 +5,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=29956",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Ind vs Nz",
@@ -96,12 +96,12 @@
     "status": "offline"
   },
   {
-    "title": "Star Sports 1 HD",
+    "title": "Star Sports 1",
     "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3979",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=29956",
     "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Star Sports 1",
