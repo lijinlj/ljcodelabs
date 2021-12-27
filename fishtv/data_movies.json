@@ -1265,12 +1265,12 @@
     "year": "2021"
   },
   {
-    "title": "Test_webx",
+    "title": "Test_drm",
     "image": "https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/205/265/datas/gallery.jpg",
     "body": "https://ftvserver.000webhostapp.com/drm.php?id=2",
     "genre": "movie",
     "type": "drm",
-    "status": "offline",
+    "status": "online",
     "year": "2021"
   }
 ]
