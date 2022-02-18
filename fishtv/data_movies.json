@@ -1,10 +1,19 @@
 [
   {
-    "title": "Hridayam",
+    "title": "Hridayam HD",
     "image": "https://m.media-amazon.com/images/M/MV5BN2E5ZGVmZjUtZjYzMS00NDFlLTk2M2MtODAzZDU4ZjM2NWY3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
     "body": "https://file2directlink.herokuapp.com/390627662209063110880598060/Hridayam%20(2022)%20Malayalam%20HQ%20HDRip%20-%20720p%20-%20x264%20-%20(DD+%20.mkv",
     "genre": "movie",
     "type": "mp4",
+    "status": "online",
+    "year": "2022"
+  },
+  {
+    "title": "Hridayam",
+    "image": "https://m.media-amazon.com/images/M/MV5BN2E5ZGVmZjUtZjYzMS00NDFlLTk2M2MtODAzZDU4ZjM2NWY3XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_FMjpg_UX1000_.jpg",
+    "body": "https://streamlare.com/e/vr8WdlWPwp2njx4q",
+    "genre": "movie",
+    "type": "web",
     "status": "online",
     "year": "2022"
   },
