@@ -2,13 +2,21 @@
   {
     "title": "IPL 1",
     "image": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_560/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1645187372%2Fbvnwx8w4d8nciqsdrzdq.png",
+    "body": "https://hindustantv.xyz",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "IPL 2",
+    "image": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_560/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1645187372%2Fbvnwx8w4d8nciqsdrzdq.png",
     "body": "https://cdn.livepeer.com/hls/5e90vekracqwxfvw/1_0/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
   },
   {
-    "title": "IPL 2",
+    "title": "IPL 3",
     "image": "https://res.cloudinary.com/dwzmsvp7f/image/fetch/q_75,f_auto,w_560/https%3A%2F%2Fmedia.insider.in%2Fimage%2Fupload%2Fc_crop%2Cg_custom%2Fv1645187372%2Fbvnwx8w4d8nciqsdrzdq.png",
     "body": "https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/2snHf7xmEkj5YwUWbTCpuuhHeSQeaAPM9THWkIvAdtcyBLLPsSp6XDx1xkatGgQv497ggGCbamPoWmx9Lqx91Q/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live",
     "genre": "tv",
