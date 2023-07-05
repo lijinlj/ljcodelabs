@@ -85,7 +85,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=29956",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Sports 1",
@@ -194,17 +194,17 @@
   {
     "title": "Kairali TV",
     "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
-    "body": "https://live.neestream.com/neestream_01/kairalitv/index.m3u8",
+    "body": "https://jio.startv.buzz/player1.php?id=710&slug=Kairali_TV",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://live.neestream.com/neestream_01/we/index.m3u8",
+    "body": "https://jio.startv.buzz/player1.php?id=662&slug=Manorama_News",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
@@ -240,6 +240,14 @@
     "status": "online"
   },
   {
+    "title": "Surya Comedy",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "body": "https://jio.startv.buzz/player1.php?id=1662&slug=Surya_Comedy",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
     "title": "Kairali TV",
     "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2898",
@@ -253,7 +261,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2899",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "SunTV HD",
@@ -277,7 +285,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2881",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD",
@@ -318,14 +326,6 @@
     "genre": "tv",
     "type": "redbox",
     "status": "offline"
-  },
-  {
-    "title": "Surya Comedy",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
-    "body": "https://jio.startv.buzz/player1.php?id=1662&slug=Surya_Comedy",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
   },
   {
     "title": "Flowers TV",
