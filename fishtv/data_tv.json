@@ -117,7 +117,7 @@
     "body": "https://bit.ly/2B9tEN1hd",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Ten 2",
@@ -125,7 +125,7 @@
     "body": "https://bit.ly/2DOtEN2hd",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Ten 3",
@@ -133,7 +133,7 @@
     "body": "https://bit.ly/2OwtEn3hd",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Six",
@@ -141,7 +141,7 @@
     "body": "https://bit.ly/3j8sIx7sd",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet HD",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Kairali TV",
-    "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
+    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
     "body": "https://jio.startv.buzz/player1.php?id=710&slug=Kairali_TV",
     "genre": "tv",
     "type": "web",
@@ -202,7 +202,7 @@
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://jio.startv.buzz/player1.php?id=662&slug=Manorama_News",
+    "body": "https://jio.startv.buzz/player1.php?id=731&slug=Kairali_WE_TV",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -243,6 +243,14 @@
     "title": "Surya Comedy",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
     "body": "https://jio.startv.buzz/player1.php?id=1662&slug=Surya_Comedy",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Surya Music",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
+    "body": "https://jio.startv.buzz/player1.php?id=747&slug=Surya_Music",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -301,7 +309,7 @@
     "body": "http://live.singamcloud.in:1935/vismayanews/vismayanews/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -557,14 +565,6 @@
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26566&e=.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Surya Music",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
-    "body": "https://jio.startv.buzz/player1.php?id=747&slug=Surya_Music",
-    "genre": "tv",
-    "type": "web",
     "status": "offline"
   },
   {
