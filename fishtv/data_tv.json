@@ -159,7 +159,14 @@
     "type": "web",
     "status": "online"
   },
-  
+  {
+    "title": "Zee Keralam HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
+    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=zkeralamhd",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
   {
     "title": "Asianet HD",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11247-j9iw5gyw-v3/imageContent-11247-j9iw5gyw-m3.jpg",
@@ -195,17 +202,17 @@
   {
     "title": "SunTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2336",
+    "body": "https://jio.startv.buzz/player1.php?id=896&slug=Sun_TV_HD",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2335",
+    "body": "https://jio.startv.buzz/player1.php?id=894&slug=KTV_HD",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
@@ -219,23 +226,15 @@
   {
     "title": "Sun Music HD",
     "image": "https://sund-images.sunnxt.com/9013/250x250_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2832",
+    "body": "https://jio.startv.buzz/player1.php?id=895&slug=Sun_Music_HD",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "Zee Cinema HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
     "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/1d59d08fec89495584d2b7e4059492a4",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Zee Keralam HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=zkeralamhd",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -259,9 +258,9 @@
   {
     "title": "Zee Tamil",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=zeetamilhd",
+    "body": "https://jio.startv.buzz/player1.php?id=1356&slug=Zee_Tamil_HD",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
