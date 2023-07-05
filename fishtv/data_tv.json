@@ -57,7 +57,7 @@
   },
   {
     "title": "Mathrubumi News HD",
-    "image": "https://www.mathrubhumi.com/polopoly_fs/1.1464579.1477762119!/image/image.jpg_gen/derivatives/landscape_928/image.jpg",
+    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",
     "body": "https://jio.startv.buzz/player1.php?id=780&slug=Mathrubhumi_News",
     "genre": "tv",
     "type": "web",
@@ -78,70 +78,6 @@
     "genre": "web",
     "type": "hls",
     "status": "online"
-  },
-  {
-    "title": "Star Sports 1",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=29956",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Star Sports 1",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
-    "body": "http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Star Sports 2",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
-    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/397844",
-    "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
-  },
-  {
-    "title": "Star Sports (Hindi)",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h",
-    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3977",
-    "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Ten 1",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/2B9tEN1hd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Ten 2",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/2DOtEN2hd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Ten 3",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/2OwtEn3hd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Six",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/3j8sIx7sd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
   },
   {
     "title": "Asianet HD",
@@ -256,20 +192,28 @@
     "status": "online"
   },
   {
-    "title": "Kairali TV",
-    "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2898",
+    "title": "Amrita TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
+    "body": "https://jio.startv.buzz/player1.php?id=723&slug=Amrita_TV",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
   },
   {
-    "title": "Kairali WE",
-    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2899",
+    "title": "Kappa TV",
+    "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
+    "body": "https://jio.startv.buzz/player1.php?id=786&slug=Kappa_TV",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Kochu TV",
+    "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
+    "body": "https://jio.startv.buzz/player1.php?id=556&slug=Kochu_TV",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
   },
   {
     "title": "SunTV HD",
@@ -302,142 +246,6 @@
     "genre": "tv",
     "type": "hls",
     "status": "online"
-  },
-  {
-    "title": "Vismaya News",
-    "image": "https://drive.google.com/uc?export=download&id=1AYuFCrlyETVsk9mxYJee2kLVySiaVmSp",
-    "body": "http://live.singamcloud.in:1935/vismayanews/vismayanews/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Asianet Movies",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/asianet-movies-logo-300x300.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/asianetmovies/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Surya TV",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/suryahd/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Surya Movies",
-    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/suryamovies/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Flowers TV",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/flowerstv/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Mazhavil HD",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/mazhavilmanoramahd/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "KTV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/ktvhd/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Kairali TV",
-    "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/kairalitv/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Kairali WE",
-    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/kairaliwetv/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Amrita TV",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/amritatv/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Surya Comedy",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/suryacomedy/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "SunTV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
-    "body": "http://uk4.zecast.com:1935/star-live/suntv.stream/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Flowers TV",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/flowerstv/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Mazhavil HD",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/mazhavilmanoramahd/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "KTV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "http://uk1.zecast.com:1935/star-live/ktv/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Kairali TV",
-    "image": "http://sagraecdnems03.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png",
-    "body": "http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Kairali WE",
-    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
   },
   {
     "title": "Zee Cinema HD",
@@ -701,22 +509,6 @@
     "body": "https://live.hungama.com/linear/dil-se/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kappa TV",
-    "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
-    "body": "https://idvd.multitvsolution.com/idvo/kappatv.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kochu TV",
-    "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/kochutv/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
     "status": "online"
   },
   {
@@ -1099,6 +891,71 @@
     "title": "Ind vs Nepal",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cd/SAFF_Championship_Maldives_logo.png/220px-SAFF_Championship_Maldives_logo.png",
     "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Dsports",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  
+  {
+    "title": "Star Sports 1",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
+    "body": "https://ftvserver.000webhostapp.com/rb.php?id=29956",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Star Sports 1",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1167/661167-h",
+    "body": "http://starlive.hjkm.info:11991/junosafe/starsports1/playlist.m3u8",
+    "genre": "tv",
+    "type": "redbox",
+    "status": "offline"
+  },
+  {
+    "title": "Star Sports 2",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1168/661168-h",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/397844",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "offline"
+  },
+  {
+    "title": "Star Sports (Hindi)",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1171/661171-h",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3977",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "offline"
+  },
+  {
+    "title": "Sony Ten 1",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/2B9tEN1hd",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Sony Ten 2",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/2DOtEN2hd",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Sony Ten 3",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/2OwtEn3hd",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Sony Six",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg",
+    "body": "https://bit.ly/3j8sIx7sd",
     "genre": "tv",
     "type": "hls",
     "status": "offline"
