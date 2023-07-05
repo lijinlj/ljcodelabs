@@ -5,7 +5,7 @@
     "body": "https://jio.startv.buzz/player1.php?id=1250&slug=TWENTY_FOUR_NEWS",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IND vs WI",
@@ -34,8 +34,8 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ythls.php?id=xxb1NXE_F1M",
-    "genre": "tv",
+    "body": "https://jio.startv.buzz/player1.php?id=1250&slug=TWENTY_FOUR_NEWS",
+    "genre": "web",
     "type": "hls",
     "status": "online"
   },
@@ -50,32 +50,32 @@
   {
     "title": "Manorama News HD",
     "image": "https://i.ytimg.com/vi/SokLD_NbOgg/maxresdefault.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ythls.php?id=JtLBF_Gjeiw",
-    "genre": "tv",
+    "body": "https://jio.startv.buzz/player1.php?id=662&slug=Manorama_News",
+    "genre": "web",
     "type": "hls",
     "status": "online"
   },
   {
     "title": "Mathrubumi News HD",
     "image": "https://www.mathrubhumi.com/polopoly_fs/1.1464579.1477762119!/image/image.jpg_gen/derivatives/landscape_928/image.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ythls.php?id=z3EoIQAKJ5c",
-    "genre": "tv",
+    "body": "https://jio.startv.buzz/player1.php?id=780&slug=Mathrubhumi_News",
+    "genre": "web",
     "type": "hls",
     "status": "online"
   },
   {
     "title": "News18 Keralam",
     "image": "https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027920_channel_1533906346_channel_1533120932_News18-Kerala11.png",
-    "body": "https://ftvserver.000webhostapp.com/ythls.php?id=ehbpeMBKKC8",
+    "body": "https://jio.startv.buzz/player1.php?id=965&slug=News_18_Kerala",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "Media One HD",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png",
-    "body": "https://ftvserver.000webhostapp.com/ythls.php?id=yIe3anl_2Ks",
-    "genre": "tv",
+    "body": "https://jio.startv.buzz/player1.php?id=910&slug=Media_One_TV",
+    "genre": "web",
     "type": "hls",
     "status": "online"
   },
