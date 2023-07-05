@@ -5,7 +5,7 @@
     "body": "https://live.fancode.com/hls/live/2042881/4782english49752ta-di/1080p.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IND vs WI",
@@ -13,7 +13,7 @@
     "body": "https://livehin.fancode.com/hls/live/2093039/5270hindi49752ta-no/1080p.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IND vs WI",
@@ -21,7 +21,7 @@
     "body": "https://vkvsd84.mycdn.me/hls/2764677974569.m3u8/sig/qqf2QTPROGY/expires/1659891234181/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/3774850542377/2764677974569_high/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IND vs WI",
@@ -29,12 +29,12 @@
     "body": "http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ythls.php?id=pJ4hrq3VXFk",
+    "body": "https://ftvserver.000webhostapp.com/ythls.php?id=xxb1NXE_F1M",
     "genre": "tv",
     "type": "hls",
     "status": "online"
