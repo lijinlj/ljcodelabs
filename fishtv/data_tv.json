@@ -1,10 +1,10 @@
 [
   {
-    "title": "IND vs WI",
+    "title": "test",
     "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgdcudqKAIz1EENJhTCq4Aj5uUNYn_1j54sUpa6Kom0CgmQz4fkhwgkYcw-VbTG319tj-M_U6TKm7pkB8vN17swI1e_CfR-LTA0qwii5Phb63Y9-nUijM2_ExACBJVtrjvGHHFbFNum_JQPQMy9fm8cKqWxqcbzUgAIL2pKXPoc6JeCEPZftnWaIqkd=s600",
-    "body": "https://www.youtube.com/watch?v=xxb1NXE_F1M",
+    "body": "https://ythls.onrender.com/video/xxb1NXE_F1M.m3u8",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
