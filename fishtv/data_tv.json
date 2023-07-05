@@ -154,17 +154,17 @@
   {
     "title": "Surya TV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "https://indo51.gcdn.co/MALYLAM-SuryaHD/index.m3u8",
+    "body": "https://jio.startv.buzz/player1.php?id=900&slug=Surya_HD",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
   },
   {
     "title": "Mazhavil Manorama",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
-    "body": "https://mhdtvworld.xyz/delta/api/max.php?id=42345656&e=.m3u8",
+    "body": "https://jio.startv.buzz/player1.php?id=844&slug=Mazavali_Manorama_HD",
     "genre": "tv",
-    "type": "max",
+    "type": "web",
     "status": "online"
   },
   {
@@ -213,7 +213,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2891",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asianet Movies",
@@ -221,7 +221,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2893",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya TV HD",
@@ -229,14 +229,14 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2338",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers TV",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2861",
+    "body": "https://jio.startv.buzz/player1.php?id=634&slug=Flower_TV",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
@@ -245,7 +245,7 @@
     "body": "https://ftvserver.000webhostapp.com/rb.php?id=2898",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kairali WE",
@@ -322,10 +322,10 @@
   {
     "title": "Surya Comedy",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
-    "body": "http://livezer0.hjkm.info:11991/vulcan/suryacomedy/playlist.m3u8",
+    "body": "https://jio.startv.buzz/player1.php?id=1662&slug=Surya_Comedy",
     "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
   },
   {
     "title": "Flowers TV",
@@ -562,9 +562,9 @@
   {
     "title": "Surya Music",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
-    "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26575&e=.m3u8",
+    "body": "https://jio.startv.buzz/player1.php?id=747&slug=Surya_Music",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "offline"
   },
   {
