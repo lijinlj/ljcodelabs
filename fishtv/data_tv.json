@@ -162,7 +162,7 @@
   {
     "title": "Zee Keralam HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=zkeralamhd",
+    "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-129",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -232,9 +232,25 @@
     "status": "online"
   },
   {
+    "title": "Zee Tamil",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-zeetamil",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
+    "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-224",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "Zee Cinema HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/1d59d08fec89495584d2b7e4059492a4",
+    "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-zeecinemahd",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -253,23 +269,7 @@
     "body": "http://livezer0.hjkm.info:11991/vulcan/starvijay/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
-  },
-  {
-    "title": "Zee Tamil",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "https://jio.startv.buzz/player1.php?id=1356&slug=Zee_Tamil_HD",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "Zee Thirai",
-    "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
-    "body": "https://www.zee5.com/live-tv/zee-thirai/0-9-224",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Rasi TV",
@@ -397,7 +397,7 @@
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3981",
     "genre": "tv",
     "type": "mp4",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Movies Now HD",
@@ -405,7 +405,7 @@
     "body": "http://livezer0.hjkm.info:11991/neptune/moviesnowhd/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Max",
@@ -413,12 +413,12 @@
     "body": "https://bit.ly/32bsOnymAXhd",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "&Flix HD",
     "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=andflixhd",
+    "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-channel_2105335046",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -453,7 +453,7 @@
     "body": "http://uk1.zecast.com:1935/star-live/smusic/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "iLove",
@@ -461,7 +461,7 @@
     "body": "https://ilove.livebox.co.in/wowinhls/live.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "MTV Beats HD",
@@ -477,7 +477,7 @@
     "body": "http://livezer0.hjkm.info:11991/juno/zoomtv/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Dil se",
