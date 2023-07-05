@@ -80,14 +80,6 @@
     "status": "online"
   },
   {
-    "title": "Asianet HD",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11247-j9iw5gyw-v3/imageContent-11247-j9iw5gyw-m3.jpg",
-    "body": "https://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
     "title": "Surya TV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
     "body": "https://jio.startv.buzz/player1.php?id=900&slug=Surya_HD",
@@ -104,30 +96,6 @@
     "status": "online"
   },
   {
-    "title": "Asianet Plus",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1487/661487-h",
-    "body": "https://indo51.gcdn.co/MALYLAM-AsianetPlus/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Asianet Movies",
-    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
-    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/5577",
-    "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
-  },
-  {
-    "title": "Asianet Plus",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1487/661487-h",
-    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/5576",
-    "genre": "tv",
-    "type": "mp4",
-    "status": "offline"
-  },
-  {
     "title": "Kairali TV",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
     "body": "https://jio.startv.buzz/player1.php?id=710&slug=Kairali_TV",
@@ -142,30 +110,6 @@
     "genre": "tv",
     "type": "web",
     "status": "online"
-  },
-  {
-    "title": "Asianet",
-    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1103/661103-h",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2891",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Asianet Movies",
-    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2893",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Surya TV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=2338",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
   },
   {
     "title": "Flowers TV",
@@ -214,6 +158,39 @@
     "genre": "tv",
     "type": "web",
     "status": "online"
+  },
+  
+  {
+    "title": "Asianet HD",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11247-j9iw5gyw-v3/imageContent-11247-j9iw5gyw-m3.jpg",
+    "body": "https://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Asianet Plus",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1487/661487-h",
+    "body": "https://indo51.gcdn.co/MALYLAM-AsianetPlus/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Asianet Movies",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/5577",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "offline"
+  },
+  {
+    "title": "Asianet Plus",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1487/661487-h",
+    "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/5576",
+    "genre": "tv",
+    "type": "mp4",
+    "status": "offline"
   },
   {
     "title": "SunTV HD",
@@ -290,9 +267,9 @@
   {
     "title": "Zee Thirai",
     "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/48fbba85dc7643df9a97fbf6c30cf6a3",
+    "body": "https://www.zee5.com/live-tv/zee-thirai/0-9-224",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
