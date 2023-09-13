@@ -282,7 +282,7 @@
   {
     "title": "Rasi TV",
     "image": "https://drive.google.com/uc?export=download&id=1BYar9WOzFSRb7rYIRoOsVrkp3Xxwgi2s",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasitv/playlist.m3u8",
+    "body": "http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -290,7 +290,7 @@
   {
     "title": "Rasi Movies",
     "image": "https://drive.google.com/uc?export=download&id=1Baip34f0XMW13QXUagoti6rnBsqizSNr",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasimovies/playlist.m3u8",
+    "body": "http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -298,7 +298,7 @@
   {
     "title": "Rasi Malayalam",
     "image": "https://drive.google.com/uc?export=download&id=1BO7yZbTnNk50gYPNOq7XUFTBE9HuaeF1",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasimalayalam/playlist.m3u8",
+    "body": "http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -306,7 +306,7 @@
   {
     "title": "Rasi Hollywood",
     "image": "https://drive.google.com/uc?export=download&id=1BkE-JpqSm8FFG7fuBGHmk0ddXnjndfwv",
-    "body": "http://singamcloud.in:1935/rasinetwork/rasihollywood/playlist.m3u8",
+    "body": "http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
