@@ -90,7 +90,7 @@
   {
     "title": "Surya TV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "https://ranapk.xyz/JIXTS/play.php?c=Surya_HD&id=900",
+    "body": "http://localhost:8088/app/play.php?cid=Surya_HD&id=900",
     "genre": "tv",
     "type": "web",
     "status": "online"
