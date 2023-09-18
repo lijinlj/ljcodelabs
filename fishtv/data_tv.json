@@ -248,6 +248,14 @@
     "status": "online"
   },
   {
+    "title": "Zee Tamil HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "body": "http://192.168.0.123:8088/app/play.php?cid=Zee_Tamil_HD&id=1356",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
     "title": "Zee Tamil",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
     "body": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8",
