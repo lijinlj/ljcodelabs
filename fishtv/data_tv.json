@@ -224,14 +224,6 @@
     "status": "online"
   },
   {
-    "title": "Amrita TV",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
-    "body": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
     "title": "Kite-Victers",
     "image": "https://dreamdth.com/wp-content/uploads/2020/05/Kite-Victers-1024x1024.jpg",
     "body": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
@@ -250,9 +242,9 @@
   {
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/50ca90ede1dc421ca67fe1392721587f",
+    "body": "http://192.168.1.123:8088/app/play.php?cid=DD_Malayalam&id=699",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
@@ -477,7 +469,7 @@
     "body": "http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Star Movies",
@@ -565,7 +557,7 @@
     "body": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd",
     "genre": "tv",
     "type": "dash",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Zoom",
@@ -581,7 +573,7 @@
     "body": "https://live.hungama.com/linear/dil-se/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Pogo",
