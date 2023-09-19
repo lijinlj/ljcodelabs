@@ -216,6 +216,46 @@
     "status": "offline"
   },
   {
+    "title": "Safari TV",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11707-j9kt6bg0-v1/imageContent-11707-j9kt6bg0-m1.jpg",
+    "body": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Amrita TV",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
+    "body": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kite-Victers",
+    "image": "https://dreamdth.com/wp-content/uploads/2020/05/Kite-Victers-1024x1024.jpg",
+    "body": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kaumudi TV",
+    "image": "https://pbs.twimg.com/profile_images/717237366633541632/-akjDlPH_400x400.jpg",
+    "body": "http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "DD Malayalam",
+    "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
+    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/50ca90ede1dc421ca67fe1392721587f",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "SunTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
     "body": "http://192.168.1.123:8088/app/play.php?cid=Sun_TV_HD&id=896",
@@ -336,6 +376,54 @@
     "status": "online"
   },
   {
+    "title": "Sony Ten 1",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 2",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 3",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Six",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Pix HD",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Yay",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/transparentImage/SONY%20YAY!.png",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "SuryaTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26574&e=.m3u8",
@@ -384,14 +472,6 @@
     "status": "offline"
   },
   {
-    "title": "Sony Pix HD",
-    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
-    "body": "https://bit.ly/32sOnypIXhd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
     "title": "Star Movies",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/star-movies-logo-300x300.jpg",
     "body": "http://livezer0.hjkm.info:11991/juno/starmovies/playlist.m3u8",
@@ -437,7 +517,7 @@
     "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-channel_2105335046",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Music",
@@ -445,7 +525,7 @@
     "body": "http://livezer0.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sun Music HD",
@@ -509,7 +589,7 @@
     "body": "http://livezer0.hjkm.info:11991/juno/pogohindi/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Cartoon Network",
@@ -517,7 +597,7 @@
     "body": "http://livezer0.hjkm.info:11991/juno/cartoonnetworktm/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Kochu TV",
@@ -536,20 +616,12 @@
     "status": "offline"
   },
   {
-    "title": "Sony Yay",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/transparentImage/SONY%20YAY!.png",
-    "body": "https://bit.ly/2WmsoNYYaY",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
     "title": "Discovery Kids",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
     "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Discovery_Kids_Tamil",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Nick",
@@ -557,7 +629,7 @@
     "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Nick_Malayalam",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Zee5 Kids",
@@ -566,46 +638,6 @@
     "genre": "tv",
     "type": "hls",
     "status": "offline"
-  },
-  {
-    "title": "Safari TV",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11707-j9kt6bg0-v1/imageContent-11707-j9kt6bg0-m1.jpg",
-    "body": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Amrita TV",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
-    "body": "http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kite-Victers",
-    "image": "https://dreamdth.com/wp-content/uploads/2020/05/Kite-Victers-1024x1024.jpg",
-    "body": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Kaumudi TV",
-    "image": "https://pbs.twimg.com/profile_images/717237366633541632/-akjDlPH_400x400.jpg",
-    "body": "http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "DD Malayalam",
-    "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "https://ftvserver.000webhostapp.com/ctv.php?id=out/v1/50ca90ede1dc421ca67fe1392721587f",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
   },
   {
     "title": "Surya TV (L)",
@@ -918,38 +950,6 @@
     "body": "http://mag.you24.online:8080/hzgkdcjbu/dxq80muoka/3977",
     "genre": "tv",
     "type": "mp4",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Ten 1",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/2B9tEN1hd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Ten 2",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/2DOtEN2hd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Ten 3",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/2OwtEn3hd",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Sony Six",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg",
-    "body": "https://bit.ly/3j8sIx7sd",
-    "genre": "tv",
-    "type": "hls",
     "status": "offline"
   },
 ]
