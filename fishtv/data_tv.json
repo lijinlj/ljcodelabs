@@ -570,10 +570,10 @@
   {
     "title": "MTV Beats HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-logo-300x300.jpg",
-    "body": "https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd",
+    "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8",
     "genre": "tv",
-    "type": "dash",
-    "status": "offline"
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "Zoom",
