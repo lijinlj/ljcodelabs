@@ -370,7 +370,7 @@
   {
     "title": "Sony Ten 1",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
-    "body": "https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -378,7 +378,7 @@
   {
     "title": "Sony Ten 2",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg",
-    "body": "https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -386,7 +386,23 @@
   {
     "title": "Sony Ten 3",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg",
-    "body": "https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 4",
+    "image": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "body": "https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 5",
+    "image": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "body": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -397,7 +413,7 @@
     "body": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Sony Pix HD",
