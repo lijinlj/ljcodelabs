@@ -122,7 +122,7 @@
   {
     "title": "Flowers TV",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Flower_TV&id=634",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Flower_TV&id=634",
     "genre": "tv",
     "type": "hls",
     "status": "online"
