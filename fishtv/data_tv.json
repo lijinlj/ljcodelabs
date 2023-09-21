@@ -9,19 +9,19 @@
   },
   {
     "title": "ISL 1",
-    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtnj5vysEDODR_sAgkhJyVYMJLYwpqev06Q&usqp=CAU",
     "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
   },
   {
-    "title": "IND vs WI",
-    "image": "https://blogger.googleusercontent.com/img/a/AVvXsEgdcudqKAIz1EENJhTCq4Aj5uUNYn_1j54sUpa6Kom0CgmQz4fkhwgkYcw-VbTG319tj-M_U6TKm7pkB8vN17swI1e_CfR-LTA0qwii5Phb63Y9-nUijM2_ExACBJVtrjvGHHFbFNum_JQPQMy9fm8cKqWxqcbzUgAIL2pKXPoc6JeCEPZftnWaIqkd=s600",
-    "body": "https://vkvsd84.mycdn.me/hls/2764677974569.m3u8/sig/qqf2QTPROGY/expires/1659891234181/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/3774850542377/2764677974569_high/index.m3u8",
+    "title": "ISL 2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtnj5vysEDODR_sAgkhJyVYMJLYwpqev06Q&usqp=CAU",
+    "body": "http://192.168.1.123:8088/app/play.php?cid=Surya_Movies&id=1754",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
   },
   {
     "title": "IND vs WI",
