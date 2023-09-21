@@ -18,9 +18,9 @@
   {
     "title": "ISL 2",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtnj5vysEDODR_sAgkhJyVYMJLYwpqev06Q&usqp=CAU",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Surya_Movies&id=1754",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Surya_Movies&id=1754",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
