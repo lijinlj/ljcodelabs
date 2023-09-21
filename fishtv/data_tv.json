@@ -90,33 +90,41 @@
   {
     "title": "Surya TV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Surya_HD&id=900",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Surya_HD&id=900",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Mazhavil Manorama",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Mazavali_Manorama_HD&id=844",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Mazavali_Manorama_HD&id=844",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Kairali TV",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Kairali_TV&id=710",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Kairali_TV&id=710",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Kairali_WE_TV&id=731",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Kairali_WE_TV&id=731",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Flowers TV",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
+    "body": "http://192.168.1.123:8088/app/play.php?cid=Flower_TV&id=634",
+    "genre": "tv",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -125,62 +133,62 @@
     "body": "https://rebrand.ly/flowers-tv",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Surya Comedy",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Surya_Comedy&id=1662",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Surya_Comedy&id=1662",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Surya Music",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Surya_Music&id=747",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Surya_Music&id=747",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Surya Movies",
     "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Surya_Movies&id=1754",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Surya_Movies&id=1754",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Amrita TV",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Amrita_TV&id=723",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Amrita_TV&id=723",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Kappa TV",
     "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Kappa_TV&id=786",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Kappa_TV&id=786",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Kochu TV",
     "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Kochu_TV&id=556",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Kochu_TV&id=556",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Zee Keralam HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Zee_Keralam_HD&id=1641",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Zee_Keralam_HD&id=1641",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -234,7 +242,7 @@
   {
     "title": "Kaumudi TV",
     "image": "https://pbs.twimg.com/profile_images/717237366633541632/-akjDlPH_400x400.jpg",
-    "body": "http://live.wmncdn.net/kaumuditv1/live.stream/index.m3u8",
+    "body": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -242,25 +250,25 @@
   {
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=DD_Malayalam&id=699",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=DD_Malayalam&id=699",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "SunTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Sun_TV_HD&id=896",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Sun_TV_HD&id=896",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "KTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=KTV_HD&id=894",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=KTV_HD&id=894",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -274,17 +282,17 @@
   {
     "title": "Sun Music HD",
     "image": "https://sund-images.sunnxt.com/9013/250x250_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Sun_Music_HD&id=895",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Sun_Music_HD&id=895",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Zee Tamil HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Zee_Tamil_HD&id=1356",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Zee_Tamil_HD&id=1356",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -298,15 +306,15 @@
   {
     "title": "Zee Thirai",
     "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
-    "body": "http://192.168.1.123:8088/app/play.php?cid=Zee_Thirai&id=2256",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Zee_Thirai&id=2256",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Zee Cinema HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
-    "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-zeecinemahd",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Zee_Cinema_HD&id=165",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -432,6 +440,70 @@
     "status": "online"
   },
   {
+    "title": "Cartoon Network",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Cartoon_Network_Tamil&id=817",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Pogo",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Pogo_Tamil&id=542",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Discovery Kids",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Discovery_Kids_Tamil&id=550",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Nick",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nick-logo-300x300.jpg",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Nick_Malayalam&id=1340",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "iLove",
+    "image": "https://drive.google.com/uc?export=download&id=1C0zqVba4HYDMhXe6wSXJaWzt6Jd1A8oJ",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=iLove&id=1267",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "MTV Beats HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-logo-300x300.jpg",
+    "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zoom",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24697-jgrq0eoo-v1/imageContent-24697-jgrq0eoo-m1.jpg",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "&Flix HD",
+    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=And_Flix_HD&id=1322",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
     "title": "SuryaTV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
     "body": "https://mhdtvapp.xyz/sunnxt/snxt.php?id=26574&e=.m3u8",
@@ -520,14 +592,6 @@
     "status": "offline"
   },
   {
-    "title": "&Flix HD",
-    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "https://mhdtvsports.co.in/zee5/z5/app/live/index.php?id=0-9-channel_2105335046",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
     "title": "Surya Music",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
     "body": "http://livezer0.hjkm.info:11991/vulcan/suryamusic/playlist.m3u8",
@@ -560,30 +624,6 @@
     "status": "offline"
   },
   {
-    "title": "iLove",
-    "image": "https://drive.google.com/uc?export=download&id=1C0zqVba4HYDMhXe6wSXJaWzt6Jd1A8oJ",
-    "body": "https://ilove.livebox.co.in/wowinhls/live.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "MTV Beats HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-logo-300x300.jpg",
-    "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
-    "title": "Zoom",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24697-jgrq0eoo-v1/imageContent-24697-jgrq0eoo-m1.jpg",
-    "body": "http://livezer0.hjkm.info:11991/juno/zoomtv/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
     "title": "Dil se",
     "image": "https://images.hungama.com/c/1/41b/25b/41239464/41239464_800x800.jpg",
     "body": "https://live.hungama.com/linear/dil-se/playlist.m3u8",
@@ -597,46 +637,6 @@
     "body": "http://livezer0.hjkm.info:11991/juno/pogohindi/playlist.m3u8",
     "genre": "tv",
     "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Cartoon Network",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
-    "body": "http://livezer0.hjkm.info:11991/juno/cartoonnetworktm/playlist.m3u8",
-    "genre": "tv",
-    "type": "redbox",
-    "status": "offline"
-  },
-  {
-    "title": "Kochu TV",
-    "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/sind@!sw/kochutv/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Pogo",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
-    "body": "https://fishtv-server.herokuapp.com/sun_server/planet/?s=https://mhdtvstreams.in.net/pnettv.php&p=https://mhdtvstreams.in.net/mp.php/&d=http://163.172.223.102:8081/1212@!liveInx1/pogohindi/playlist.m3u8",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Discovery Kids",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Discovery_Kids_Tamil",
-    "genre": "tv",
-    "type": "hls",
-    "status": "offline"
-  },
-  {
-    "title": "Nick",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nick-logo-300x300.jpg",
-    "body": "https://ftvserver.000webhostapp.com/jtv.php?id=Nick_Malayalam",
-    "genre": "tv",
-    "type": "hls",
     "status": "offline"
   },
   {
