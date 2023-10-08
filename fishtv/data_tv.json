@@ -8,6 +8,14 @@
     "status": "offline"
   },
   {
+    "title": "WC 2023",
+    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
+    "body": "https://streambtw.com/iframe/e1.php",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
     "title": "ISL 1",
     "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJtnj5vysEDODR_sAgkhJyVYMJLYwpqev06Q&usqp=CAU",
     "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8",
@@ -869,14 +877,6 @@
     "body": "https://suntvvodaf-live.s.llnwi.net:443/SunMusicHD/SunMusicHD.isml/manifest.mpd",
     "genre": "tv",
     "type": "dash",
-    "status": "offline"
-  },
-  {
-    "title": "IPL 2021",
-    "image": "https://www.sportsbignews.com/wp-content/uploads/2021/03/ipl-kits-jersey.jpg",
-    "body": "https://ftvserver.000webhostapp.com/rb.php?id=1996",
-    "genre": "tv",
-    "type": "hls",
     "status": "offline"
   },
   {
