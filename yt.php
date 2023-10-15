@@ -6,11 +6,16 @@ $url = 'https://www.youtube.com/watch?v=V_MXWptocIE';
 function extractM3U8Urls($url) {
     $content = file_get_contents($url);
 
-    // Use a regular expression to find M3U8 URLs
-    $pattern = '/(https?:\/\/.*\.m3u8)/i';
-    preg_match_all($pattern, $content, $matches);
-
-    return $matches[0];
+    // Extract the hlsManifestUrl value
+    $matches = [];
+    if (preg_match('/"hlsManifestUrl":"(https:\/\/[^"]+)"/', $content, $matches)) {
+        $m3u8Url = $matches[1];
+        echo $m3u8Url;
+    } else {
+        echo "M3U8 URL not found in the content.";
+    }
+   
+    return $m3u8Url;
 }
 
 // Get and print M3U8 URLs
