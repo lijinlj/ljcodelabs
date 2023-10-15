@@ -1,8 +1,5 @@
 <?php
-// Replace this with the URL of the webpage you want to extract M3U8 URLs from
-$url = 'https://www.youtube.com/watch?v=V_MXWptocIE';
-
-// Function to extract M3U8 URLs from a webpage
+// Function to extract M3U8 URLs from a webpage and redirect
 function extractM3U8Urls($url) {
     $content = file_get_contents($url);
 
@@ -10,17 +7,19 @@ function extractM3U8Urls($url) {
     $matches = [];
     if (preg_match('/"hlsManifestUrl":"(https:\/\/[^"]+)"/', $content, $matches)) {
         $m3u8Url = $matches[1];
-        echo $m3u8Url;
+        // Redirect to the M3U8 URL
+        header("Location: $m3u8Url");
+        exit; // Ensure script execution stops after the redirect
     } else {
         echo "M3U8 URL not found in the content.";
     }
-   
-    return $m3u8Url;
 }
 
-// Get and print M3U8 URLs
-$m3u8Urls = extractM3U8Urls($url);
-foreach ($m3u8Urls as $url) {
-    echo $url . "\n";
+// Check if a URL argument was provided
+if (isset($_GET['url'])) {
+    $url = $_GET['url'];
+    extractM3U8Urls($url);
+} else {
+    echo "URL parameter missing.";
 }
 ?>
