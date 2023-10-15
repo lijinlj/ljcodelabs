@@ -5,7 +5,7 @@
     "body": "https://m.youtube.com/watch?v=V_MXWptocIE",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "WC 2023",
@@ -42,7 +42,7 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://ythls.onrender.com/video/V_MXWptocIE.m3u8",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=V_MXWptocIE",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -58,7 +58,7 @@
   {
     "title": "Manorama News HD",
     "image": "https://i.ytimg.com/vi/SokLD_NbOgg/maxresdefault.jpg",
-    "body": "https://ythls.onrender.com/video/tgBTspqA5nY.m3u8",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=tgBTspqA5nY",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -66,7 +66,7 @@
   {
     "title": "Mathrubumi News HD",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",
-    "body": "https://ythls.onrender.com/video/YGEgelAiUf0.m3u8",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=YGEgelAiUf0",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -74,7 +74,7 @@
   {
     "title": "News18 Keralam",
     "image": "https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027920_channel_1533906346_channel_1533120932_News18-Kerala11.png",
-    "body": "https://ythls.onrender.com/video/ehbpeMBKKC8.m3u8",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=ehbpeMBKKC8",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -82,7 +82,7 @@
   {
     "title": "Media One HD",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png",
-    "body": "https://ythls.onrender.com/video/GIT1lX0NdHo.m3u8",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=GIT1lX0NdHo",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -90,7 +90,7 @@
   {
     "title": "Reporter TV",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png",
-    "body": "https://ythls.onrender.com/video/6Ty989xFvMQ.m3u8",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=6Ty989xFvMQ",
     "genre": "tv",
     "type": "hls",
     "status": "online"
