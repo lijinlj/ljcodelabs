@@ -44,7 +44,7 @@
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=V_MXWptocIE",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
