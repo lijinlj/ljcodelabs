@@ -5,7 +5,7 @@
     "body": "https://showmaxtv.site/tv.php?c=asianet-tv-uk",
     "genre": "tv",
     "type": "hls",
-    "referer": "https://showmaxtv.site/play.php?watch=asianet-tv-uk",
+    "header": "referer:https://showmaxtv.site/play.php?watch=asianet-tv-uk",
     "status": "online"
   },
   {
