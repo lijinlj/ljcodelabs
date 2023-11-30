@@ -7,14 +7,17 @@ import time
 un = ""
 pw = ""
 
+iuname = "squaretwo.properties"
+# iuname = "squareone_builders_interiors"
+
 #Mihraz
-reels = "https://www.instagram.com/reel/Cyh3ce2yTTz/?utm_source=ig_web_copy_link"
+# reels = "https://www.instagram.com/reel/Cyh3ce2yTTz/?utm_source=ig_web_copy_link"
 
 #Project 1
 # reels = "https://www.instagram.com/reel/Cz3tmkIyZd6/?utm_source=ig_web_copy_link"
 
 #Project 2
-# reels = "https://www.instagram.com/reel/Cz_Vmv3ymjn/?utm_source=ig_web_copy_link"
+reels = "https://www.instagram.com/reel/Cz_Vmv3ymjn/?utm_source=ig_web_copy_link"
 
 urls = ["https://bayitakipci.com/memberlogin",
         "https://takipcigir.com/login",
@@ -34,7 +37,7 @@ urls = ["https://bayitakipci.com/memberlogin",
 count = 0
 
 while True:
-    time.sleep(4000)
+    # time.sleep(4000)
     count = count + 1
     print(f"Running cycle: {str(count)}")
     # Loop through each URL
@@ -80,6 +83,8 @@ while True:
             action = ActionChains(driver)
             action.move_by_offset(0, 500).click().perform()
 
+            ##### Instagram - Views #####
+
             # Step 9: Click on the element with class "fa fa-eye"
             eye_icon = driver.find_element(By.CSS_SELECTOR, ".fa-eye")
             eye_icon.click()
@@ -109,14 +114,53 @@ while True:
             submit_button.click()
 
             time.sleep(10)
+            print(f"Completed Instagram Views: {str(url)}")
 
+            # Scroll to the top of the page
+            driver.execute_script("window.scrollTo(0, 0);")
+            time.sleep(6)
+
+            ##### Instagram - Followers #####
+
+            # Step 16: Click on the element with class "fa fa-user-plus"
+            user_icon = driver.find_element(By.CSS_SELECTOR, ".fa-user-plus")
+            user_icon.click()
+
+            time.sleep(5)
+
+            # Step 17: Find the input field by its name attribute
+            username_input = driver.find_element(By.NAME, "username")
+            username_input.click()
+
+            # Step 18: Type "insta username" into the text field
+            username_input.send_keys(iuname)
+
+            # Step 19: Submit the form (assuming hitting Enter submits the form)
+            username_input.send_keys(Keys.RETURN)
+
+            time.sleep(7)
+
+            # Step 20: Click on the text field with a placeholder matching "15"
+            follower_count_field = driver.find_element(By.XPATH, "//input[contains(@placeholder, '15')]")
+            follower_count_field.click()
+
+            # Step 21: Type "followers count" into the text field
+            follower_count_field.clear()
+            follower_count_field.send_keys('100')
+
+            # Step 22: Submit the form
+            submit_button = driver.find_element(By.XPATH, "//button[contains(text(), 'Start')]")
+            submit_button.click()
+
+            time.sleep(150)
             print(f"Completed: {str(url)}")
+
 
         except Exception as e:
             # Handle any other unexpected exception
             print(f"An unexpected error occurred: {str(e)}")
 
-        # Step 16: Close the browser
+        # Step 23: Close the browser
         driver.quit()
 
     print(f"Completed cycle: {str(count)}")
