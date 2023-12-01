@@ -1,0 +1,151 @@
+from pywinauto.application import Application
+import time
+import pyautogui
+import pywinauto.mouse as mouse
+
+un = "squaretwo.properties"
+# un = "squareone_builders_interiors"
+
+# Mihraz
+# reels = "https://www.instagram.com/reel/Cyh3ce2yTTz/?utm_source=ig_web_copy_link"
+
+# Project 1
+# reels = "https://www.instagram.com/reel/Cz3tmkIyZd6/?utm_source=ig_web_copy_link"
+
+# Project 2
+reels = "https://www.instagram.com/reel/Cz_Vmv3ymjn/?utm_source=ig_web_copy_link"
+
+
+urls = ["https://bayitakipci.com/",
+        "https://takipcigir.com/",
+        "https://fastfollow.in/",
+        "https://www.takipcibase.com/",
+        "https://www.takipciking.com/",
+        "https://takipcizen.com/",
+        "https://takipcihilesico.com/",
+        "https://takipcimx.net/",
+        "https://takipcimax.com/",
+        "https://instamoda.org/",
+        "https://takipcitime.com/",
+        "https://takipcikrali.com/",
+        "https://birtakipci.com/"]
+
+
+# Function to open Chrome, type URL, and submit
+def automate_chrome(url):
+    chrome_path = r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe"  # Change this path based on your Chrome installation
+    Application().start(chrome_path + " --new-window " + url)
+    time.sleep(2)  # Allow some time for Chrome to open
+
+
+def automate_insta_views():
+    eye_icon = [1170, 240]
+    inst_reel_field = [300, 750]
+    inst_reel_field_submit = [194, 820]
+    # side_scroll_bar_start = [1910, 260]
+    side_scroll_bar_end = [1910, 900]
+    inst_reel_count_field = [230, 400]
+    inst_reel_count_field_submit = [200, 470]
+
+    # Move the cursor to a views icon and click
+    pyautogui.moveTo(eye_icon[0], eye_icon[1], duration=1)
+    pyautogui.click()
+
+    # Wait for a moment
+    time.sleep(2)
+
+    # Move the cursor to a reels url field and click
+    pyautogui.moveTo(inst_reel_field[0], inst_reel_field[1], duration=1)
+    pyautogui.click()
+    # Type reels url
+    pyautogui.typewrite(reels)
+    # Submit
+    pyautogui.moveTo(inst_reel_field_submit[0], inst_reel_field_submit[1], duration=1)
+    pyautogui.click()
+
+    # Wait for reels to load
+    time.sleep(5)
+
+    mouse.scroll(coords=(side_scroll_bar_end[0], side_scroll_bar_end[1]), wheel_dist=-100)
+
+    # Move the cursor to a reels count field and click
+    pyautogui.moveTo(inst_reel_count_field[0], inst_reel_count_field[1], duration=1)
+    pyautogui.click()
+    # Type reels url
+    pyautogui.press('backspace')
+    pyautogui.press('backspace')
+    pyautogui.typewrite('1000')
+    # Submit
+    pyautogui.moveTo(inst_reel_count_field_submit[0], inst_reel_count_field_submit[1], duration=1)
+    pyautogui.click()
+
+    # Wait for reels view sent complete
+    time.sleep(10)
+
+
+def automate_insta_followers():
+    follow_icon = [444, 240]
+    follow_un_field = [200, 535]
+    follow_un_field_submit = [212, 600]
+    follow_count_field = [760, 820]
+    follow_count_field_submit = [730, 895]
+    side_scroll_bar_end = [1910, 900]
+
+    # Move the cursor to a views icon and click
+    pyautogui.moveTo(follow_icon[0], follow_icon[1], duration=1)
+    pyautogui.click()
+
+    # Wait for a moment
+    time.sleep(2)
+
+    # Move the cursor to page username field and click
+    pyautogui.moveTo(follow_un_field[0], follow_un_field[1], duration=1)
+    pyautogui.click()
+    # Type reels username
+    pyautogui.typewrite(un)
+    # Submit
+    pyautogui.moveTo(follow_un_field_submit[0], follow_un_field_submit[1], duration=1)
+    pyautogui.click()
+
+    # Wait for reels to load
+    time.sleep(5)
+
+    # Move the cursor to a reels count field and click
+    pyautogui.moveTo(follow_count_field[0], follow_count_field[1], duration=1)
+    pyautogui.click()
+    # Type reels url
+    pyautogui.press('backspace')
+    pyautogui.press('backspace')
+    pyautogui.typewrite('200')
+    # Submit
+    pyautogui.moveTo(follow_count_field_submit[0], follow_count_field_submit[1], duration=1)
+    pyautogui.click()
+
+    mouse.scroll(coords=(side_scroll_bar_end[0], side_scroll_bar_end[1]), wheel_dist=-100)
+
+    # Wait for reels view sent complete
+    time.sleep(140)
+
+
+if __name__ == "__main__":
+    # url_to_open = "https://bayitakipci.com/tools/send-view-video"
+
+    url_to_open = "https://bayitakipci.com/tools/send-follower"
+
+    automate_chrome(url_to_open)
+
+    # Click inside chrome window
+    pyautogui.moveTo(0, 300, duration=1)
+    pyautogui.click()
+
+    # automate_insta_views()
+    #
+    # # Close chrome
+    # pyautogui.moveTo(1880, 19, duration=1)
+    # pyautogui.click()
+
+    automate_insta_followers()
+
+    # Close chrome
+    pyautogui.moveTo(1880, 19, duration=1)
+    pyautogui.click()
