@@ -6,7 +6,7 @@
     "genre": "tv",
     "type": "web",
     "header": "referer:https://showmaxtv.site/play.php?watch=asianet-tv-uk",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "WC 2023",
@@ -14,7 +14,7 @@
     "body": "https://streambtw.com/iframe/e1.php",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "ISL 1",
@@ -22,7 +22,7 @@
     "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sports18_1_HD_voot_MOB/Fallback/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "ISL 2",
@@ -30,7 +30,7 @@
     "body": "http://192.168.1.123:8088/app/live.php?cid=Surya_Movies&id=1754",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "ISL 3",
@@ -38,7 +38,7 @@
     "body": "https://prod-ent-live-gm.jiocinema.com/hls/live/2099118/hd_akamai_merged_avc_mal_isl24/master.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "24 News HD",
@@ -75,7 +75,7 @@
   {
     "title": "News18 Keralam",
     "image": "https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027920_channel_1533906346_channel_1533120932_News18-Kerala11.png",
-    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=ehbpeMBKKC8",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=58XWq-03T0Y",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -91,7 +91,7 @@
   {
     "title": "Reporter TV",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png",
-    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=6Ty989xFvMQ",
+    "body": "http://192.168.1.123:8088/yt.php?url=https://www.youtube.com/watch?v=HGOiuQUwqEw",
     "genre": "tv",
     "type": "web",
     "status": "online"
