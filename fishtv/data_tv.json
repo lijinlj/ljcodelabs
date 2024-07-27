@@ -9,12 +9,12 @@
     "status": "offline"
   },
   {
-    "title": "WC 2023",
+    "title": "IND vs SL",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/2023_CWC_Logo.svg/440px-2023_CWC_Logo.svg.png",
-    "body": "https://streambtw.com/iframe/e1.php",
+    "body": "https://dai.google.com/linear/hls/event/QNEZiPzpTXucyrbpCjdZTw/master.m3u8",
     "genre": "tv",
-    "type": "web",
-    "status": "offline"
+    "type": "hls",
+    "status": "online"
   },
   {
     "title": "ISL 1",
