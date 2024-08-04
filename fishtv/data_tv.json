@@ -43,15 +43,15 @@
   {
     "title": "Flowers TV webxx",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
-    "body": "http://squaresyncsystems.rf.gd/stream.php",
+    "body": "http://squaresyncsystems.rf.gd/test.php?s=https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
     "title": "Flowers TV web",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
-    "body": "http://squaresyncsystems.rf.gd/test.php",
+    "body": "http://squaresyncsystems.rf.gd/stream.php?s=https://jio.drmlive.au/jio/bpk-tv/Flower_TV_MOB/Fallback/index.m3u8",
     "genre": "tv",
     "type": "web",
     "status": "online"
