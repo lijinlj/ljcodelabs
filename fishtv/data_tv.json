@@ -113,7 +113,7 @@
   },
   {
     "title": "Flowers TV",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
     "body": "http://192.168.1.123:8088/app/live.php?cid=Flower_TV&id=634",
     "genre": "tv",
     "type": "hls",
@@ -121,7 +121,7 @@
   },
   {
     "title": "Surya Comedy",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-comedy-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",
     "body": "http://103.153.93.18:15381/play/1662",
     "genre": "tv",
     "type": "web",
@@ -129,7 +129,7 @@
   },
   {
     "title": "Surya Music",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-music-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",
     "body": "http://103.153.93.18:15381/play/747",
     "genre": "tv",
     "type": "web",
@@ -145,7 +145,7 @@
   },
   {
     "title": "Amrita TV",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/amrita-tv-channel-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
     "body": "http://103.153.93.18:15381/play/723",
     "genre": "tv",
     "type": "web",
@@ -169,7 +169,7 @@
   },
   {
     "title": "Zee Keralam HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-keralam-hd-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
     "body": "http://103.153.93.18:15381/play/1641",
     "genre": "tv",
     "type": "web",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Safari TV",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11707-j9kt6bg0-v1/imageContent-11707-j9kt6bg0-m1.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png",
     "body": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -225,7 +225,7 @@
   },
   {
     "title": "SunTV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-tv-hd-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",
     "body": "http://103.153.93.18:15381/play/896",
     "genre": "tv",
     "type": "web",
@@ -233,7 +233,7 @@
   },
   {
     "title": "KTV HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sun-ktv-hd-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",
     "body": "http://103.153.93.18:15381/play/894",
     "genre": "tv",
     "type": "web",
@@ -249,7 +249,7 @@
   },
   {
     "title": "Zee Tamil HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
     "body": "http://103.153.93.18:15381/play/1356",
     "genre": "tv",
     "type": "web",
@@ -257,7 +257,7 @@
   },
   {
     "title": "Zee Tamil",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-tamil-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",
     "body": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -273,7 +273,7 @@
   },
   {
     "title": "Zee Cinema HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/zee-cinema-hd-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
     "body": "http://103.153.93.18:15381/play/165",
     "genre": "tv",
     "type": "web",
