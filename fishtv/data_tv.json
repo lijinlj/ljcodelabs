@@ -261,7 +261,7 @@
     "body": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8",
     "genre": "tv",
     "type": "hls",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Zee Thirai",
@@ -321,7 +321,7 @@
   },
   {
     "title": "Sony Ten 1",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-1-hd-logo-300x300.jpg",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
     "body": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -329,7 +329,7 @@
   },
   {
     "title": "Sony Ten 2",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-2-hd-logo-300x300.jpg",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
     "body": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -337,7 +337,7 @@
   },
   {
     "title": "Sony Ten 3",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-ten-3-hd-logo-300x300.jpg",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
     "body": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -377,7 +377,7 @@
   },
   {
     "title": "Sony Yay",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/transparentImage/SONY%20YAY!.png",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
     "body": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -385,47 +385,47 @@
   },
   {
     "title": "Cartoon Network",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/cartoon-network-hd-plus-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/live.php?cid=Cartoon_Network_Tamil&id=817",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",
+    "body": "http://103.153.93.18:15381/play/817",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "Pogo",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/turner-pogo-channel-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/live.php?cid=Pogo_Tamil&id=542",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",
+    "body": "http://103.153.93.18:15381/play/542",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "Discovery Kids",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/discovery-kids-channel-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/live.php?cid=Discovery_Kids_Tamil&id=550",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",
+    "body": "http://103.153.93.18:15381/play/550",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "Nick",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/nick-logo-300x300.jpg",
-    "body": "http://192.168.1.123:8088/app/live.php?cid=Nick_Malayalam&id=1340",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",
+    "body": "http://103.153.93.18:15381/play/1340",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "iLove",
     "image": "https://drive.google.com/uc?export=download&id=1C0zqVba4HYDMhXe6wSXJaWzt6Jd1A8oJ",
-    "body": "http://192.168.1.123:8088/app/live.php?cid=iLove&id=1267",
+    "body": "http://103.153.93.18:15381/play/1267",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
   {
     "title": "MTV Beats HD",
-    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/tv18-mtv-beats-logo-300x300.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
     "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -433,7 +433,7 @@
   },
   {
     "title": "Zoom",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-24697-jgrq0eoo-v1/imageContent-24697-jgrq0eoo-m1.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
     "body": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
     "genre": "tv",
     "type": "hls",
@@ -441,10 +441,10 @@
   },
   {
     "title": "&Flix HD",
-    "image": "https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg",
-    "body": "http://192.168.1.123:8088/app/live.php?cid=And_Flix_HD&id=1322",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",
+    "body": "http://103.153.93.18:15381/play/1322",
     "genre": "tv",
-    "type": "hls",
+    "type": "web",
     "status": "online"
   },
 ]
