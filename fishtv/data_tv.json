@@ -17,7 +17,7 @@
   },
   {
     "title": "Flowers TV",
-    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25-j5fbpbbs-v1/imageContent-25-j5fbpbbs-m1.jpg",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
     "body": "http://103.153.93.18:15381/play/634",
     "genre": "tv",
     "type": "web",
