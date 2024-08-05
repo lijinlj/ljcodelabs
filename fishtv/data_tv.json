@@ -18,7 +18,7 @@
   {
     "title": "Flowers TV",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
-    "body": "http://103.153.93.18:15381/play/634",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=634",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -82,7 +82,7 @@
   {
     "title": "Surya TV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "http://103.153.93.18:15381/play/900",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=900",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -90,7 +90,7 @@
   {
     "title": "Mazhavil Manorama",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
-    "body": "http://103.153.93.18:15381/play/844",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=844",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -98,7 +98,7 @@
   {
     "title": "Kairali TV",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
-    "body": "http://103.153.93.18:15381/play/710",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=710",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -106,7 +106,7 @@
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "http://103.153.93.18:15381/play/731",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=731",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -122,7 +122,7 @@
   {
     "title": "Surya Comedy",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",
-    "body": "http://103.153.93.18:15381/play/1662",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=1662",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -130,7 +130,7 @@
   {
     "title": "Surya Music",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",
-    "body": "http://103.153.93.18:15381/play/747",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=747",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -138,7 +138,7 @@
   {
     "title": "Surya Movies",
     "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
-    "body": "http://103.153.93.18:15381/play/1754",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=1754",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -146,7 +146,7 @@
   {
     "title": "Amrita TV",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
-    "body": "http://103.153.93.18:15381/play/723",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=723",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -154,7 +154,7 @@
   {
     "title": "Kappa TV",
     "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
-    "body": "http://103.153.93.18:15381/play/786",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=786",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -162,7 +162,7 @@
   {
     "title": "Kochu TV",
     "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
-    "body": "http://103.153.93.18:15381/play/556",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=556",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -170,7 +170,7 @@
   {
     "title": "Zee Keralam HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
-    "body": "http://103.153.93.18:15381/play/1641",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=1641",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -218,7 +218,7 @@
   {
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "http://103.153.93.18:15381/play/699",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=699",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -226,7 +226,7 @@
   {
     "title": "SunTV HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",
-    "body": "http://103.153.93.18:15381/play/896",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=896",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -234,7 +234,7 @@
   {
     "title": "KTV HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",
-    "body": "http://103.153.93.18:15381/play/894",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=894",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -242,7 +242,7 @@
   {
     "title": "Sun Music HD",
     "image": "https://sund-images.sunnxt.com/9013/250x250_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
-    "body": "http://103.153.93.18:15381/play/895",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=895",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -250,7 +250,7 @@
   {
     "title": "Zee Tamil HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
-    "body": "http://103.153.93.18:15381/play/1356",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=1356",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -266,7 +266,7 @@
   {
     "title": "Zee Thirai",
     "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
-    "body": "http://103.153.93.18:15381/play/2256",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=2256",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -274,7 +274,7 @@
   {
     "title": "Zee Cinema HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "body": "http://103.153.93.18:15381/play/165",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=165",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -386,7 +386,7 @@
   {
     "title": "Cartoon Network",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",
-    "body": "http://103.153.93.18:15381/play/817",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=817",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -394,7 +394,7 @@
   {
     "title": "Pogo",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",
-    "body": "http://103.153.93.18:15381/play/542",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=542",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -402,7 +402,7 @@
   {
     "title": "Discovery Kids",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",
-    "body": "http://103.153.93.18:15381/play/550",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=550",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -410,7 +410,7 @@
   {
     "title": "Nick",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",
-    "body": "http://103.153.93.18:15381/play/1340",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=1340",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -418,7 +418,7 @@
   {
     "title": "iLove",
     "image": "https://drive.google.com/uc?export=download&id=1C0zqVba4HYDMhXe6wSXJaWzt6Jd1A8oJ",
-    "body": "http://103.153.93.18:15381/play/1267",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=1267",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -442,7 +442,7 @@
   {
     "title": "&Flix HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",
-    "body": "http://103.153.93.18:15381/play/1322",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=1322",
     "genre": "tv",
     "type": "web",
     "status": "online"
