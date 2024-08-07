@@ -16,9 +16,9 @@
     "status": "online"
   },
   {
-    "title": "Flowers TV H",
+    "title": "Flowers TV High",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
-    "body": "http://192.168.2.200:5001/live/high/634.m3u8",
+    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=634",
     "genre": "tv",
     "type": "hls",
     "status": "online"
