@@ -1,5 +1,71 @@
 [
   {
+    "title": "Brinda Season 1",
+    "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Brinda.jpg",
+    "episode": [
+                  {
+                   "title": "The Chosen One",
+                   "year": "Episode 1", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662879/%5BMCU%5D+Brinda.S01E01.The.Chosen.One.1080p.SONYLIV.WEB-DL.DUAL.mkv?hash=AgADlB", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "A Little Deeper",
+                   "year": "Episode 2", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662916/%5BMCU%5D+Brinda.S01E02.A.Little.Deeper.1080p.SONYLIV.WEB-DL.DUA.mkv?hash=AgADmh", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "Hit and Miss",
+                   "year": "Episode 3", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662918/%5BMCU%5D+Brinda.S01E03.Hit.and.Miss.1080p.SONYLIV.WEB-DL.DUAL.D.mkv?hash=AgADnh", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "The Bridge in Between",
+                   "year": "Episode 4", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662926/%5BMCU%5D+Brinda.S01E04.The.Bridge.in.Between.1080p.SONYLIV.WEB-.mkv?hash=AgADqh", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "Light at the End of the Tunnel",
+                   "year": "Episode 5", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662930/%5BMCU%5D+Brinda.S01E05.Light.at.the.End.of.the.Tunnel.1080p.SON.mkv?hash=AgADrx", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "The Beginning of the End",
+                   "year": "Episode 6", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662924/%5BMCU%5D+Brinda.S01E06.The.Beginning.of.the.End.1080p.SONYLIV.W.mkv?hash=AgADth", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "The Holy Past",
+                   "year": "Episode 7", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662922/%5BMCU%5D+Brinda.S01E07.The.Holy.Past.1080p.SONYLIV.WEB-DL.DUAL..mkv?hash=AgADvR", 
+                   "type": "none"
+                  },
+                  {
+                   "title": "Home Coming",
+                   "year": "Episode 8", 
+                   "image": "none", 
+                   "body": "http://ddl.safone.dev/3662927/%5BMCU%5D+Brinda.S01E08.Home.Coming.1080p.SONYLIV.WEB-DL.DUAL.DD.mkv?hash=AgADxh", 
+                   "type": "none"
+                  },      
+               ],
+    "genre": "show",
+    "type": "web",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "Money Heist S1-S5",
     "image": "https://m.media-amazon.com/images/M/MV5BNDJkYzY3MzMtMGFhYi00MmQ4LWJkNTgtZGNiZWZmMTMxNzdlXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000.jpg",
     "episode": [
