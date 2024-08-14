@@ -61,7 +61,7 @@
                   },      
                ],
     "genre": "show",
-    "type": "mp4",
+    "type": "web_vlc",
     "status": "online",
     "year": "2024"
   },
