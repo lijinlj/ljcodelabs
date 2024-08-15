@@ -1,3 +1,4 @@
 {
-  "host": "$url"
+  "host": "$url",
+  "key": "https://operational-enhance-conservation-schedule.trycloudflare.com"
 }
