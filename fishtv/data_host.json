@@ -1,1 +1,3 @@
-{"host" : "http://www.lijinlj.com"}
+{
+  "host": "new value"
+}
