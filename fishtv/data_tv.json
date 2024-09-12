@@ -1,16 +1,8 @@
 [
   {
-    "title": "FC Paraguay vs Brazil",
-    "image": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/108286_3542_PAR_BRA_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS8xMDgyODZfMzU0Ml9QQVJfQlJBX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-    "body": "https://dai.google.com/linear/hls/event/_lXLdX3fQEORS_mcbdY3uA/master.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "FC Saint Lucia Kings vs Trinbago Knight Riders",
-    "image": "https://images.fancode.com/skillup-uploads/prod-images/2024/08/104216_4287_SLK_TKR_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOC8xMDQyMTZfNDI4N19TTEtfVEtSX2ZjLXdlYi5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJwb3NpdGlvbiI6InRvcCIsIndpZHRoIjozNjAsImhlaWdodCI6MjAyfSwid2VicCI6eyJxdWFsaXR5Ijo2MCwibG9zc2xlc3MiOmZhbHNlfX0sIm91dHB1dEZvcm1hdCI6IndlYnAifQ==",
-    "body": "https://dai.google.com/linear/hls/event/ZfrNUEOAQpqbhtKi-kSqUQ/master.m3u8",
+    "title": "FC Day 1",
+    "image": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Amgen-Irish-Open_Golf_Old-Match-Card.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BbWdlbi1JcmlzaC1PcGVuX0dvbGZfT2xkLU1hdGNoLUNhcmQuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+    "body": "https://dai.google.com/linear/hls/event/cgZTBW71Tq61Xur8Y3tesA/master.m3u8",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -19,6 +11,22 @@
     "title": "FC Afghanistan vs New Zealand",
     "image": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Afghanistan-and-New-Zealand-tour-of-India-2024-test-old-match-card.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9BZmdoYW5pc3Rhbi1hbmQtTmV3LVplYWxhbmQtdG91ci1vZi1JbmRpYS0yMDI0LXRlc3Qtb2xkLW1hdGNoLWNhcmQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
     "body": "https://dai.google.com/linear/hls/event/K__swoPUT9SDGiVL7I_kSA/master.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "FC Namibia Women vs United Arab Emirates Women",
+    "image": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/UAEW-ZimbabweW-TO-NamibiaW-OLD.png?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9VQUVXLVppbWJhYndlVy1UTy1OYW1pYmlhVy1PTEQucG5nIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+    "body": "https://dai.google.com/linear/hls/event/qELChyMOSkG8qz7V9nn9OA/master.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "FC Kochi Blue Tigers vs Calicut Globstars",
+    "image": "https://images.fancode.com/skillup-uploads/prod-images/2024/09/Match-22_Kerala-Cricket-League-T20_Old1.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvcHJvZC1pbWFnZXMvMjAyNC8wOS9NYXRjaC0yMl9LZXJhbGEtQ3JpY2tldC1MZWFndWUtVDIwX09sZDEuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7ImZpdCI6ImNvdmVyIiwicG9zaXRpb24iOiJ0b3AiLCJ3aWR0aCI6MzYwLCJoZWlnaHQiOjIwMn0sIndlYnAiOnsicXVhbGl0eSI6NjAsImxvc3NsZXNzIjpmYWxzZX19LCJvdXRwdXRGb3JtYXQiOiJ3ZWJwIn0=",
+    "body": "https://dai.google.com/linear/hls/event/2SiznZyySZeT-yUBKKP0xQ/master.m3u8",
     "genre": "tv",
     "type": "web",
     "status": "online"
