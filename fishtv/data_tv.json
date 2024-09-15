@@ -42,10 +42,10 @@
   {
     "title": "Flowers TV High",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
-    "body": "http://squaresyncsystems.rf.gd/jiotv.php?id=634",
+    "body": "https://jiotv.watchtvs.live/play.html?id=634",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
   },
   {
     "title": "Flowers TV",
