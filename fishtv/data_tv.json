@@ -17,7 +17,7 @@
   },
   {
     "title": "Flowers HD",
-    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
+    "image": "https://www.flowerstv.in/wp-content/uploads/2021/08/Flowers-Logo-alpha-1.png",
     "body": "http://squaresyncsystems.rf.gd/flowers.php",
     "genre": "tv",
     "type": "web",
@@ -25,7 +25,7 @@
   },
   {
     "title": "Flowers HD (L)",
-    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
+    "image": "https://www.flowerstv.in/wp-content/uploads/2021/08/Flowers-Logo-alpha-1.png",
     "body": "http://192.168.2.12:8081/live/stream.m3u8",
     "genre": "tv",
     "type": "web",
