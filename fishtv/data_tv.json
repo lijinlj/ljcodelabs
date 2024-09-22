@@ -16,19 +16,27 @@
     "status": "online"
   },
   {
-    "title": "Flowers USA",
-    "image": "https://nowmetv.net/wp-content/uploads/2024/04/FLOWERSUSA.webp",
-    "body": "https://rebrand.ly/flowers-tv",
-    "genre": "tv",
-    "type": "hls",
-    "status": "online"
-  },
-  {
     "title": "ISL",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indian_Super_League_logo.svg/315px-Indian_Super_League_logo.svg.png",
     "body": "http://squaresyncsystems.rf.gd/isl.php",
     "genre": "tv",
     "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Flowers HD (L)",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
+    "body": "http://192.168.2.12:8081/live/stream.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Flowers USA",
+    "image": "https://nowmetv.net/wp-content/uploads/2024/04/FLOWERSUSA.webp",
+    "body": "https://rebrand.ly/flowers-tv",
+    "genre": "tv",
+    "type": "hls",
     "status": "online"
   },
   {
