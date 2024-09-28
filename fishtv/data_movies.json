@@ -1,8 +1,8 @@
 [
   {
-    "title": "The GOAT",
+    "title": "GOAT",
     "image": "https://img1.imageride.net/images/2024/09/26/GXWb5DtbAAAjdqa---Copy.jpg",
-    "body": "https://squaresyncsystems.rf.gd/movie.php?id=TheGreatestofAllTime.mkv",
+    "body": "http://192.168.2.12:8081/media/TheGreatestofAllTime.mkv",
     "genre": "movie",
     "type": "web_vlc",
     "status": "online",
@@ -11,7 +11,7 @@
   {
     "title": "Stree 2",
     "image": "https://images.moviebuff.com/62f4a0e8-805f-4694-a8db-e4b5818d209f?w=1000",
-    "body": "http://squaresyncsystems.rf.gd/movie.php?id=Stree2.mkv",
+    "body": "http://192.168.2.12:8081/media/Stree2.mkv",
     "genre": "movie",
     "type": "web_vlc",
     "status": "online",
