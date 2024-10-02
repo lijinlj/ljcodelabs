@@ -1,0 +1,482 @@
+[
+  {
+    "title": "FC USA vs United Arab Emirates",
+    "image": "https://images.fancode.com/skillup-uploads/cms-media/UAE-vs-USA_old.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhL1VBRS12cy1VU0Ffb2xkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+    "body": "https://dai.google.com/linear/hls/event/JQYEMq5zRza7qPrQXTB2ZQ/master.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "FC Greece vs Czechia",
+    "image": "https://images.fancode.com/skillup-uploads/cms-media/109493_4514_CZE_GRE_fc-web.jpg?hash=eyJrZXkiOiJza2lsbHVwLXVwbG9hZHMvY21zLW1lZGlhLzEwOTQ5M180NTE0X0NaRV9HUkVfZmMtd2ViLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJmaXQiOiJjb3ZlciIsInBvc2l0aW9uIjoidG9wIiwid2lkdGgiOjM2MCwiaGVpZ2h0IjoyMDJ9LCJ3ZWJwIjp7InF1YWxpdHkiOjYwLCJsb3NzbGVzcyI6ZmFsc2V9fSwib3V0cHV0Rm9ybWF0Ijoid2VicCJ9",
+    "body": "https://dai.google.com/linear/hls/event/5QlOqAE5QC27ImlxEOVA_w/master.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "ISL",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indian_Super_League_logo.svg/315px-Indian_Super_League_logo.svg.png",
+    "body": "http://squaresyncsystems.rf.gd/isl.php",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Flowers HD",
+    "image": "https://www.flowerstv.in/wp-content/uploads/2021/08/Flowers-Logo-alpha-1.png",
+    "body": "http://squaresyncsystems.rf.gd/flowers.php",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Flowers HD (L)",
+    "image": "https://www.flowerstv.in/wp-content/uploads/2021/08/Flowers-Logo-alpha-1.png",
+    "body": "http://192.168.2.12:8081/live/stream.m3u8",
+    "genre": "tv",
+    "type": "web",
+    "status": "offline"
+  },
+  {
+    "title": "Flowers USA",
+    "image": "https://nowmetv.net/wp-content/uploads/2024/04/FLOWERSUSA.webp",
+    "body": "https://rebrand.ly/flowers-tv",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Flowers TV",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
+    "body": "https://jio.hellojanani.online/play/634?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "24 News HD",
+    "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
+    "body": "http://squaresyncsystems.rf.gd/yt.php?url=https://www.youtube.com/watch?v=1wECsnGZcfc",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Reporter TV",
+    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png",
+    "body": "http://squaresyncsystems.rf.gd/yt.php?url=https://www.youtube.com/watch?v=HGOiuQUwqEw",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Asianet News HD",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_News.png",
+    "body": "https://vidcdn.vidgyor.com/asianet-origin/liveabr/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Manorama News HD",
+    "image": "https://i.ytimg.com/vi/SokLD_NbOgg/maxresdefault.jpg",
+    "body": "http://squaresyncsystems.rf.gd/yt.php?url=https://www.youtube.com/watch?v=tgBTspqA5nY",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Mathrubumi News HD",
+    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",
+    "body": "http://squaresyncsystems.rf.gd/yt.php?url=https://www.youtube.com/watch?v=YGEgelAiUf0",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "News18 Keralam",
+    "image": "https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027920_channel_1533906346_channel_1533120932_News18-Kerala11.png",
+    "body": "http://squaresyncsystems.rf.gd/yt.php?url=https://www.youtube.com/watch?v=58XWq-03T0Y",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Media One HD",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/62/Media_One_Logo.png",
+    "body": "http://squaresyncsystems.rf.gd/yt.php?url=https://www.youtube.com/watch?v=GIT1lX0NdHo",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Surya TV HD",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
+    "body": "https://jio.hellojanani.online/play/900?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Mazhavil Manorama",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
+    "body": "https://jio.hellojanani.online/play/844?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Kairali TV",
+    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
+    "body": "https://jio.hellojanani.online/play/710?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Kairali WE",
+    "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
+    "body": "https://jio.hellojanani.online/play/731?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Flowers TV",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
+    "body": "http://192.168.1.123:8088/app/live.php?cid=Flower_TV&id=634",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Surya Comedy",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",
+    "body": "https://jio.hellojanani.online/play/1662?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Surya Music",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",
+    "body": "https://jio.hellojanani.online/play/747?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Surya Movies",
+    "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
+    "body": "https://jio.hellojanani.online/play/1754?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Amrita TV",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
+    "body": "https://jio.hellojanani.online/play/723?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Kappa TV",
+    "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
+    "body": "https://jio.hellojanani.online/play/786?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Kochu TV",
+    "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
+    "body": "https://jio.hellojanani.online/play/556?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Zee Keralam HD",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
+    "body": "https://jio.hellojanani.online/play/1641?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Asianet HD",
+    "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_465/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11247-j9iw5gyw-v3/imageContent-11247-j9iw5gyw-m3.jpg",
+    "body": "https://indo51.gcdn.co/MALYLAM-AsianetHD/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Asianet Plus",
+    "image": "https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/1487/661487-h",
+    "body": "https://indo51.gcdn.co/MALYLAM-AsianetPlus/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Safari TV",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Safari_TV.png",
+    "body": "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kite-Victers",
+    "image": "https://dreamdth.com/wp-content/uploads/2020/05/Kite-Victers-1024x1024.jpg",
+    "body": "https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Kaumudi TV",
+    "image": "https://pbs.twimg.com/profile_images/717237366633541632/-akjDlPH_400x400.jpg",
+    "body": "https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "DD Malayalam",
+    "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
+    "body": "https://jio.hellojanani.online/play/699?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "SunTV HD",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",
+    "body": "https://jio.hellojanani.online/play/896?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "KTV HD",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",
+    "body": "https://jio.hellojanani.online/play/894?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Sun Music HD",
+    "image": "https://sund-images.sunnxt.com/9013/250x250_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
+    "body": "https://jio.hellojanani.online/play/895?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Zee Tamil HD",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
+    "body": "https://jio.hellojanani.online/play/1356?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Zee Tamil",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil.png",
+    "body": "https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetamil/default/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Zee Thirai",
+    "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
+    "body": "https://jio.hellojanani.online/play/2256?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Zee Cinema HD",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
+    "body": "https://jio.hellojanani.online/play/165?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Rasi TV",
+    "image": "https://drive.google.com/uc?export=download&id=1BYar9WOzFSRb7rYIRoOsVrkp3Xxwgi2s",
+    "body": "http://rasinetworks.in:1935/rasitv/rasitv.stream_aac/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Rasi Movies",
+    "image": "https://drive.google.com/uc?export=download&id=1Baip34f0XMW13QXUagoti6rnBsqizSNr",
+    "body": "http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Rasi Malayalam",
+    "image": "https://drive.google.com/uc?export=download&id=1BO7yZbTnNk50gYPNOq7XUFTBE9HuaeF1",
+    "body": "http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Rasi Hollywood",
+    "image": "https://drive.google.com/uc?export=download&id=1BkE-JpqSm8FFG7fuBGHmk0ddXnjndfwv",
+    "body": "http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Rasi Hindi",
+    "image": "https://drive.google.com/uc?export=download&id=1Be31XpZ3Na6_mB1l5CBppsVdB7hdbpyQ",
+    "body": "http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 1",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 2",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 3",
+    "image": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 4",
+    "image": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png",
+    "body": "https://dai.google.com/linear/hls/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Ten 5",
+    "image": "https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png",
+    "body": "https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Six",
+    "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/sony-six-hd-logo-300x300.jpg",
+    "body": "https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "offline"
+  },
+  {
+    "title": "Sony Pix HD",
+    "image": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Sony Yay",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Cartoon Network",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",
+    "body": "https://jio.hellojanani.online/play/817?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Pogo",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",
+    "body": "https://jio.hellojanani.online/play/542?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Discovery Kids",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",
+    "body": "https://jio.hellojanani.online/play/550?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Nick",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",
+    "body": "https://jio.hellojanani.online/play/1340?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "iLove",
+    "image": "https://drive.google.com/uc?export=download&id=1C0zqVba4HYDMhXe6wSXJaWzt6Jd1A8oJ",
+    "body": "https://jio.hellojanani.online/play/1267?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "MTV Beats HD",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png",
+    "body": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/MTV_Beats_HD_voot_MOB/Fallback/index.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "Zoom",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zoom.png",
+    "body": "https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8",
+    "genre": "tv",
+    "type": "hls",
+    "status": "online"
+  },
+  {
+    "title": "&Flix HD",
+    "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",
+    "body": "https://jio.hellojanani.online/play/1322?q=high",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  }
+]
