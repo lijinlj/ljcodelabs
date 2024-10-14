@@ -1,8 +1,17 @@
 [
   {
+    "title": "Kondal",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjA0ZmIyNzgtOWRmZS00MzhhLWIyNTMtYzg5MTFlMjI0NjlmXkEyXkFqcGc@._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/Kondal.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "GOAT",
     "image": "https://img1.imageride.net/images/2024/09/26/GXWb5DtbAAAjdqa---Copy.jpg",
-    "body": "http://103.153.93.18:15383/media/TheGreatestofAllTime.mkv",
+    "body": "http://103.153.93.18:15383/movies/TheGreatestofAllTime.mkv",
     "genre": "movie",
     "type": "web_vlc",
     "status": "online",
@@ -11,7 +20,7 @@
   {
     "title": "Stree 2",
     "image": "https://images.moviebuff.com/62f4a0e8-805f-4694-a8db-e4b5818d209f?w=1000",
-    "body": "http://103.153.93.18:15383/media/Stree2.mkv",
+    "body": "http://103.153.93.18:15383/movies/Stree2.mkv",
     "genre": "movie",
     "type": "web_vlc",
     "status": "online",
