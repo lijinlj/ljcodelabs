@@ -1,5 +1,14 @@
 [
   {
+    "title": "Devara",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzUwZTM1ZDEtZGViOC00YmUxLWEwNWQtNGIyMzE2NWZkYzUyXkEyXkFqcGc@._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/Devara.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "Kondal",
     "image": "https://m.media-amazon.com/images/M/MV5BYjA0ZmIyNzgtOWRmZS00MzhhLWIyNTMtYzg5MTFlMjI0NjlmXkEyXkFqcGc@._V1._SY500.jpg",
     "body": "http://103.153.93.18:15381/movies/Kondal.mkv",
