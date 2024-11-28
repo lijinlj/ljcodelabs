@@ -1,5 +1,14 @@
 [
   {
+    "title": "Lucky Baskhar",
+    "image": "https://m.media-amazon.com/images/M/MV5BNjc2NTkxNzQtZDcxNS00MzczLTkzOGYtMjAwYzJjMzFjNWJhXkEyXkFqcGc@._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/LuckyBaskhar.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "Kishkinda Kandam",
     "image": "https://m.media-amazon.com/images/M/MV5BNjBkNDMzYzktZjBjMy00ZmU3LTk0MDEtNzAzNGFjMGE4MDQyXkEyXkFqcGc@._V1._SY500.jpg",
     "body": "http://103.153.93.18:15381/movies/KishkindaKandam.mkv",
