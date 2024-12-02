@@ -1,5 +1,14 @@
 [
   {
+    "title": "Kanguva",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e8/Kanguva_poster.jpg",
+    "body": "http://103.153.93.18:15381/movies/Kanguva.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "CID Moosa",
     "image": "https://content1.jdmagicbox.com/comp/jd_social/news/2018aug06/image-201238-phzxv5hnvi.jpg",
     "body": "http://103.153.93.18:15381/movies/CIDMoosa.mkv",
