@@ -69,7 +69,7 @@
     "body": "https://cricketsamay365.pages.dev/Jio",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "IND vs SA",
@@ -77,12 +77,12 @@
     "body": "https://jcevents.jiocinema.com:443/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1731760631~acl=%2F*~id=f4c09eb8043382bb08b4d35d6ae10752~data=hdntl~hmac=0142f310e4c58f7aa86819dcfe17232206656f8ab99ba969949aef1ed43ceaed/JC_Sports18_1HD.m3u8",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "ISL",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indian_Super_League_logo.svg/315px-Indian_Super_League_logo.svg.png",
-    "body": "http://squaresyncsystems.rf.gd/isl.php",
+    "body": "https://api.hellojanani.online/jtv/isl",
     "genre": "tv",
     "type": "web",
     "status": "online"
