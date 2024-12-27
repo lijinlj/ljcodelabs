@@ -4,18 +4,58 @@
     "image": "https://img1.imageride.net/images/2024/12/26/GfpUBxtbsAEha9h.jpg",
     "episode": [
                   {
-                   "title": "",
+                   "title": "Bread and Lottery",
                    "year": "Episode 01", 
                    "image": "none", 
-                   "body": "https://ftvserver.000webhostapp.com/vidnext.php/?s=MzQ4MDE3",
+                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E01.mkv",
                    "subtitle": "none",
                    "type": "none"
                   },
                   {
-                   "title": "",
+                   "title": "Halloween Party",
                    "year": "Episode 02", 
                    "image": "none", 
-                   "body": "https://ftvserver.000webhostapp.com/vidnext.php/?s=MzQ4Mzg4",
+                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E02.mkv",
+                   "subtitle": "none",
+                   "type": "none"
+                  },
+                  {
+                   "title": "001",
+                   "year": "Episode 03", 
+                   "image": "none", 
+                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E03.mkv",
+                   "subtitle": "none",
+                   "type": "none"
+                  },
+                  {
+                   "title": "Six Legs",
+                   "year": "Episode 04", 
+                   "image": "none", 
+                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E04.mkv",
+                   "subtitle": "none",
+                   "type": "none"
+                  },
+                  {
+                   "title": "One More Game",
+                   "year": "Episode 05", 
+                   "image": "none", 
+                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E05.mkv",
+                   "subtitle": "none",
+                   "type": "none"
+                  },
+                  {
+                   "title": "O X",
+                   "year": "Episode 06", 
+                   "image": "none", 
+                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E06.mkv",
+                   "subtitle": "none",
+                   "type": "none"
+                  },
+                  {
+                   "title": "Friend or Foe",
+                   "year": "Episode 07", 
+                   "image": "none", 
+                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E07.mkv",
                    "subtitle": "none",
                    "type": "none"
                   },
