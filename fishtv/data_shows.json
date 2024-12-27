@@ -1,5 +1,31 @@
 [
   {
+    "title": "Squid Game 2",
+    "image": "https://img1.imageride.net/images/2024/12/26/GfpUBxtbsAEha9h.jpg",
+    "episode": [
+                  {
+                   "title": "",
+                   "year": "Episode 01", 
+                   "image": "none", 
+                   "body": "https://ftvserver.000webhostapp.com/vidnext.php/?s=MzQ4MDE3",
+                   "subtitle": "none",
+                   "type": "none"
+                  },
+                  {
+                   "title": "",
+                   "year": "Episode 02", 
+                   "image": "none", 
+                   "body": "https://ftvserver.000webhostapp.com/vidnext.php/?s=MzQ4Mzg4",
+                   "subtitle": "none",
+                   "type": "none"
+                  },
+               ],
+    "genre": "show",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "Brinda Season 1",
     "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Brinda.jpg",
     "episode": [
