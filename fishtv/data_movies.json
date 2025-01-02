@@ -1,5 +1,23 @@
 [
   {
+    "title": "Barroz",
+    "image": "https://pbs.twimg.com/media/GgCWm3mbYAAN0Uu?format=jpg",
+    "body": "http://103.153.93.18:15381/movies/Barroz.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
+    "title": "Extra Decent",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTkxNTE1ZWEtYWY5Yi00ODY5LThkZGYtZDhiZTliYzljNTFmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "body": "http://103.153.93.18:15381/movies/ED.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "Marco",
     "image": "https://img1.imageride.net/images/2024/12/20/GfOqLoGXUAAZpau.jpg",
     "body": "http://103.153.93.18:15381/movies/Marco.mkv",
