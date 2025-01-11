@@ -1,5 +1,14 @@
 [
   {
+    "title": "Salaar",
+    "image": "https://m.media-amazon.com/images/M/MV5BMmU4ZTM0MTctZTQ3Ny00YjZmLWFhNzEtOGYzMDk0ZjcyNmYzXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/Salaar.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2023"
+  },
+  {
     "title": "Leo",
     "image": "https://m.media-amazon.com/images/M/MV5BODhlNmFlMjAtNjM1OC00MGRiLThhNTAtNjA2NDQ0NWZhN2Y1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "body": "http://103.153.93.18:15381/movies/Leo.mkv",
