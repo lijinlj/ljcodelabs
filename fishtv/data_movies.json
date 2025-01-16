@@ -1,5 +1,23 @@
 [
   {
+    "title": "Riffle Club",
+    "image": "https://m.media-amazon.com/images/M/MV5BMzllNzEzYTktODY5NS00ZDQxLTlkYjAtYTRlY2ExMWZmY2M3XkEyXkFqcGc@._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/RiffleClub.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
+    "title": "Pani",
+    "image": "https://m.media-amazon.com/images/M/MV5BODQ4NmQ4MmEtNGU0Yy00MWQxLWEyYjktNDMxY2MyOWU5MDFmXkEyXkFqcGc@._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/Pani.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "Salaar",
     "image": "https://m.media-amazon.com/images/M/MV5BMmU4ZTM0MTctZTQ3Ny00YjZmLWFhNzEtOGYzMDk0ZjcyNmYzXkEyXkFqcGdeQXVyMTUyNjIwMDEw._V1._SY500.jpg",
     "body": "http://103.153.93.18:15381/movies/Salaar.mkv",
