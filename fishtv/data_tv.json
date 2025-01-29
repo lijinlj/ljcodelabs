@@ -84,7 +84,7 @@
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://api.hellojanani.online/jtv/yt?url=https://www.youtube.com/watch?v=1wECsnGZcfc",
     "genre": "tv",
-    "type": "web_vlc",
+    "type": "hls",
     "status": "online"
   },
   {
@@ -92,7 +92,7 @@
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png",
     "body": "https://api.hellojanani.online/jtv/yt?url=https://www.youtube.com/watch?v=HGOiuQUwqEw",
     "genre": "tv",
-    "type": "web_vlc",
+    "type": "hls",
     "status": "online"
   },
   {
