@@ -1,5 +1,14 @@
 [
   {
+    "title": "Adios Amigos",
+    "image": "https://m.media-amazon.com/images/M/MV5BZWRhNjlkNGMtNjA2MC00ZmIzLTk2MjYtNDZlY2M2N2EyMjdkXkEyXkFqcGc@._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/AdiosAmigos.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2024"
+  },
+  {
     "title": "Marco",
     "image": "https://img1.imageride.net/images/2024/12/20/GfOqLoGXUAAZpau.jpg",
     "body": "http://103.153.93.18:15381/movies/Marco2.mkv",
