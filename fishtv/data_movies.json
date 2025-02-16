@@ -1,5 +1,14 @@
 [
   {
+    "title": "Max",
+    "image": "https://pbs.twimg.com/media/GfoZQ5OXsAACEo1?format=jpg&name=large",
+    "body": "http://103.153.93.18:15381/movies/Max.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2025"
+  },
+  {
     "title": "Adios Amigos",
     "image": "https://m.media-amazon.com/images/M/MV5BZWRhNjlkNGMtNjA2MC00ZmIzLTk2MjYtNDZlY2M2N2EyMjdkXkEyXkFqcGc@._V1._SY500.jpg",
     "body": "http://103.153.93.18:15381/movies/AdiosAmigos.mkv",
