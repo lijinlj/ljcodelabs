@@ -1,5 +1,14 @@
 [
   {
+    "title": "Vidaamuyarchi",
+    "image": "https://img1.imageride.net/images/2025/02/05/vidatmved46f6ca629f94a4.jpg",
+    "body": "http://103.153.93.18:15381/movies/Vidaamuyarchi.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2025"
+  },
+  {
     "title": "Max",
     "image": "https://pbs.twimg.com/media/GfoZQ5OXsAACEo1?format=jpg&name=large",
     "body": "http://103.153.93.18:15381/movies/Max.mkv",
