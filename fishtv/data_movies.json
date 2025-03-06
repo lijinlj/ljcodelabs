@@ -1,5 +1,14 @@
 [
   {
+    "title": "Rekhachithram",
+    "image": "https://m.media-amazon.com/images/M/MV5BZDIzMjA3NDEtMjIxOS00MWUyLWI0NTAtNmY1NzAzZDNkNDcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "body": "http://103.153.93.18:15381/movies/Rekhachithram.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2025"
+  },
+  {
     "title": "Dragon",
     "image": "https://m.media-amazon.com/images/M/MV5BZGVhMjFmMmQtMDE5Zi00NDdjLTgxMzktOWIxZTBlNmViNDMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "body": "http://103.153.93.18:15381/movies/Dragon.mkv",
