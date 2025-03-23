@@ -1,10 +1,11 @@
 [
   {
     "title": "Cook Up A Storm",
-    "image": "https://m.media-amazon.com/images/M/MV5BZDVmN2YxN2EtM2UxOS00MzUyLTgzNGItNGQ3MjRmNmI0MTY1XkEyXkFqcGc@._V1._SY500.jpg",
-    "body": "https://asiental.com/cook-up-a-storm/",
+    "image": "https://malayalamsubtitles.org/wp-content/uploads/2020/01/1098.-Cook-up-a-storm-768x1084.jpg",
+    "body": "http://103.153.93.18:15381/movies/CUAS.mkv",
+    "subtitle": "http://103.153.93.18:15381/movies/subtitle/CUAS.srt",
     "genre": "movie",
-    "type": "web_vlc",
+    "type": "web",
     "status": "online",
     "year": "2017"
   },
