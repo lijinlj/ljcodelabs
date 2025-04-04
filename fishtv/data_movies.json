@@ -2,7 +2,7 @@
   {
     "title": "Test",
     "image": "https://m.media-amazon.com/images/M/MV5BOWRmYjAwZjktZGVjMi00OWJjLTllMDktNjYyOGQzNGRjMDU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
-    "body": "http://103.153.93.18:15381/movies/OJJ.mkv",
+    "body": "http://103.153.93.18:15381/movies/Test.mkv",
     "genre": "movie",
     "type": "web_vlc",
     "status": "online",
