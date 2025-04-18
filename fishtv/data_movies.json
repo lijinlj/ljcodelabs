@@ -1,5 +1,13 @@
 [
-  
+  {
+    "title": "Daveed",
+    "image": "https://m.media-amazon.com/images/M/MV5BMGY0OTA0M2ItMDhhOS00YjdkLTk4N2MtNTBiZTBmZGJlYzhkXkEyXkFqcGc@._V1._SY500.jpg",
+    "body": "http://103.153.93.18:15381/movies/Daveed.mkv",
+    "genre": "movie",
+    "type": "web_vlc",
+    "status": "online",
+    "year": "2025"
+  },
   {
     "title": "L2: Empuraan",
     "image": "https://m.media-amazon.com/images/M/MV5BYWRiNmUxMjMtZjhiZC00MGZjLThiNDYtYzlhYWQ3MmMwOTY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
