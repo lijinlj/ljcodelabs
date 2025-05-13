@@ -9,11 +9,11 @@
     "year": "2025"
   },
   {
-    "title": "vlcGood Bad Ugly",
+    "title": "Good Bad Ugly",
     "image": "https://m.media-amazon.com/images/M/MV5BZTViMDEwZjgtMjEzZS00YWQ1LWI0ODctMWIzNTE4Y2Y5Y2Y2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "body": "https://pub-c457a64d90034e34aba3bb1cb1734650.r2.dev/Good.Bad.Ugly.2025.4K.2160p.SDR.10Bit.NF.WEB.DL.MULTI.DDP5.1.HEVC.x265.HDHub4u.Ms.mkv",
     "genre": "movie",
-    "type": "vlc",
+    "type": "web_vlc",
     "status": "online",
     "year": "2025"
   },
