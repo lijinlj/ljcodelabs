@@ -7,15 +7,15 @@
                    "title": "Pilot",
                    "year": "Episode 01", 
                    "image": "none", 
-                   "body": "https://www.cineby.app/tv/1396/1/1?play=true",
+                   "body": "https://api.hellojanani.online/hdrive/player/?url=https://hubdrive.fit/file/1693247918",
                    "subtitle": "none",
                    "type": "none"
                   },
                   {
-                   "title": "Halloween Party",
+                   "title": "Halmm",
                    "year": "Episode 02", 
                    "image": "none", 
-                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E02.mkv",
+                   "body": "https://api.hellojanani.online/hdrive/player/?url=",
                    "subtitle": "none",
                    "type": "none"
                   },
@@ -23,7 +23,7 @@
                    "title": "001",
                    "year": "Episode 03", 
                    "image": "none", 
-                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E03.mkv",
+                   "body": "https://api.hellojanani.online/hdrive/player/?url=",
                    "subtitle": "none",
                    "type": "none"
                   },
@@ -31,7 +31,7 @@
                    "title": "Six Legs",
                    "year": "Episode 04",
                    "image": "none", 
-                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E04.mkv",
+                   "body": "https://api.hellojanani.online/hdrive/player/?url=",
                    "subtitle": "none",
                    "type": "none"
                   },
@@ -39,7 +39,7 @@
                    "title": "One More Game",
                    "year": "Episode 05", 
                    "image": "none", 
-                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E05.mkv",
+                   "body": "https://api.hellojanani.online/hdrive/player/?url=",
                    "subtitle": "none",
                    "type": "none"
                   },
@@ -47,7 +47,7 @@
                    "title": "O X",
                    "year": "Episode 06", 
                    "image": "none", 
-                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E06.mkv",
+                   "body": "https://api.hellojanani.online/hdrive/player/?url=",
                    "subtitle": "none",
                    "type": "none"
                   },
@@ -55,7 +55,7 @@
                    "title": "Friend or Foe",
                    "year": "Episode 07", 
                    "image": "none", 
-                   "body": "http://103.153.93.18:15381/movies/SG02/SG02E07.mkv",
+                   "body": "https://api.hellojanani.online/hdrive/player/?url=",
                    "subtitle": "none",
                    "type": "none"
                   },
