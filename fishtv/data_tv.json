@@ -98,9 +98,9 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://api.hellojanani.online/jtv/yt?url=https://m.youtube.com/watch?v=1wECsnGZcfc",
+    "body": "https://api.hellojanani.online/jtv/ytlink?url=https://m.youtube.com/watch?v=1wECsnGZcfc",
     "genre": "tv",
-    "type": "web",
+    "type": "hls",
     "status": "online"
   },
   {
