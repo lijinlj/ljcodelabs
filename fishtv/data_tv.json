@@ -1,67 +1,11 @@
 [
   {
-    "title": "FC Japan U20 vs Korea Republic U20",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/118837_4882_JPN_KOR_fc-Web.jpg",
-    "body": "https://dai.google.com/linear/hls/event/FM4CU57iQtyzU-_oqV02sg/master.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "FC Syria U20 vs Thailand U20",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/118838_4882_SYR_THA_fc-Web.jpg",
-    "body": "https://dai.google.com/linear/hls/event/c86yVma1RxijXBmV4fga0g/master.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "FC South Australia vs Tasmania",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/110419_4543_SAU_TAS_fc-Web_1739782530681.jpg",
-    "body": "https://dai.google.com/linear/hls/event/qYPRpPPWRcqVt2oBWa9ZRw/master.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "FC City Challengers vs Talanoa Tigers",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_old_v1.jpg",
-    "body": "https://dai.google.com/linear/hls/event/pEZLr3cLR52v0Lb1piiIlA/master.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "FC Wild Woods Warriors vs Hiims Hawks",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/Chandigarh-T20_ols_v3.jpg",
-    "body": "https://dai.google.com/linear/hls/event/6XWI2FtaTVmE9hp3LO3NuQ/master.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "online"
-  },
-  {
-    "title": "IND vs SA",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/111684_4589_SHA_ABD_fc-web.jpg",
-    "body": "https://cricketsamay365.pages.dev/Jio",
-    "genre": "tv",
-    "type": "web",
-    "status": "offline"
-  },
-  {
-    "title": "IND vs SA",
-    "image": "https://www.fancode.com/skillup-uploads/cms-media/112015_4596_CCC_WIC_fc-web.jpg",
-    "body": "https://jcevents.jiocinema.com:443/bpk-tv/JC_Sports18_1HD/JCHLS/hdntl=exp=1731760631~acl=%2F*~id=f4c09eb8043382bb08b4d35d6ae10752~data=hdntl~hmac=0142f310e4c58f7aa86819dcfe17232206656f8ab99ba969949aef1ed43ceaed/JC_Sports18_1HD.m3u8",
-    "genre": "tv",
-    "type": "web",
-    "status": "offline"
-  },
-  {
     "title": "ISL",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indian_Super_League_logo.svg/315px-Indian_Super_League_logo.svg.png",
     "body": "https://api.hellojanani.online/jtv/isl",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers HD",
