@@ -1,8 +1,32 @@
 [
   {
-    "title": "Asia Cup",
-    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indian_Super_League_logo.svg/315px-Indian_Super_League_logo.svg.png",
-    "body": "https://tv1.webtvflix.store/live/asia-cup/",
+    "title": "Asia Cup 1",
+    "image": "https://en.m.wikipedia.org/wiki/File:Asia_Cup_Logo.png",
+    "body": "https://cricstreamline365-2.pages.dev/ch?id=ten-1",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Asia Cup 2",
+    "image": "https://en.m.wikipedia.org/wiki/File:Asia_Cup_Logo.png",
+    "body": "https://cricstreamline365-2.pages.dev/ch?id=ten-3",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Asia Cup 3",
+    "image": "https://en.m.wikipedia.org/wiki/File:Asia_Cup_Logo.png",
+    "body": "https://cricstreamline365-2.pages.dev/ch?id=ten-3",
+    "genre": "tv",
+    "type": "web",
+    "status": "online"
+  },
+  {
+    "title": "Asia Cup 4",
+    "image": "https://en.m.wikipedia.org/wiki/File:Asia_Cup_Logo.png",
+    "body": "https://cricstreamline365-2.pages.dev/ch?id=ten-5",
     "genre": "tv",
     "type": "web",
     "status": "online"
