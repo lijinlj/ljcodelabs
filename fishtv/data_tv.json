@@ -1,11 +1,11 @@
 [
   {
-    "title": "ISL",
+    "title": "Asia Cup",
     "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b0/Indian_Super_League_logo.svg/315px-Indian_Super_League_logo.svg.png",
-    "body": "https://api.hellojanani.online/jtv/isl",
+    "body": "https://tv1.webtvflix.store/live/asia-cup/",
     "genre": "tv",
     "type": "web",
-    "status": "offline"
+    "status": "online"
   },
   {
     "title": "Flowers HD",
