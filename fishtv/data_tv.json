@@ -5,7 +5,7 @@
     "body": "https://cricstreamline365-2.pages.dev/ch?id=tnt-3",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asia Cup 2",
@@ -13,7 +13,7 @@
     "body": "https://cricstreamline365-2.pages.dev/ch?id=ten-3",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asia Cup 3",
@@ -21,7 +21,7 @@
     "body": "https://cricstreamline365-2.pages.dev/ch?id=star-2",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Asia Cup 4",
@@ -29,7 +29,7 @@
     "body": "https://cricstreamline365-2.pages.dev/ch?id=ten-5",
     "genre": "tv",
     "type": "web",
-    "status": "online"
+    "status": "offline"
   },
   {
     "title": "Flowers HD",
@@ -58,7 +58,7 @@
   {
     "title": "Flowers TV",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Flower_TV.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=634",
+    "body": "https://api.hellojanani.space/jtv/channel?id=634",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -66,7 +66,7 @@
   {
     "title": "24 News HD",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://api.hellojanani.online/jtv/ytlink?url=https://m.youtube.com/watch?v=1wECsnGZcfc",
+    "body": "https://api.hellojanani.space/jtv/ytlink?url=https://m.youtube.com/watch?v=1wECsnGZcfc",
     "genre": "tv",
     "type": "hls",
     "status": "online"
@@ -74,7 +74,7 @@
   {
     "title": "Reporter TV",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Reporter_TV.png",
-    "body": "https://api.hellojanani.online/jtv/yt?url=https://www.youtube.com/watch?v=nObUcHKZEGY",
+    "body": "https://api.hellojanani.space/jtv/yt?url=https://www.youtube.com/watch?v=nObUcHKZEGY",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -90,7 +90,7 @@
   {
     "title": "Manorama News HD",
     "image": "https://i.ytimg.com/vi/SokLD_NbOgg/maxresdefault.jpg",
-    "body": "https://api.hellojanani.online/jtv/yt?url=https://www.youtube.com/watch?v=tgBTspqA5nY",
+    "body": "https://api.hellojanani.space/jtv/yt?url=https://www.youtube.com/watch?v=tgBTspqA5nY",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -98,7 +98,7 @@
   {
     "title": "Mathrubumi News HD",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Mathrubhumi_News.png",
-    "body": "https://api.hellojanani.online/jtv/yt?url=https://www.youtube.com/watch?v=YGEgelAiUf0",
+    "body": "https://api.hellojanani.space/jtv/yt?url=https://www.youtube.com/watch?v=YGEgelAiUf0",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -106,7 +106,7 @@
   {
     "title": "News18 Keralam",
     "image": "https://vimg.voot.com/dimg2/voot-cms/include/upload/pwa-images/channel-logos/channel_1535027920_channel_1533906346_channel_1533120932_News18-Kerala11.png",
-    "body": "https://api.hellojanani.online/jtv/yt?url=https://www.youtube.com/watch?v=GOB-SVApPUU",
+    "body": "https://api.hellojanani.space/jtv/yt?url=https://www.youtube.com/watch?v=GOB-SVApPUU",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -114,7 +114,7 @@
   {
     "title": "Surya TV HD",
     "image": "https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/surya-tv-hd-logo-300x300.jpg",
-    "body": "https://api.hellojanani.online/jtv/channel?id=900",
+    "body": "https://api.hellojanani.space/jtv/channel?id=900",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -122,7 +122,7 @@
   {
     "title": "Mazhavil Manorama",
     "image": "https://res.cloudinary.com/tatasky/image/fetch/f_auto,fl_lossy,q_auto,h_300,w_530/http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11575-j9jv8mqg-v1/imageContent-11575-j9jv8mqg-m1.jpg",
-    "body": "https://api.hellojanani.online/jtv/channel?id=844",
+    "body": "https://api.hellojanani.space/jtv/channel?id=844",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -130,7 +130,7 @@
   {
     "title": "Kairali TV",
     "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Kairali_TV.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=710",
+    "body": "https://api.hellojanani.space/jtv/channel?id=710",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -138,7 +138,7 @@
   {
     "title": "Kairali WE",
     "image": "https://image.airtel.tv/MWTV/MWTV_LIVETVCHANNEL_520/PORTRAIT/262Ddohy.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=731",
+    "body": "https://api.hellojanani.space/jtv/channel?id=731",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -154,7 +154,7 @@
   {
     "title": "Surya Comedy",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Comedy.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=1662",
+    "body": "https://api.hellojanani.space/jtv/channel?id=1662",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -162,7 +162,7 @@
   {
     "title": "Surya Music",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Surya_Music.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=747",
+    "body": "https://api.hellojanani.space/jtv/channel?id=747",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -170,7 +170,7 @@
   {
     "title": "Surya Movies",
     "image": "https://sund-images.sunnxt.com/9019/250x250_71ddcc0b-16e7-48e9-9998-aa023200f4bc.jpg",
-    "body": "https://api.hellojanani.online/jtv/channel?id=1754",
+    "body": "https://api.hellojanani.space/jtv/channel?id=1754",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -178,7 +178,7 @@
   {
     "title": "Amrita TV",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=723",
+    "body": "https://api.hellojanani.space/jtv/channel?id=723",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -186,7 +186,7 @@
   {
     "title": "Kappa TV",
     "image": "https://image3.mouthshut.com/images/imagesp/925832994s.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=786",
+    "body": "https://api.hellojanani.space/jtv/channel?id=786",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -194,7 +194,7 @@
   {
     "title": "Kochu TV",
     "image": "https://sund-images.sunnxt.com/26573/250x250_5787336f-08b9-480f-9c97-3db09999b558.jpg",
-    "body": "https://api.hellojanani.online/jtv/channel?id=556",
+    "body": "https://api.hellojanani.space/jtv/channel?id=556",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -202,7 +202,7 @@
   {
     "title": "Zee Keralam HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=1641",
+    "body": "https://api.hellojanani.space/jtv/channel?id=1641",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -250,7 +250,7 @@
   {
     "title": "DD Malayalam",
     "image": "https://image.airtel.tv/content/MWTV/LIVETVCHANNEL/MWTV_LIVETVCHANNEL_790/Thrissur-Pooram-2016-Live.jpg",
-    "body": "https://api.hellojanani.online/jtv/channel?id=699",
+    "body": "https://api.hellojanani.space/jtv/channel?id=699",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -258,7 +258,7 @@
   {
     "title": "SunTV HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_TV_HD.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=896",
+    "body": "https://api.hellojanani.space/jtv/channel?id=896",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -266,7 +266,7 @@
   {
     "title": "KTV HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/KTV_HD.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=894",
+    "body": "https://api.hellojanani.space/jtv/channel?id=894",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -274,7 +274,7 @@
   {
     "title": "Sun Music HD",
     "image": "https://sund-images.sunnxt.com/9013/250x250_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg",
-    "body": "https://api.hellojanani.online/jtv/channel?id=895",
+    "body": "https://api.hellojanani.space/jtv/channel?id=895",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -282,7 +282,7 @@
   {
     "title": "Zee Tamil HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Tamil_HD.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=1356",
+    "body": "https://api.hellojanani.space/jtv/channel?id=1356",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -298,7 +298,7 @@
   {
     "title": "Zee Thirai",
     "image": "https://drive.google.com/uc?export=download&id=1AZoNdPLktKSx-AkYeU2tcTaPn1X2NOHy",
-    "body": "https://api.hellojanani.online/jtv/channel?id=2256",
+    "body": "https://api.hellojanani.space/jtv/channel?id=2256",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -306,7 +306,7 @@
   {
     "title": "Zee Cinema HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=165",
+    "body": "https://api.hellojanani.space/jtv/channel?id=165",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -418,7 +418,7 @@
   {
     "title": "Cartoon Network",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Tamil.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=817",
+    "body": "https://api.hellojanani.space/jtv/channel?id=817",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -426,7 +426,7 @@
   {
     "title": "Pogo",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Tamil.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=542",
+    "body": "https://api.hellojanani.space/jtv/channel?id=542",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -434,7 +434,7 @@
   {
     "title": "Discovery Kids",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_Tamil.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=550",
+    "body": "https://api.hellojanani.space/jtv/channel?id=550",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -442,7 +442,7 @@
   {
     "title": "Nick",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Tamil.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=1340",
+    "body": "https://api.hellojanani.space/jtv/channel?id=1340",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -450,7 +450,7 @@
   {
     "title": "iLove",
     "image": "https://drive.google.com/uc?export=download&id=1C0zqVba4HYDMhXe6wSXJaWzt6Jd1A8oJ",
-    "body": "https://api.hellojanani.online/jtv/channel?id=1267",
+    "body": "https://api.hellojanani.space/jtv/channel?id=1267",
     "genre": "tv",
     "type": "web",
     "status": "online"
@@ -474,7 +474,7 @@
   {
     "title": "&Flix HD",
     "image": "https://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",
-    "body": "https://api.hellojanani.online/jtv/channel?id=1322",
+    "body": "https://api.hellojanani.space/jtv/channel?id=1322",
     "genre": "tv",
     "type": "web",
     "status": "online"
