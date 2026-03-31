@@ -68,15 +68,15 @@
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
     "body": "https://m.youtube.com/watch?v=1wECsnGZcfc",
     "genre": "tv",
-    "type": "web",
+    "type": "webx",
     "status": "online"
   },
   {
-    "title": "24 News HD",
+    "title": "24 News HD vlc",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://api.hellojanani.space/jtv/yt?url=https://m.youtube.com/watch?v=1wECsnGZcfc",
+    "body": "https://m.youtube.com/watch?v=1wECsnGZcfc",
     "genre": "tv",
-    "type": "hls",
+    "type": "web_vlc",
     "status": "online"
   },
   {
