@@ -64,12 +64,12 @@
     "status": "online"
   },
   {
-    "title": "24 News HD",
+    "title": "24 News HD web",
     "image": "https://aplatestnews.com/images/icons/tv/24news.jpg",
-    "body": "https://api.hellojanani.space/jtv/ytlink?url=https://m.youtube.com/watch?v=1wECsnGZcfc",
+    "body": "https://m.youtube.com/watch?v=1wECsnGZcfc",
     "genre": "tv",
-    "type": "hls",
-    "status": "offline"
+    "type": "web",
+    "status": "online"
   },
   {
     "title": "24 News HD",
